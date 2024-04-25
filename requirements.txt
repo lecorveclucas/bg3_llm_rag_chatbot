@@ -1,0 +1,6 @@
+llama-index
+streamlit
+nltk
+llama-cpp-python  # Install with cmake to use GPU based on given system
+llama-index-llms-llama-cpp
+llama-index-embeddings-huggingface
