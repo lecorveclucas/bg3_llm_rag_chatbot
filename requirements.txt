@@ -4,3 +4,4 @@ nltk
 llama-cpp-python  # Install with cmake to use GPU based on given system
 llama-index-llms-llama-cpp
 llama-index-embeddings-huggingface
+#CMAKE_ARGS="-DLLAMA_METAL=on" pip install -U llama-cpp-python --no-cache-dir
