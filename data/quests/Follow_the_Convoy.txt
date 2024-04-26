@@ -1,0 +1,29 @@
+Follow the Convoy : Follow the Convoy is a Quest in Baldur's Gate 3. Follow the Convoy can be acquired during Act II and it is a branching subquest for the main questline Infiltrate Moonrise Towers. Completing Quests allows players to learn more about the world and characters in Baldur's Gate 3 and earn more loot and experience to become more powerful.   
+
+Follow the Convoy Walkthrough : Arriving at the Shadow-Cursed Lands, you'll come across a Cutlist Camp, speak to the Goblin (X:158 Y:-29) who mentions using a torch to keep you safe from the shadows. There is a brazier nearby with some torch, light the brazier and the torch before heading further. You also want to make sure you have the lyre instrument from Minthara, you'll need it to summon the drow.
+Make your way down the path where you'll see some supplies and crates from the camp, you'll know you're near when you hear another member from the camp (X:84 Y-53). Speak to Warrior Gronag and then Kansif. Do not attack Kansif, simply choose a dialogue how you want to answer, and in the end, you'll have the option of:
+[PERFORMANCE] Pluck a tune..Wait here. I'll return..Attack.
+Choose the first dialogue and your character will have a DC of 16 for Performance. Regardless if you pass or fail, you'll be able to summon Kar'niss the drider. Speak to him and tell him to guide you towards Moonrise Towers. Make sure you stay close to Kar'niss to protect yourself from the shadows, the lantern he is holding repels the dark forces around. As you follow the rider, you'll stop by an abandoned building where you'll be ambushed by Harpers.
+You'll have a choice of defending the convoy or turning against the Drider. At this point, we recommend that you defend the guide and the convoy to protect your cover as a True Soul. Choosing the option of "Defend the caravan, attack the Harpers" grants approval up towards Astarion and approval down towards Gale and Karlach. Simply defeat the Harpers and after the battle, continue following Kar'niss until you reach the destination which completes this quest.
+ 
+
+Follow the Convoy Objectives : We met a group of cultists preparing to travel to Moonrise Towers. They are waiting for a guide who must be summoned using an instrument the drow Minthara possessed.
+We reached the shadow-cursed lands. We can use Minthara's instrument to summon a creature to guide us to Moonrise Towers, but we need to find the right place to play it.
+Find the cultist camp.
+The cultists cannot help us. We need to use Minthara's instrument to summon the guide ourselves..We met a group of cultists preparing to travel to Moonrise Towers. They are waiting for a guide. We should use Minthara's instrument to summon the guide..We have Minthara's instrument. We should go to the cultists' camp in the shadow-cursed lands, and use it to summon the guide.
+We summoned the drider. We should speak to him.
+We need to stay close to the drider in order to reach Moonrise Towers.
+Harpers are attacking the convoy - we must defend it.
+We defeated the Harpers and should continue following the drider.
+The drider can no longer aid us..The drider made it to Moonrise Towers..We turned against the drider and sided with the Harpers..We reached Moonrise Towers without help from the cultists.
+ 
+
+ How to unlock Follow the Convoy : Location: Ruined Battlefield.Follow the Convoy is a subquest for the primary Main Quest: Infiltrate Moonrise Towers
+ 
+
+Follow the Convoy Rewards : Rewards
+ 
+
+Follow the Convoy Notes & Tips : Notes & tips go here
+ 
+

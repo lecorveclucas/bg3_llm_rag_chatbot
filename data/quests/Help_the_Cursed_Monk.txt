@@ -1,0 +1,20 @@
+Help the Cursed Monk : Help the Cursed Monk is a Quest in Baldur's Gate 3. Help the Cursed Monk can be acquired during Act 1. Completing  Help the Cursed Monk will progress the story forward.   
+
+Help the Cursed Monk Objectives : We read the journal of a Dark Justiciar. He mentioned an amulet of great power that also made the wearer laugh. It was cast into lava.
+Travel to Baldur's Gate: We found a cursed amulet possessed by a spirit. He wants to be returned to his granddaughter in Baldur's Gate.
+We reached the Open Harnd Temple. We should look for the spirit's granddaughter - Shirra Clarwen.
+We learned that Shirra Clarwen. passed away. She is buried in a crypt under the temple. .The spirit passed Shirra's body. We agreed to take on the curse of his madness, allowing his spirit to pass on. 
+ 
+
+Help the Cursed Monk Walkthrough : Once you talk to the Sentient Amulet, you are asked to take it to the Ghost's granddaughter at Wyrm's Crossing.
+ 
+
+ How to unlock Help the Cursed Monk : Near the Adamantine Forge, there is an area filled with lava guarded by a Lava Elemental. To start the quest, head to the "isle" ahead, you can find an Adamantine Chest (X: -626, Y: 224. DC 25), that contains a Sentient Amulet. When you grab the Amulet, it will talk to you and grant you this quest..You need to pass the checks to resist the urge to laugh. If you passed perception and religion checks you will find out the ghost trapped inside the amulet is a Lathander worshiper. (Shadowheart will suggest you leave the amulet).When you reach Rivington in Act 3, you can return the amulet to Shirra in the Basement of Open Hand Temple. .Once you return the amulet to Shirra, the ghost inside will possess her body, and ask you if you would take on his madness so he may pass on .You can make an optional arcana check to see what the consequences of accepting his madness is..If you agree to accept his madness you will have to make 2 saving throws or you will get a debuff called Monk's Madness which grants a -1 or -2 to your wisdom score depending on if you succeeded on the saving throws..If you decline to take on his madness you will have to fight him. he will possess the 3 other bodies in the room and set them on you..If you focus on Shirra the battle ends when her body dies. 
+ 
+
+Help the Cursed Monk Rewards : Tasha's Hideous Laughter as an Action at the potential cost of wisdom
+ 
+
+Help the Cursed Monk Notes & Tips : Upon picking up the amulet you will need to pass a medium DC wisdom saving throw or begin to laugh..Barbarians have an advantage with the roll.
+ 
+

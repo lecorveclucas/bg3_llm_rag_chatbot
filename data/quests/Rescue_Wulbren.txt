@@ -1,0 +1,46 @@
+Rescue Wulbren : Rescue Wulbren is a Quest in Baldur's Gate 3. Rescue Wulbren can be acquired during Act 2. Completing Quests allows players to learn more about the world and characters in Baldur's Gate 3, as well as earning more loot and experience to become more powerful.   
+
+Rescue Wulbren Objectives : Go to Moonrise Towers..Find a way to get the gnomes out of jail..Give Wulfren something to break the stones..Cover the gnomes' escape.Help the gnomes to escape.Find Wulbren
+ 
+
+Rescue Wulbren Walkthrough : If you saved the Tieflings in Act 1, then once you arrive at the Last Light Inn in the Shadow Cursed Lands you will find that not all of them have made it. This quest will involve finding the captive tieflings being held in Moonrise Towers and helping them escape from the prison.
+The Moonrise Towers are located in the Southwest corner of the Shadow Cursed Lands Region. You will likely need to complete the quest Seek Protection from the Shadow Curse in order to enter the region as without the buff from the item you receive during that quest you will have a very hard time reaching this area.
+
+When you reach the Towers, you will be stopped and forced into a dialogue with a True Soul guarding the front door. The True Soul will direct you to the main audience chamber as part of the Main Quest Infiltrate Moonrise Towers, but you can ignore this and go straight to the dungeons without talking to Ketheric Thorm. Look in a room to the west of the Audience Chamber with a blood-stain trail leading to a set of stairs. Take these stairs down to reach the Moonrise Towers Prison.
+
+
+HEADING TO THE MOONRISE TOWERS PRISON : In order to find the Tieflings that were imprisoned in Moonrise Towers, you will find a stair leading to this area at (X:-175 Y:-193). Interact with the stairs here and this will take you to the Moonrise Towers Prison. If you still have a good relationship with the cultists or haven't started a fight with them, the guards will let you in without a fight. Make sure to explore each room here if you want to stock up on scrolls and elixirs. You will also find barrels and chests that you can open. As you head into the prison rooms, you will find a Scrying Eye guarding. With this sentinel, you have to make sure not to do anything suspicious while it watches in that area.
+
+You will find the Tiefling Lia standing at the prison cell with who you can engage in a conversation, this however, will be put to a stop by one of the guards watching, forbidding you from speaking to them. You will be given 3 options to respond:
+[DECEPTION] I have permission from Balthazar. Ask him..[PERSUASION] What are the prisoners going to do? Talk me to death..My apologies- won't happen again.
+Attempting the Persuasion check will require you to pass a DC of 14. When successful, you can continue talking to Lia and she tells you that the gnomes are up to something and they're working together. Urging you to find these gnomes to talk to them. Continue to go around the cells and you will find Wulbren, who is curious about how you were able to order the guard successfully. He wants to know what is your business with them. You can offer to help him for free or for a fee or tell him that you want to torment him. 
+
+If you choose to help them for free, he will want to know the reason behind this. You can attempt the Persuasion check that will require you to pass a DC of 10. Your turn to respond:
+Barcus told me you were here, and asked me to help..[PERSUASION] I know the Tieflings imprisoned here- I want to break you all out..[PERSUASION] My mind is my own- the Absolute has no control over me..[DECEPTION] I'm an undercover agent for the Flaming Fist..Fine, die in here for all I care.
+When successful, Wulbren will tell you about his plan which involves looking for tools. He will ask for you to hand them anything that can break rocks and ensure that no one will see you helping them. (You can give him weapon that does blunt damage, a morningstar etc. Even a Salami will do.) He also tells you that the Warden robbed them of their tools, and you can start looking from there. Locating the Tieflings and Wulbren will update the quests for these characters in your journal. 
+
+(Give Wulbren some weapon you wont miss, like a Salami)
+You will find the Warden in their room at (X:572 Y:-655), and ask her questions about confiscated items to reveal that she is hiding these in the office above. You may also attempt the Intelligence check which will require you to pass a DC of 13, this will reveal that levers behind her desk can open the doors of the cells, and the larger lever is used to trigger the alarm.
+
+With her back turned against you, you can sneak to go up the ladder. However, there is a Scrying Eye in this area so it's not advisable to steal the tools under its watchful eyes. The moment you get spotted, she will confront you to explain yourself:
+Acquiesce and follow to prison..Try to talk your way out of it..Try to convince them you belong here..Perhaps some gold would make up for my little indiscretion? (1238).Try to buy your way in. (4952).Attack.
+Choosing the second option will you further choices which requires you to pass a DC of 15:
+[DECEPTION] Would you look at that- my map's upside down. I should have turned right at that crossroads..[INTIMIDATION] Let me be, or you won't live to regret it..[PERSUASION] Haven't you ever been turned around on your way to a date with destiny?
+Another option is to fight The Warden since this area is unseen from the level above. Make sure to destroy the Scrying Eye in this area so that the others will not be alerted. After this, you can now search the office where items are being stored. Make sure to loot the Warden's body to retrieve the Spellcrux Amulet and the Moonrise Guard's Key from her. 
+
+The chests above are locked but you can unlock them by doing a Dexterity check which requires you to pass a DC of 14-16, which varies on the difficulty of the chests. With The Warden gone, you can free the tieflings and Wulbreg by interacting with the levers behind the desk. However, there are still guards nearby so this will commence a battle between them and your party. It is best to take care of the nearby guards before handing them the tools so that they can escape through the tunnels.
+
+Follow them through the tunnels by using the walls that they have broken through. You will find a boat docked at (X:572 Y:-577) and their party will take their leave. This will complete your quests Rescue Wulbren and Rescue the Tieflings.
+
+Now that the prisoners have escaped Moonrise Towers Prison, you will be able to complete both Rescue the Tieflings and Rescue Wulbren here.
+ 
+
+ How to unlock Rescue Wulbren : Barcus Wroot / Grymforge
+ 
+
+Rescue Wulbren Rewards : Asking for reward resulted in payment of 600 gold
+ 
+
+Rescue Wulbren Notes & Tips : Wulbren will ask for something that can crack stone. He is referring to his hammer (Wulbren's Hammer) which can be found on the top floor of the jailer's room sitting on a table. Once in your possession, throw it to him through the bars. (Alternatively, ).Inside the prison, the jailer's room have 6 levers, one for each room and a bigger one which is the alarm. if you open the jails, the NPCs will escape through the main entrance, triggering a lot of fights. Opening them is recommended only after they broke through the weakened stone wall and went to the escape boat. One of the cells (number 4) contains a green-hued hole that leads to a level below, giving you an answer about the tadpoles and weird flesh noises inside the tower..When escorting them on the boat, the quest will be completed for both Rescue the Tieflings and Rescue Wulbren.
+ 
+

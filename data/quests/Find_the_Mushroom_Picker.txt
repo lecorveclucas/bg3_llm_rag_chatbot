@@ -1,0 +1,21 @@
+Find the Mushroom Picker : Find the Mushroom Picker is a Quest in Baldur's Gate 3. Find the Mushroom Picker can be acquired during Act 1. Completing  Find the Mushroom Picker will progress the story forward.   
+
+Find the Mushroom Picker Objectives : Save the dwarf.Speak with Derryth
+ 
+
+Find the Mushroom Picker Walkthrough : There's a dwarf trapped in the northwest corner of Underdark, surrounded by Bibberbang. These plants exhale poisons and explode when they sense vibrations. (You can give him Misty Step scroll to save him.).When you enter the line of sight of the dwarf he will open a dialog to explain the danger. You may then show a Misty Step scroll if your party has one. If you are near the dwarf, you can hand it to him. If you are farther away, you can pass a strength roll (10) to throw it successfully to him. This will save him..Turn-based mode in concert with Dash is an easy solution for navigating this area, because you can run right past the mushrooms without triggering them, and as long as you end each turn far enough away from the mushrooms, you won't set them off..There is also a series of elevated cliffs on the left side that can be used to get past most (but not all) of the mushrooms.There's a noblestalk plant on the right side. If you trigger the Bibberbangs however, it will be destroyed..The dwarf requests that you get his backpack to him (or, you can give him a misty step scroll, and get the backpack later). The backpack contains a spell to make his escape easy. (You can use Mage Hand to get it, which won't trigger the Bibberbang).Once you saved the dwarf, he tells you that he must hurry and then leaves.
+
+You can get the Noblestalk in the back right corner (quest item) and:
+Keep for yourself (Dark Urge origin can learn more about his/her past.).Give it to Derryth and she will keep it and welcome you at her shop at Baldur's Gate..She also gives Gloves of Uninhibited Kushigo (1d4 damage with Throw Attacks).Karlach (follower) is Inspired.Give it to Baelen, he regains his memory. His speech is clear but authoritative- it's clear he thinks he's Derryth's superior. Derryth gets very nervous, telling herself that "It's going to be ok", and asking the adventurer "What did you do?". She refuses any attempts to help her leave Baelen. .Give it to Shadowheart to unlock some of her repressed memories.
+ 
+You can extort Derryth for an additional reward for the Noblestalk through an intimidation check even though she says she has nothing to give. She awards you a non-magic wedding ring that sells for about 115gp and then seems to not like you afterward. You also have the option to keep both the ring and the Noblestalk.
+
+ How to unlock Find the Mushroom Picker : Derryth.Northwest area of Underdark
+ 
+
+Find the Mushroom Picker Rewards : Rewards
+ 
+
+Find the Mushroom Picker Notes & Tips : An easy way to reach the backpack is to use the spell Misty Step to teleport to it. After that right click the backpack and throw it to the dwarf, being careful not to damage him..A strong character like Lae'zel can jump from safe spot to safe spot and reach both the backpack and Baelen without triggering the Bibberbang mushrooms..An imp (summoned by Wyll) can move the backpack and the torch that will set the poison fumes alight without triggering the Bibberbang mushrooms. .The backpack contains several items beside two scrolls of Misty Step, so it pays to empy the backpack and then provide Baelen with a scroll of Misty Step - or just throw him a scroll the first time he speaks with you, and get the backpack for yourself. .The Sovereign Glut can be used to navigate through the area to move both the Noblestalk and the backpack - you can then take the Misty Step scroll out of the backpack and move it back to Baelen without triggering the Bibberbang mushrooms. He will use it automatically when it is near him..As you walk across the branch to enter the Bibberbang field, look west right after crossing the branch/enter the field. There's a series of rocks to the west (-27,-81) that you can jump onto. Leads to a skeleton you can loot that has Explorer's Ring (+1 Nature, +1 Survival).
+ 
+

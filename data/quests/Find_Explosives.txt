@@ -1,0 +1,27 @@
+Find Explosives : Find Explosives is a Quest in Baldur's Gate 3. Find Explosives can be acquired during Act I. Completing  Find Explosives will progress the story forward.   
+
+Find Explosives Objectives : Find Smokepowder: Brithvar mentioned that a deep gnome fled with some smokepowder. Her crew should know more...Find the smokepowder reserve: Philomeen left behind a reserve of smokepowder. It should clear the cave-in..Try to clear the cave-in: We have some explosives. We can try to blow the cave-in, or look for some more.. 
+ 
+
+Find Explosives Walkthrough : If you saved the gnome from quest Rescue the gnome, you can already find a explosive in his backpack.
+You will find two Duergar, throwing Deep Gnome corpses to the water (Grymforge, X: -610 y: 409). Ask for loot on the corpses, and If you pass a Perception check (10), you can find something valuable on the bodies. The Duergar will ask you to lend them a hand or leave.
+Behind them, there is a big double iron door. You have to unlock it in order to enter.  If you pass a Perception check at the end of the room, you will find a secret door, activate the button on its side, to open it and take the set of stairs up.
+Before the stairs, you will find a chest on your right, you can loot an Arrow of Ice among other things, and head to your left. At the end of the hallway, there is another Perception check. By passing it, you will notice the loose stone.
+Head up and you will have take another Perception check, if you pass it, you will notice that an ambush is incoming. Three Ochre Jelly will come from the ceiling. Once defeated, keep going up through the stairs. Upstairs you can find a Trap Disarm Toolkit, an Arrow of Ice and an Arrow of Lightning.
+Turn left and continue along the catwalk, when you reach the end, jump through the gap to the otherside, you will reach a locked intricate door. Unlock it (DC: 10) to reach the Contemplation Chamber. You can loot a Hand-drawn Map from a nearby backpack, to update the Quest Find the Explosives.
+Move deeper into the chamber to find Philomeen (X: -539, Y: 468), standing near a smokepowder barrel. She threatens you as you get near because she doesn't trust you. There are a few options to attempt to convince her otherwise.
+
+If you fail to convince her, she will blow up the barrel, dealing massive damage and probably wiping your entire party out. But if you manage to convince her, she offers you Runepowder Vial, or you can simply attack her to attempt to take the whole barrel. If you kill her, you have to pass a Dexterity check (DC:20) when you interact with the barrel.
+
+There are also explosives at (X: -587 Y: 390), behind a secret door.
+ 
+
+ How to unlock Find Explosives : Brithvar gives you this quest in Grymforge, just past Sergeant Thrinn (X: -626 Y: 350)..Alternatively, you can get this Quest from Lunkbug, one of the Deep Gnome slaves working at the dig site.
+ 
+
+Find Explosives Rewards : Rewards
+ 
+
+Find Explosives Notes & Tips : Alternatively, you can use black powder bag from the windmill and hands grenades.Notes & tips go here
+ 
+

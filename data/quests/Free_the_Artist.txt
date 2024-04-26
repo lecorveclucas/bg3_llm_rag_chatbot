@@ -1,0 +1,55 @@
+Free the Artist : Free the Artist is a Quest in Baldur's Gate 3. Free the Artist can be acquired during Act 1. You'll need to reach the Zhentarim Basement where you can find the Artist held captive. Completing Quests allows players to learn more about the world and characters in Baldur's Gate 3 and earn more loot and experience to become more powerful.   
+
+Free the Artist Walkthrough : At the Zhentarim Hideout, descend the platform where you spoke to Zarys and converse with a painter named Brem. He offers to create a portrait of you using his pet artist, for a fee. You can respond with:
+A 'pet artist'?.I do present well. I'll take one..No, thanks - just interested in trading..Leave.
+Choose the first option, and Brem will explain how he acquired the painter, emphasizing the arrangement benefits both of them. He offers to sell you the painter, with a hint of reluctance to entertain threats. You can respond with:
+Very well, I'll purchase him. What's the cost?.[Intimidation] We can bypass threats and engage directly in combat..[Persuasion] If his talent is as remarkable as you claim, he'll attract attention soon..[Rogue][Persuasion] Art is more valuable once the creator is dead. I can arrange that..Forget the artist - any other items for trade?
+Select the third option, and with sufficient charisma, Brem will concede that the artist's recognition could be a concern. He provides you with the artist and you can engage in conversation with the artist, Oskar Fevras. Initially assuming you bought him, he inquires about the price but eventually dismisses the question and introduces himself. You can reply with:
+You're not known to me..And I'm [name]..Great. When do I get my reward?.Don't worry. 'The Oskar Fevras' didn't cost me a coin..What plans do you have with your newfound freedom?
+
+Select the first option, and Oskar expresses gratitude for the introduction. He acknowledges his debt and that of his patron, provided she still wishes to wed him. The narrator briefly recalls a recent scandal involving a Baldur's Gate patriarch and a commoner. This prompts another update in your Quest Journal. Respond with:
+Are you the runaway groom of Lady Jannath?.What's the backstory?.I'm not interested in your romantic affairs - just my reward.
+Opt for the first option, and Oskar defends himself while briefly explaining the complications. Following the backstory, respond with:
+A truly difficult dilemma..What decision did you ultimately make?.I'm only concerned about getting paid.
+Choose the second option, prompting Oskar to admit he never made a choice. Although fame and wealth suited him, thoughts of his first love still linger. He shifts the conversation to more immediate matters and mentions his intention to reward you upon returning to the city. He requests some coins to ease his journey discomforts. You can reply with:
+I don't have any coins to spare..I can spare a bit. (200).I'll provide you comfort by leaving immediately.
+Select the second option, and Oskar expresses gratitude while ensuring you'll be rewarded upon meeting him in Baldur's Gate. This concludes with an update in your Quest Journal, indicating your next task is to find Oskar in Baldur's Gate. (Astarion, Shadowheart, and Lae'zel disapprove, while Karlach and Wyll approve).
+When you reach Act 3, visit Lady Jannath's Estate to continue this quest.
+When you enter the Estate, you will notice that furniture is floating and hitting you. Cast see invisibility spell to spot poltergeists, beat them until you reached the rightmost room to see a haunted Oskar and Lady Jannath.
+Next, you need to reach Oskar's atelier on the top floor. Be careful there are Cursed Skulls that cast shockwaves to knock you back, you can cast remove curse or Disintegrate spells to destroy them in turn-based mode. Or use dimensional door/Misty Step to carefully evade them.
+In Oskar's atelier,  combine Oskar's painting with the easel to open the secret door in the Atelier.
+
+Read the letters in the secret room to find out Oskar was in love with someone else and asked the Mystic Carrion to help him.
+Next, you will need the Torch of Revocation which can be found in Mystic Carrion's house in the Lower City (X31, Y-166). You will need to either help Mystic Carrion find his missing servant (quest Find Mystic Carrion's Servant), collect all his jar of organs to defeat him, or steal the Torch from the gilded chest in the alcove behind him (DC25 Sleight of Hand). You may then use it to burn the painting in the atelier’s secret room. Afterwards, head back to the room where Jannath and Oskar are to decide the latter’s fate.
+
+ 
+ 
+
+Free the Artist Objectives : We met Oskar, an artist captured by the Zhentarim. He begged us to help him escape, promising that his patron will reward us handsomely..Oskar told us his story. Caught up in a romantic scandal with a patriar of Baldur's Gate, he'd fled his engagement to her..Brem agreed to sell us Oskar for a hefty sum of gold..It took some convincing, but we got Brem to lower the price..We bought Oskar from the Zhentarim. We should tell him the good news..We killed the Zhentarim near Oskar. Probably wise to leave while we can..We told Oskar we'd rescue him. Now to figure out how..We persuaded the Zhentarim that Oskar was more trouble than he was worth. They let him go.
+Oskar left for Baldur's Gate. Who knows, maybe we'll see him there..We freed Oskar from the Zhentarim. He's likely to seek refuge in a big city like Baldur's Gate. Perhaps we will cross paths with him again one day.
+Lady Jannath's butler, Tarhun, indicated to us that something very strange is going on and was clearly unsettled. We should investigate.
+The Jannath Estate is clearly haunted. We should find out what's causing this.
+We found Oskar, who is possessed and aggressive. His wife, Lady Jannath, has asked us to incapacitate him.
+We knocked out Oskar, but he is still possessed. Maybe there are clues around the mansion that will help us find out what caused this.
+Lady Jannath said that since the wedding, Oskar has been working obsessively up in his Atelier. We should go investigate..We briefly broke the enchantment possessing Oskar. During those brief moments, he mentioned the Atelier. We might find more clues there..We found the Atelier. There must be something in here that will point us toward the source of Oskar's possession..We discovered a secret room in the Atelier..The hidden portrait of the maiden seems to be invulnerable to normal attacks and responds to violence with violence. There must be some way of coaxing out whatever's tormenting it. We should look around for clues.
+We found a letter from a Mystic Carrion addressed to Oskar. It says to bring the letter to Carrion's mansion and provides a password that will grant entry. We might want to ask Lady Jannath if she knows anything about this mystic.
+We found a letter from a Mystic Carrion addressed to Oskar. It says to bring the letter to Carrion's mansion and provides a password that will grant entry. We should find where he lives and ask him about Oskar.
+We spoke to Lady Jannath about Mystic Carrion. She said that Carrion's services are a fad amongst the nobility and that we can find his mansion down near the water. We should go speak to him..We found a letter from a Mystic Carrion addressed to Oskar. It says to bring the letter to Carrion's mansion and provides a password that will grant entry. We should pay him a visit and ask him about Oskar.
+Carrion revealed that Oskar came to him to talk to a tormented spirit. He's willing to help us exorcise this spirit from Oskar if we help him with his missing servant first..Carrion revealed that Oskar came to him to talk to a tormented spirit. He's willing to give us a Torch of Revocation to exorcise the spirit from Oskar if we help him with his missing servant first..We convinced Lady Jannath to help us pay Mystic Carrion for Oskar's cure.
+We made an enemy of Mystic Carrion before learning how to exorcise the spirit possessing Oskar. We'll have to search Carrion's mansion for clues..We found a stash of client information. Maybe it will contain clues about how to exorcise the spirit possessing Oskar.
+We made an enemy of Carrion, so we'll have to find the Torch of Revocation ourselves. It must be around here somewhere..We found Oskar on a list of Mystic Carrion's clients. It revealed that a Torch of Revocation can be used to destroy the cursed portrait. We need to find one.
+We got our hands on the Torch of Revocation. We should use it to destroy the cursed portrait in the Jannath Estate.
+We successfully destroyed the cursed portrait, forcing the spirit out. She went looking for Oskar. We should follow her.
+We convinced Kerri's spirit to leave this plane. Lady Jannath and Oskar made amends. We should find Oskar up in the Atelier to receive the reward we were promised..We defeated Kerri's spirit, but Lady Jannath couldn't forgive Oskar and they parted ways. We should find Oskar up in the Atelier and ask for the reward we were promised..We defeated Kerri's spirit and convinced Lady Jannath to give Oskar another chance. We should find Oskar up in the Atelier and ask for the reward we were promised.
+Oskar died..We called Oskar our slave after freeing him from the Zhentarim, which led to a sour goodbye..We left Oskar with the Zhentarim..We left Oskar to his fate, consumed by the spirit possessing him..We killed Oskar. At least the spirit possessing him will be free..We let Kerri's spirit kill Oskar. Once the deed was done, she vanished..We convinced Kerri's spirit to leave this plane. However, Oskar was devastated to learn that his wife was dead, so he wasn't ready to paint us. He gave us his sketchbook as payment instead..We defeated Kerri's spirit, but Oskar was devastated to learn that his wife was dead. He wasn't ready to paint us, so he gave us his sketchbook as payment..Oskar painted a portrait of us and gifted it to us as thanks for our troubles..We left Oskar to his fate after finding him possessed by a spirit..We abandoned Oskar during the fight with Kerri's spirit.
+ 
+
+How to unlock Free the Artist : Find Oskar at the Zhentarim Basement
+ 
+
+Free the Artist Rewards : Rewards
+ 
+
+Free the Artist Notes & Tips : You can reach the Zhentarim Hideout by completing the quest Find the Missing Shipment. (The entrance is behind the wardrobe).Talk to Brem before talking to Oskar, and pick "You have a 'pet artist?", then "'Protection.' It sounds a bit more like kidnapping." You can then try to persuade Brem to Free the Artist. If you failed, you can still free Oskar by pay to Brem..Talk to Oskar and his owner Brem, he will ask for 1000 gold for releasing Oskar. Pass a persuasion check of 15 can lower the price (600)..After releasing Oskar talk to him to learn more about his story. You can pay an extra 200 for his trip to Baldur's Gate.
+ 
+

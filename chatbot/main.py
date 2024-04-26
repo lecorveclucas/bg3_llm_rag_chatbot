@@ -5,9 +5,12 @@
 # Build a scrapper to scrap data from BG3
 # Build a web app (through chatgpt4)
 # Create agent depending on which db to use ? character, weapons, skills, etc. ?
+# Add a preprompt
 
 import os
 import streamlit as st
+import glob
+import base64
 from llama_index.llms.llama_cpp import LlamaCPP
 from llama_index.llms.llama_cpp.llama_utils import messages_to_prompt, completion_to_prompt
 from llama_index.core.readers import SimpleDirectoryReader
@@ -16,6 +19,31 @@ from llama_index.core.node_parser import SentenceWindowNodeParser
 from llama_index.core import VectorStoreIndex, ServiceContext, StorageContext, load_index_from_storage
 from llama_index.core import Settings
 from llama_index.core.postprocessor import MetadataReplacementPostProcessor, SentenceTransformerRerank
+
+def get_base64(bin_file):
+    with open(bin_file, 'rb') as f:
+        data = f.read()
+    return base64.b64encode(data).decode()
+
+def set_background(png_file):
+    bin_str = get_base64(png_file)
+    page_bg_img = '''
+    <style>
+    .stApp {
+    background-image: url("data:image/png;base64,%s");
+    background-size: cover;
+    }
+    </style>
+    ''' % bin_str
+    st.markdown(page_bg_img, unsafe_allow_html=True)
+
+set_background('./assets/bg3_background2.jpg')
+
+# Load custom CSS file
+with open("assets/styles.css") as f:
+    css = f.read()
+st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
+
 
 llm = LlamaCPP(
     # You can pass in the URL to a GGML model to download it automatically
@@ -38,7 +66,7 @@ llm = LlamaCPP(
     verbose=True
 )
 
-def get_build_index(documents, llm, embed_model="local:BAAI/bge-small-en-v1.5", sentence_window_size=3,
+def get_build_index(documents, llm, embed_model="local:BAAI/bge-small-en-v1.5", sentence_window_size=5,
                     save_dir="./vector_store/index"):
     node_parser = SentenceWindowNodeParser(
         window_size=sentence_window_size,
@@ -46,11 +74,6 @@ def get_build_index(documents, llm, embed_model="local:BAAI/bge-small-en-v1.5", 
         original_text_metadata_key="original_text"
     )
 
-    # sentence_context = ServiceContext.from_defaults(
-    #     llm=llm,
-    #     embed_model=embed_model,
-    #     node_parser=node_parser,
-    # )
     Settings.llm = llm
     Settings.embed_model = embed_model
     Settings.node_parser = node_parser
@@ -78,6 +101,7 @@ def get_query_engine(sentence_index, similarity_top_k=6, rerank_top_n=2):
     return engine
 
 
+st.markdown('<style>.chat-input { background-color: black; }</style>', unsafe_allow_html=True)
 
 st.header("Chat with the Baldur's Gate 3 wiki 🎲 🎮")
 
@@ -89,12 +113,13 @@ if "messages" not in st.session_state.keys(): # Initialize the chat message hist
 @st.cache_resource(show_spinner=False)
 def load_db():
     with st.spinner(text="Loading and indexing the Streamlit docs – hang tight! This should take 1-2 minutes."):
-        documents = SimpleDirectoryReader(input_files=["./data/2303.18223.pdf"]).load_data()
+        quests_files = glob.glob("./data/quests/*.txt")
+        documents = SimpleDirectoryReader(input_files=quests_files).load_data()
         documents = Document(text="\n\n".join([doc.text for doc in documents]))
 
         # Get the vector index
         vector_index = get_build_index(documents=documents, llm=llm, embed_model="local:BAAI/bge-small-en-v1.5",
-                                        sentence_window_size=3, save_dir="./vector_store/index")
+                                        sentence_window_size=3, save_dir="data/vector_store/index")
         return vector_index
     
 
@@ -104,10 +129,10 @@ query_engine = get_query_engine(sentence_index=vector_index, similarity_top_k=6,
 
 if prompt := st.chat_input("Your question"): # Prompt for user input and save to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
-
+m = st.markdown(""" <style> .stChatInputContainer > div { background-color: #fff; } </style> """, unsafe_allow_html=True)
 for message in st.session_state.messages: # Display the prior chat messages
     with st.chat_message(message["role"]):
-        st.write(message["content"])
+        st.write(f":black[{message['content']}]")
 
 # If last message is not from assistant, generate a new response
 if st.session_state.messages[-1]["role"] != "assistant":

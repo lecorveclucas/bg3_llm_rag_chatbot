@@ -1,0 +1,20 @@
+Punish the Wicked : Punish the Wicked is a Quest in Baldur's Gate 3. Punish the Wicked can be acquired during Act 2. This quest takes place in the Shadow Cursed Lands. Completing Quests allows players to learn more about the world and characters in Baldur's Gate 3, as well as earn more loot and experience to become more powerful.   
+
+Punish the Wicked Objectives : He Who Was wants to bring justice to the victims of a murderer - to do so, he needs a ledger belonging to the killer. It is hidden in the Waning Moon.
+We found the ledger. We should give it to He Who Was.
+He Who Was wanted Madeline punished - we forgave her instead. He was furious..We gave the ledger to He Who Was and punished the killer for her crimes. He was pleased..We refused to give the ledger to He Who Was, and do not know what became of him..He Who Was is no more..We forced He Who Was to stab himself over and over again during the ritual. He was furious..We left the shadowlands, and may never know what became of He Who Was.
+ 
+
+Punish the Wicked Walkthrough : 
+Punish the Wicked begins when you approach He Who Was at the Ruined Battlefield (around X128, Y110). You'll see him asking the corpse of Madeline where her guilt lies, to which it responds with the name of the brewery she once worked at. If you ask him what's going on, he won't really answer your question but comment on how you're exploring the lands without fear of the darkness. The white raven will ask if you can serve as the dead's voice. If you ask him to clarify, he'll explain that the dead woman in front of you backstabbed her patrons as she worked at a bar in these lands. They all died because of her, and he says her victims must be avenged. If you retort that she's dead and has nothing more to pay, he'll explain that death is not the end yet. He'll say that he wants physical proof of her betrayals so that he can then summon her spirit and make her stand trial. If you are a Warlock, you can try to ask him to teach you the magic that he uses, to which he says he could share the ancient secrets of his magic, but only with someone he deems as an ally. He'll then ask if you're up for helping him. Accepting the task will have him bid you to find Madeline's ledger in The Waning Moon (in Reithwin Town, east to the Tollhouse), the brewery where she worked, and bring it to him..You can find Madeline's ledger in The Waning Moon, to the left of the bar where you'll interact with Thisobald Thorm. You'll have to defeat him by passing Skill checks or Saving Throws to either survive drinking with him or pretending to drink and then regaling him with stories for three rounds. Afterward, you can find Madeline's Ledger on your left with a successful Perception check revealing a loose plank on the floor (x-223, y-78)..When you head back to the Ruined Battlefield you can speak to He Who Was to turn over the ledger. Apparently, Madeline tipped the Dark Justiciars about her friends and ran away as they were killed. He'll then begin to channel Madeline's spirit onto him, and your task will be to have her undergo her trial and punish her if necessary. She'll reveal that the Dark Justiciar promised her she was just going to talk to her but instead had them stab each other to death. You'll have three choices next, all with Persuasion checks - have her stab herself (DC 14). call her a coward (DC 10), or placate her and say that it wasn't her fault (DC 10). Choosing the third option will result in a fight against He Who Was and his Raven..He-who-was is a level 6 Shader-Kai Gloom Weaver.
+ 
+
+ How to unlock Punish the Wicked : Unlocked by interacting with He Who Was in the Ruined Battlefield and agreeing to help him dole out justice against Madeline.
+ 
+
+Punish the Wicked Rewards : 29 Gold.Raven Gloves - Level 3 Conjuration Spell: Summon Quothe the Raven (If you punished Madeline)
+ 
+
+Punish the Wicked Notes & Tips : He Who Was belongs to a Shadowfell subset of elf known as the Shadar-kai..Notes & tips go here
+ 
+

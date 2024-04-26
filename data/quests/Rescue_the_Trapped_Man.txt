@@ -1,0 +1,28 @@
+Rescue the Trapped Man : Rescue the Trapped Man is a Quest in Baldur's Gate 3. Rescue the Trapped Man can be acquired during Act 1. Completing  Rescue the Trapped Man will progress the story forward.   
+
+Rescue the Trapped Man Objectives : Free the Trapped Man.Get Benryn to safety.Find Miri.Tell Benryn where Miri is.Find the dowry
+ 
+
+Rescue the Trapped Man Walkthrough : Head Northwest towards Waukeen's Rest at (X:-31 Y:577).
+
+There, you'll come across Shabby Wooden Doors blocking the entrance. Open them to access the small village, which has been ravaged by battle. Navigate through the destruction to the ruined chapel in the North West corner and follow the minimap's waypoint. On the second floor, a cutscene unfolds, showing Karlach assisting a man trapped on a burning piece of wood. This triggers an update in your Quest Journal, initiating the quest "Rescue the Trapped Man." You now have the option to choose from these dialogues:
+[Berserker] [Strength] Grasp the wreckage. FLING IT ASIDE..[Investigation] Locate leverage to shift the beam..Leave.
+
+If you possess sufficient Strength, choose the first option. You'll witness Karlach lifting the wood to free the trapped man named Benryn. Your Quest Journal will once again update with progress on the quest. Afterward, engage in conversation with Benryn, who is either searching for his lover, Mirileth, or grieving her loss, depending on which route was taken for his escape from the fire. If you first encountered him after following the Fist into the burning building and lead him out the front entrance, he will search be searching for her and ask for help finding her. Her body can be found on the second floor of the western building. If you bring her body to him, he will mourn and you can select from these dialogue options:
+How did the two of you become separated?.Your actions wouldn't have changed the outcome..Leave.
+Pick the first option, and Benryn will explain the circumstances of their separation. Choose one of these dialogues as your response:
+What did you mean by mentioning a dowry?.It's not your fault. There's no way you could have predicted this..Be thankful you're still alive..Leave.
+Opt for the second option, and Benryn will clarify that the dowry was intended for his sister's wedding. Now, choose the second option, and he'll request you to leave him to mourn his loss. Your next objective is to locate the mentioned dowry in order to complete the "Rescue the Trapped Man" quest. The dowry ring is hidden in the haystack, inside the barn. Click on the haystack to reveal the chest.
+
+Return to Benryn. This will mark the completion of this quest.
+ 
+
+ How to unlock Rescue the Trapped Man : Benryn
+ 
+
+Rescue the Trapped Man Rewards : Rewards
+ 
+
+Rescue the Trapped Man Notes & Tips : Outside Waukeen's rest, there's another hidden treasure..Astarion disapproves if you give the guy the dowry.Notes & tips go here
+ 
+

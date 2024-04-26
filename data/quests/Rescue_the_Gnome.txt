@@ -1,0 +1,24 @@
+Rescue the Gnome : Rescue the Gnome is a Quest in Baldur's Gate 3. Rescue the gnome can be acquired during Chapter One of the first Act. Completing  Rescue the gnome will progress the story forward.   
+
+Baldur's Gate 3 Rescue the Gnome Objectives : We spotted a deep gnome tied to the blades of a windmill. He's being tormented by a group of goblins.
+The goblins attacked us..We've defeated the goblins. If we want to help the gnome, we'll have to stop the windmill..Now that that the windmill has stopped spinning, we should be able to untie the gnome.
+It took some convincing, but the goblins left. If we want to help the gnome, we'll have to stop the windmill. (if the goblins were persuaded to leave instead)
+After rescuing Barcus Wroot, we parted ways with him.
+ 
+
+How to unlock Rescue the gnome : Blighted Village
+ 
+
+Rescue the gnome Rewards : None
+ 
+
+Rescue the Gnome Walkthrough : From the Blighted Village Waypoint, keep heading northwest until you encounter some goblins by a windmill. When you approach them the Quest Rescue the Gnome begins and you'll be thrust into a cutscene. You can immediately start a fight with the goblins if you want to save the gnome quickly. If you want to save the gnome peacefully, you can ask the goblins what they're doing with the gnome. Afterwards, demand they release the gnome and you'll be met with four options:
+[INTIMIDATION] I won't let you harm a defenceless being - not without a fight..[PERSUASION] All of you lot against one deep gnome? You should find a better target..[DETECT THOUGHTS] Read the goblin's mind..[ILLITHID] [WISDOM] You will release the gnome. That's an order.
+If you choose the second option, you'll have to pass a DC 15 Persuasion Check. Succeed, and the goblins will leave with Shadowheart's, Karlach's and Gale's approval. The Gnome is still stuck to the windmill, so you'll have to find a way to get him down. Head around to the back of the windmill and enter through the hole in the wall. There are two levers here - the 'Release Brake' Lever and the 'Brake' Lever. Hit the Brake Lever to stop the windmill from spinning. If you stop it too quickly after the goblins leave, they'll notice the windmill stop spinning, so give it a bit of time before you hit the lever. Alternatively, if you press the 'Release Brake' Lever, the gnome will be lost.
+
+Head back out to the windmill fan to let the gnome down. He's irritable, but you'll learn his name is Barcus Wroot. If you ask him what happened he'll show you an amulet and be on his way. Since you saved Barcus, you will later meet him again at the Grymforge, in the quest Save the Grymforge Gnomes.
+ 
+
+Rescue the Gnome Notes & Tips : Note: You can cast Feather Fall on him, but unfortunately it won't have an effect if you choose to release brakes..There's explosive in gnome's backpack, you can use it in combat, or keep it for Find the Explosives.
+ 
+
