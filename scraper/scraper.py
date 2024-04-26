@@ -9,7 +9,7 @@ def split_text(text, chunk_size=30):
     words = re.findall(r'\S+\s*', text)
     return [''.join(words[i:i+chunk_size]) for i in range(0, len(words), chunk_size)]
 
-def extract_content(url: str, output_file_path: str):
+def extract_content(url: str, output_file_path: str, classes_to_parse: list):
     title = url.split("/")[-1].replace("+", " ")
 
     # Send a GET request to the webpage
@@ -32,12 +32,12 @@ def extract_content(url: str, output_file_path: str):
         if not sibling:
             continue
         # Check if the next element is of class "bonfire" or "titlearea"
-        if 'class' in sibling.attrs and sibling.attrs['class'][0] in ['bonfire', 'titlearea']:
+        if 'class' in sibling.attrs and sibling.attrs['class'][0] in classes_to_parse:
             break
         
     # Find all elements with class 'titlearea' or 'bonfire'
     extracted_text = page_description + '\n\n'
-    title_areas = soup.find_all(class_=lambda x: x in ['titlearea', 'bonfire'])
+    title_areas = soup.find_all(class_=lambda x: x in classes_to_parse)
 
 
     for area in title_areas:
@@ -115,20 +115,24 @@ def extract_content(url: str, output_file_path: str):
     print("Text extracted and written to output_file_path file.\n")
 
 # Process quests
-def process_quests():
-    output_folder = os.path.join("data", "quests")
-    quests_list_file = os.path.join("scraper", "quests", "quests_list.txt")
+def process_folder(folder_name: str, classes_to_parse: list):
+    output_folder = os.path.join("data", folder_name)
+    names_list_file = os.path.join("scraper", folder_name, folder_name +"_list.txt")
     if not os.path.exists(output_folder):
         os.mkdir(output_folder)
 
-    with open(quests_list_file, "r") as f:
-        quests_list = f.readlines()
+    with open(names_list_file, "r") as f:
+        names_list = f.readlines()
     
-    for quest in quests_list:
-        quest = quest.replace("\n", "").replace(" ", "+")
-        quest_url = "https://baldursgate3.wiki.fextralife.com/" + quest
-        print(quest_url, "\n")
-        output_file_name = quest.replace("+", "_") + ".txt"
-        extract_content(url=quest_url, output_file_path=os.path.join(output_folder, output_file_name))
+    for name in names_list:
+        name = name.replace("\n", "").replace(" ", "+")
+        name_url = "https://baldursgate3.wiki.fextralife.com/" + name
+        print(name_url, "\n")
+        output_file_name = name.replace("+", "_") + ".txt"
+        extract_content(url=name_url, output_file_path=os.path.join(output_folder, output_file_name), classes_to_parse=classes_to_parse)
 
-process_quests()
+# Process quests
+#process_folder(folder_name="quests", classes_to_parse=["titlearea", "bonfire"])
+
+# Process companions
+process_folder(folder_name="companions", classes_to_parse=["titlearea", "bonfire", "special"])

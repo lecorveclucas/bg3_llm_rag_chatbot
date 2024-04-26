@@ -16,7 +16,7 @@ from llama_index.llms.llama_cpp.llama_utils import messages_to_prompt, completio
 from llama_index.core.readers import SimpleDirectoryReader
 from llama_index.core import Document
 from llama_index.core.node_parser import SentenceWindowNodeParser
-from llama_index.core import VectorStoreIndex, ServiceContext, StorageContext, load_index_from_storage
+from llama_index.core import VectorStoreIndex, StorageContext, load_index_from_storage
 from llama_index.core import Settings
 from llama_index.core.postprocessor import MetadataReplacementPostProcessor, SentenceTransformerRerank
 
@@ -47,8 +47,8 @@ st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 
 llm = LlamaCPP(
     # You can pass in the URL to a GGML model to download it automatically
-    # model_url='https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/resolve/main/mistral-7b-instruct-v0.1.Q4_K_M.gguf',
-    model_url='https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf',
+    # model_url='https://huggingface.co/TheBloke/Mixtral-8x7B-v0.1-GGUF/resolve/main/mixtral-8x7b-v0.1.Q4_K_M.gguf',
+    model_url='https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q6_K.gguf',
     # optionally, you can set the path to a pre-downloaded model instead of model_url
     model_path=None,
     temperature=0.1,
@@ -59,7 +59,7 @@ llm = LlamaCPP(
     generate_kwargs={},
     # kwargs to pass to __init__()
     # set to at least 1 to use GPU
-    model_kwargs={"n_gpu_layers": 10},
+    model_kwargs={"n_gpu_layers": 15},
     # transform inputs into Llama2 format
     messages_to_prompt=messages_to_prompt,
     completion_to_prompt=completion_to_prompt,
@@ -129,7 +129,7 @@ query_engine = get_query_engine(sentence_index=vector_index, similarity_top_k=6,
 
 if prompt := st.chat_input("Your question"): # Prompt for user input and save to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
-m = st.markdown(""" <style> .stChatInputContainer > div { background-color: #fff; } </style> """, unsafe_allow_html=True)
+
 for message in st.session_state.messages: # Display the prior chat messages
     with st.chat_message(message["role"]):
         st.write(f":black[{message['content']}]")
