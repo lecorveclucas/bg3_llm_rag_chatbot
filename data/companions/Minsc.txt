@@ -1,34 +1,17 @@
-Minsc : Minsc is a Companion in Baldur's Gate 3 (BG3). Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment.   Minsc was a kind-hearted—but rather addled— Rashemaar warrior that enjoyed many adventures across the Sword Coast and beyond. He joined many adventuring parties throughout the 14th and 15th centuries DR, including the Heroes of Baldur's Gate. Minsc was famously known for his habit of talking to a hamster called Boo, whom he believed was a miniature giant space hamster, despite no one else ever witnessing any evidence of this.       
+Minsc : Minsc is a Companion in Baldur's Gate 3 (BG3). Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment.   Minsc was a kind-hearted—but rather addled— Rashemaar warrior that enjoyed many adventures across the Sword Coast and beyond. He joined many adventuring parties throughout the 14th and 15th centuries DR, including the Heroes of Baldur's Gate. Minsc was famously known for his habit of talking to a hamster called Boo, whom he believed was a miniature giant space hamster, despite no one else ever witnessing any evidence of this.       
 
-Where to find Minsc in BG3 :  
+Where to find Minsc in BG3 :  
 
 BG3 Minsc's Starting Equipment : Leather Armour.Leather Gloves.Leather Boots.Minsc's Fantastical Relaxation Garb (cosmetic).Tasteful Boots (cosmetic).Minsc's Underwear (cosmetic)
 
 BG3 Minsc's Starting Skill Proficiencies : To be added
 
-BG3 Minsc Video Guide : To be added
- 
+BG3 Minsc Video Guide : To be added  
 
-Minsc BG3 Quest Walkthrough : To complete Minsc's Questline, you must first meet him in Counting House - Vault
-First, bring Jaheira to Nine-Fingers' office in Guildhall. You can find the entrance at Lower City of Baldur's Gate. (X61, Y-99)
-You will learn that Nine-Fingers has laid a trap to deal with him, but won't tell you the details. Luckily 2 drunken guild members let slip that Nine-Fingers plans to ambush Minsc at City's Counting House.
+Minsc BG3 Quest Walkthrough : To complete Minsc's Questline, you must first meet him in Counting House - Vault First, bring Jaheira to Nine-Fingers' office in Guildhall. You can find the entrance at Lower City of Baldur's Gate. (X61, Y-99) You will learn that Nine-Fingers has laid a trap to deal with him, but won't tell you the details. Luckily 2 drunken guild members let slip that Nine-Fingers plans to ambush Minsc at City's Counting House.  Travel to the Counting House, and ask Head Clerk Meadhoney to give you permission to enter the vault.  There is plenty of loot in the Counting House Vault, you can use Dimensional door/Fly/Jump to get them. When you reach the end of the Vault, use Water + Lightning to disable the gate to the lower level.  You find Minsc robbing the vault along with some Bhaalist Shapeshifters, on one of the Bhaalists, you will find the note mentioning Minsc's hideout is in the Sewers. (Succeed in perception checks and you can find the muddy footprints in the Vault, which also leads to the sewer.) Now head to the city sewer, you can find Minsc and many Bhaalists in Abandoned Cistern (X-254, Y875). Kill everyone but Minsc (crowd control effects can help) - when this is done, unequip your weapons, activate Toggle Non-Lethal Attacks (passive option available in the Passives tab of the hotbars) and beat him down - you only need to deal to finishing blow with a Non-Lethal unarmed attack to trigger the cutscene. After this, you can choose to let Minsc live, or finish him. (Your Dream Visitor wants him dead, but Jaheira will be very upset.)   This will begin his quest: ??  
 
-Travel to the Counting House, and ask Head Clerk Meadhoney to give you permission to enter the vault.
-
-There is plenty of loot in the Counting House Vault, you can use Dimensional door/Fly/Jump to get them. When you reach the end of the Vault, use Water + Lightning to disable the gate to the lower level.
-
-You find Minsc robbing the vault along with some Bhaalist Shapeshifters, on one of the Bhaalists, you will find the note mentioning Minsc's hideout is in the Sewers. (Succeed in perception checks and you can find the muddy footprints in the Vault, which also leads to the sewer.)
-Now head to the city sewer, you can find Minsc and many Bhaalists in Abandoned Cistern (X-254, Y875). Kill everyone but Minsc (crowd control effects can help) - when this is done, unequip your weapons, activate Toggle Non-Lethal Attacks (passive option available in the Passives tab of the hotbars) and beat him down - you only need to deal to finishing blow with a Non-Lethal unarmed attack to trigger the cutscene. After this, you can choose to let Minsc live, or finish him. (Your Dream Visitor wants him dead, but Jaheira will be very upset.)
- 
-This will begin his quest:
-??
- 
-
-Minsc Romance Guide for BG3 : Minsc is one of the few Companions in the game who are not romanceable.
- 
+Minsc Romance Guide for BG3 : Minsc is one of the few Companions in the game who are not romanceable.  
 
 Minsc Approval Guide in Baldur's Gate 3 : If you are looking to befriend or romance Minsc, you will have to get his approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
 
-Minsc Tips and Notes : Minsc will not be a origin character..A returning character from BG1, BG2, and TOB. Minsc was turning into a statue (along with Boo) shortly after his adventure with Child of Bhaal. Minsc is saved via wild mage during the first issue of his comic series..Before retrieving his miniature giant space hamster, Minsc's Wisdom will be 6 instead of 15.
- 
-
+Minsc Tips and Notes : Minsc will not be a origin character.A returning character from BG1, BG2, and TOB. Minsc was turning into a statue (along with Boo) shortly after his adventure with Child of Bhaal. Minsc is saved via wild mage during the first issue of his comic series.Before retrieving his miniature giant space hamster, Minsc's Wisdom will be 6 instead of 15.  

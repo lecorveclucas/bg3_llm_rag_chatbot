@@ -7,3 +7,4 @@ Halsin
 Minthara
 Minsc
 Jaheira
+Gale

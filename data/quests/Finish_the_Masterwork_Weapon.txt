@@ -1,12 +1,17 @@
-Finish the Masterwork Weapon : There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. Please try again in a few minutes. There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page). Additional troubleshooting resources. 
-Cloudflare Ray ID: 87a5b52f8982d3f0
-•
+Finish the Masterwork Weapon : Finish the Masterwork weapon is a Quest in Baldur's Gate 3. Finish the Masterwork weapon can be acquired during Act 1.    
 
-      Your IP:
-      Click to reveal
-2a01:cb00:1660:f600:c133:2658:9e39:204e
-•
+Baldur's Gate 3 Finish the Masterwork weapon Objectives : Find the blueprints for the masterwork weapons.Locate a source of Sussur Bark.Forge a masterwork weapon.  
 
-Performance & security by Cloudflare
- 
+How to unlock Finish the Masterwork weapon : Read Highcliff's Journal  
 
+Finish the Masterwork Weapon Rewards : One rare weapon from the following: Sussur Dagger.Sussur Sickle.Sussur Greatsword  
+
+Finish the Masterwork Weapon Walkthrough : Finish the Masterwork Weapon can be started by finding and reading Highcliff's Journal. This journal can be found at the Blacksmith's House in the Blighted Village at (X:30, Y:425). You'll find it in a small crevice to the left of the fireplace.  The journal speaks of a blueprint that will help you create a masterwork weapon. To find this blueprint, head into the next room of the house and burn away the web covering the hole in the floor. Jump in and your party will roll automatic Perception Checks. If anyone succeeds, you'll find a locked Wooden Chest just to your northeast. Lockpicking it requires you to pass a DC 10 Sleight of Hand Check, and if you succeed, you'll find Highcliff's Blueprints, progressing the quest further.   
+
+Journey in the Underdark : Continuing your journey in the Underdark, you will search for The Sussur Tree. During your journey make sure to stop by at (X:-50 Y:-142) to discover a waypoint in Sussur Tree. Walk further into the center of the tree and at (X:-18 Y:-144), you can pick up the Sussur Tree Bark, which is a quest item that you'll need to Finish the Masterwork Weapon.   
+
+Forging Weapons :   Use the furnace to create a weapon of your choosing. You need to use common weapons (only 1d4 sickle can be added, the 2d4 ones you got from Red Caps won't do.) as ingredients. (Rewards:  Sussur Dagger, Sussur Sickle, or Sussur Greatsword) To start the furnace you must first click on the furnace to light it, then on the bellows to strengthen the flame. After that you need to combine the sussur bark with the furnace; then combine the furnace with your weapon of choice as the final step.Note: you can find a sickle at Druid Grove, near an enchanting druid. However, the 2d4 sickle dropped by Red Hats won't do it. (in early access)  
+
+  : 
+
+Finish the Masterwork weapon Notes & Tips : Notes & tips go here  

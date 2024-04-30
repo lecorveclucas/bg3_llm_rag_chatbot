@@ -47,33 +47,6 @@ def extract_content(url: str, output_file_path: str, classes_to_parse: list):
         # Find all <p> tags following the area until the next class
         text_elements = []
         for sibling in area.find_next_siblings():
-            # # Case where sibling is empty
-            # if not sibling:
-            #     continue
-            
-            # # Case where silbing is a plain text
-            # elif sibling.name in ['p']:
-            #     text_elements.append(sibling.get_text())
-                
-            # # Case where silbing is a list
-            # elif sibling.name in ['ul', 'ol']:
-            #     # Find all <ul> or <ol> tags following the area until the next class
-            #     next_siblings = area.find_next_siblings()
-            #     ul_elements = []
-            #     visited_ul = set()
-            #     for sibling in next_siblings:
-            #         if not sibling:
-            #             continue
-            #         elif sibling.name in ['ul', 'ol']:
-            #             ul_elements.append(sibling)
-            #         elif 'class' in sibling.attrs and sibling.attrs['class'][0] in ['bonfire', 'titlearea']:
-            #             break
-
-            #     # Concatenate text from all <ul> elements and their nested <li> elements
-            #     ul_text = ".".join([ul.get_text() for ul in ul_elements])
-            #     ul_text = re.sub(r'[\n\s]+', ' ', ul_text)
-            #     text_elements.append(ul_text)
-
             # Case where sibling is empty or the next class
             if not sibling or ('class' in sibling.attrs and sibling.attrs['class'][0] in ['bonfire', 'titlearea']):
                 break
@@ -92,9 +65,9 @@ def extract_content(url: str, output_file_path: str, classes_to_parse: list):
             # Case where sibling is the next class
             elif 'class' in sibling.attrs:
                 break
-        
+           
         # Combine the text from all paragraphs
-        area_text = '\n'.join(text_elements)
+        area_text = ' '.join(text_elements)
         
         # Prepend the title to the extracted text
         full_text = title + ' : ' + area_text
@@ -106,8 +79,17 @@ def extract_content(url: str, output_file_path: str, classes_to_parse: list):
         # formatted_text = '\n'.join(text_chunks)
         
         # Append to the extracted text
-        extracted_text += full_text + '\n\n'
+        extracted_text += full_text + '\n\n' if area != title_areas[-1] else full_text
 
+    # Clean text
+    extracted_text = (extracted_text
+                      .replace("...", " ")
+                      .replace("..", ".")
+                      .replace("\xa0", " ")
+                      .replace("Completing Quests allows players to learn more about the world and characters in Baldur's Gate 3, as well as earning more loot and experience to become more powerful.", "")
+                      .replace("Completing Quests allows players to learn more about the world and characters in Baldur's Gate 3, as well as earn more loot and experience to become more powerful.", "")
+    )
+    
     # Write the chunks to a file with a return line after every chunk
     with open(output_file_path, 'w') as file:
         file.write(extracted_text)
@@ -132,7 +114,7 @@ def process_folder(folder_name: str, classes_to_parse: list):
         extract_content(url=name_url, output_file_path=os.path.join(output_folder, output_file_name), classes_to_parse=classes_to_parse)
 
 # Process quests
-#process_folder(folder_name="quests", classes_to_parse=["titlearea", "bonfire"])
+process_folder(folder_name="quests", classes_to_parse=["titlearea", "bonfire"])
 
 # Process companions
 process_folder(folder_name="companions", classes_to_parse=["titlearea", "bonfire", "special"])
