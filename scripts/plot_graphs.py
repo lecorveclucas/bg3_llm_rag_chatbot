@@ -78,6 +78,7 @@ def main():
     
     # Split into paragraphs
     paragraphs = split_into_paragraphs(documents)
+    paragraphs = documents  # If want to count number of words and tokens per documents
     
     # Count words
     word_counts = count_words(paragraphs)
