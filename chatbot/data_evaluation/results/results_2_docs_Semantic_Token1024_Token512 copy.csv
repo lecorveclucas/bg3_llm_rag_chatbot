@@ -1,0 +1,4 @@
+Retriever Name;Hit Rate;MRR
+semantic_splitter;1.0;0.0.935185
+token_splitter_512;1.0;0.892857
+token_splitter_1024;1.0;0.875

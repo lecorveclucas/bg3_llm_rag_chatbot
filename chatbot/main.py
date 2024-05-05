@@ -1,30 +1,33 @@
 # Ideas - TO-DO list
-# Build a SIMPLE model/RAG
+# OK : Build a SIMPLE model/RAG
 # Containerize it
 # Make a proper README.md
-# Build a scrapper to scrap data from BG3
-# Build a web app (through chatgpt4)
+# OK : Build a scrapper to scrap data from BG3
+# OK : Build a web app (through chatgpt4)
 # Create agent depending on which db to use ? character, weapons, skills, etc. ?
-# Search to determine how to evaluate this kind of rag
-# Plot a graph if tokens distribution in sentences  ==> 90% of paragraphs have less than 530 tokens and less than 390 words
+# Search to determine how to evaluate this kind of rag ==> Ask 10 questions and compare answers to baseline (ROUGE ? or even with CHATGPT ?) TIME answering time !
+# OK : Plot a graph if tokens distribution in sentences  ==> 90% of paragraphs have less than 530 tokens and less than 390 words
 
-# Model tuning 
+# RAG tuning 
 # 1. Too much documents from retriever seems to make it hallucinate
 # 2. The pre prompt help really much to avoid hallucinating and too be factual ==> Preprompt has a negative impacts on model's reponse as it embeds the preprompt and so it impacts the semantic search in the RAG
 # 3. The history might distrub the model answer, to investigate
 # 4. Try to divide by chunks, embed only the question THEN give the context to a prepromt
 # 5. Names are not embedded, resulting in confusion in match hit with the RAG
 # 6. Try hybrid search (with keywords retriever)
+# 7. The SemanticSplitterNodeParser seems to increase models accuracy, but the database construction and response time is higher ==> Confirm it with a proper evaluation  ==> Yes it does
+# 8. Evaluate model's answers through chatGPT : try to change model's, preprompt, etc.
 
 import os
 import streamlit as st
 import glob
 import base64
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.llama_cpp import LlamaCPP
 from llama_index.llms.llama_cpp.llama_utils import messages_to_prompt, completion_to_prompt
 from llama_index.core.readers import SimpleDirectoryReader
 from llama_index.core import Document
-from llama_index.core.node_parser import SentenceWindowNodeParser, SentenceSplitter
+from llama_index.core.node_parser import SentenceWindowNodeParser, SentenceSplitter, SemanticSplitterNodeParser, TokenTextSplitter
 from llama_index.core import VectorStoreIndex, StorageContext, load_index_from_storage
 from llama_index.core import Settings
 from llama_index.core.postprocessor import MetadataReplacementPostProcessor, SentenceTransformerRerank
@@ -59,17 +62,17 @@ st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 llm = LlamaCPP(
     # You can pass in the URL to a GGML model to download it automatically
     # model_url='https://huggingface.co/TheBloke/Mixtral-8x7B-v0.1-GGUF/resolve/main/mixtral-8x7b-v0.1.Q4_K_M.gguf',
-    model_url='https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q6_K.gguf',
+    model_url='https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf',  # Q6_K was used too but quite slow
     # optionally, you can set the path to a pre-downloaded model instead of model_url
     model_path=None,
-    temperature=0.1,
+    temperature=0.0,  # Model needs to be factual and deterministic
     max_new_tokens=512,
     # llama2 has a context window of 4096 tokens, but we set it lower to allow for some wiggle room
     context_window=4096,
     # kwargs to pass to __call__()
     generate_kwargs={},
     # set to at least 1 to use GPU
-    model_kwargs={"n_gpu_layers": 15},
+    model_kwargs={"n_gpu_layers": 10},
     # transform inputs into Llama2 format
     messages_to_prompt=messages_to_prompt,
     completion_to_prompt=completion_to_prompt,
@@ -81,18 +84,27 @@ def get_build_index(documents, llm, embed_model="local:BAAI/bge-small-en-v1.5", 
     sentence_window_parser = SentenceWindowNodeParser(
         window_size=sentence_window_size,
         window_metadata_key="window",
-        original_text_metadata_key="original_text"
-    )
+        original_text_metadata_key="original_text")
+
+    embed_model = HuggingFaceEmbedding(
+    model_name="BAAI/bge-small-en-v1.5",
+    embed_batch_size=128,
+    normalize=True)
+
+    semantic_splitter = SemanticSplitterNodeParser(
+    buffer_size=1, 
+    breakpoint_percentile_threshold=95, 
+    embed_model=embed_model)
 
     paragraph_parser = 0 # To implement
 
     Settings.llm = llm
     Settings.embed_model = embed_model
-    Settings.node_parser = sentence_window_parser
+    Settings.node_parser = semantic_splitter
 
     if not os.path.exists(save_dir):
         # create and load the index
-        index = VectorStoreIndex.from_documents([documents])
+        index = VectorStoreIndex.from_documents([documents], show_progress=True)
         index.storage_context.persist(persist_dir=save_dir)
     else:
         # load the existing index
@@ -178,8 +190,4 @@ if st.session_state.messages[-1]["role"] != "assistant":
             st.write(f":{text_color}[{response.response}]")
             message = {"role": "assistant", "content": response.response}
             st.session_state.messages.append(message) # Add response to message history
-
-
-
-
 
