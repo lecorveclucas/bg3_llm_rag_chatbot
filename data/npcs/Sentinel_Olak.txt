@@ -1,0 +1,19 @@
+Sentinel Olak : Sentinel Olak is an NPC in Baldur's Gate 3. Sentinel Olak can be found at Entrance of Goblin Camp. Sentinel Olak is guarding the entrance of the Goblin Camp alongside Klaw, a Worg. and a few more goblins. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Sentinel Olak : Can be found at: Act 1.Entrance of Goblin Camp  
+
+Sentinel Olak Quests : N/A  
+
+Sentinel Olak Dialogue Options : When first encountered, Olak asks you what are you doing there. Ask if he knows where Halsin is. Telling him this, Olak acts like he doesn't care, and tells you to leave or be ready to be devoured by his Worg. I'm looking for someone named Halson.[ILLITHID] [WISDOM] Stand aside. .[INTIMIDATION] I'm a hired sword - employer's inside. Stand aside. Now.[NATURE] Glossy coat on that animal. Does she belong to the Nordiland worgata family? .[DECEPTION] Your leader summoned me. .[DETECT THOUGHTS] Read the goblin's mind. If you decide not to undergo a check, he will continue to shoo you away. Use the tadpole to demand him to let you pass. Doing this, Olak will let you pass.  Ask if he knows about Halsin. Olak says he doesn't know him and will continue to shrug you off. When pressed on the matter, he says that maybe Halsin is in the pits. .Attempt an Intimidation check, telling you are a hired sword.Attempt a Nature check, talking about Klaw's coat.Attempt a Deception check, saying that his leader has summoned you, but since you want him to believe you are one of them, you will need to wear their war colors   Deception Responses: If, Olak tells you that the goblins are celebrating a raid, but to enter you must wear their war colours. Then he points at Worg's excrement. He asks you to rub it all over your face. Here you can Grimace and do what you have to do.Smear the dung across your face. It's not your first time.Wink, gather the dung, and fling it at all four guards. .Absolutely not.  If you choose option 3, both Astarion and Lae'zel will approve of this action, but will result in a Battle. You will need to clear them to continue.    
+
+Sentinel Olak Stats : 
+
+Sentinel Olak General Information : Race: Goblin (Humanoid)Health: 10AC: 15Base speed: 9mSize: SmallWeight: 35kgAttitude: 0
+
+Sentinel Olak stats : Strength: 12Dexterity: 13Constitution: 11Intelligence: 10Wisdom: 8Charisma: 8 Proficiency Bonus: +2.Initiative: +2
+
+Sentinel Olak Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. .Darkvision: Grant a creature the ability to see in the dark out to a range of 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalCold: NormalPoison: Normal
+
+Sentinel Olak Notable Loot : Gold & XP.Handaxe.Scrapwood Shield.Pork Loin.Worg Fang
+
+Sentinel Olak Notes and Tips : Notes & Tips  

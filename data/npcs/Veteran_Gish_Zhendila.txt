@@ -1,0 +1,13 @@
+Veteran Gish Zhendila : Health: __health__AC: __AC__Base Speed: __speed__ Location: Knights of the Shield Hideout Veteran Gish Zhendila is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Veteran Gish Zhendila general information : Race: GithyankiHealth: __health__AC: __ac__Base speed: __speed__Size: __size__Weight: __weight__Attitude: __attitude__    
+
+Veteran Gish Zhendila abilities : Strength:Dexterity:Constitution:Intelligence:Wisdom:Charisma: Proficiency Bonus: ??.Initiative: ??   
+
+Veteran Gish Zhendila Resistances : Slashing: ???Piercing: ???Bludgeoning: ???Fire: ???Lightning: ???Psychic: ???Poison: ???  
+
+Veteran Gish Zhendila Attacks, Spells & Features : attack1.attac2.spell1.spell2  
+
+Veteran Gish Zhendila Rewards : Experience: ????.Loot: ?????  
+
+Veteran Gish Zhendila Notes & Tips : Notes and tips go here    

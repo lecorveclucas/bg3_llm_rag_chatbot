@@ -1,0 +1,19 @@
+Manip Nestor : Manip Nestor is an NPC in Baldur's Gate 3. Manip Nestor can be found at Rivington. Manip Nestor is one of the members of the Flaming Fist. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Manip Nestor : Can be found at: Act 3 Rivington  
+
+Manip Nestor Related Quests : Investigate the Suspicious Toys  
+
+Manip Nestor Dialogue Options : "X:60 Y:-107." Speak with NPC Manip Nestor, and the quest "Investigating the Toys" will advance. Nestor will ask if you'd like to donate. Reply with: Donations for what?.It looks like you have plenty already.I'll take a donation, please.I'll make a donation - what do you need?.I'm actually here to trade. Opt for the first option, and Nestor will sarcastically mention it's for the refugees. Reply with: [Persuasion] I need to get into the barn right now. Something dangerous might be among the donations.Donate some gold. (500).I want to donate some supplies.[Persuasion] I'd like to take the donation into the barn myself.Maybe people would donate more if you weren't so rude. Choose the first option, and Nestor will allow your entrance. As you enter the Requisitioned barn behind Nestor, look to the left for a crate of toys. This discovery updates the "Investigate the Suspicious Toys" quest in your journal. Nestor expresses gratitude for identifying the issue and urges you to find the person who tampered with the toys. Now, your task is to locate Arfur and confront him.   
+
+Manip Nestor Stats : 
+
+Manip Nestor General Information : Race: DwarfHealth: 79AC: 16Base speed: N/ASize: MediumWeight: 75kgAttitude: N/A
+
+Manip Nestor stats : Strength: 21Dexterity: 13Constitution: 19Intelligence: 10Wisdom: 14Charisma: 8 Proficiency Bonus: N/A Initiative: +1
+
+Manip Nestor Passive Features : Phalanx Formation.Dwarven Resilience.Riposte.Great Weapon Fighting.Darkvision.Extra Attack.Opportunity Attack Poison
+
+Manip Nestor Notable Loot : N/A
+
+Manip Nestor Notes and Tips : Notes & Tips  

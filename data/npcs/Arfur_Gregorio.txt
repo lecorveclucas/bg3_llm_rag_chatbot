@@ -1,0 +1,19 @@
+Arfur Gregorio : Arfur Gregorio is an NPC in Baldur's Gate 3. Arfur Gregorio can be found at Rivington. Arfur Gregorio is a toymaker and one of the individuals involved in the Investigate the Suspicious Toys Quest. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Arfur Gregorio : Can be found at: Act 3 Rivington  
+
+Arfur Gregorio Related Quests : Investigate the Suspicious Toys  
+
+Arfur Gregorio Dialogue Options : Upon reaching Rivington at (X:-13 Y:-114), you'll witness an ongoing argument between Ben Golewits and other NPCs at (X:9 Y:-98). You can step in using the following dialogue options: Calm down and tell me what's going on.You certainly know how to make people feel welcome.Does no one we meet ever get along?.The army of the absolute is mere days away and you're bickering over property ownership?  Opt for the first choice, and Arfur Gregorio will explain his desire to remove trespassers from his property. You can reply with: This is a pretty big house - are you sure you don't have a single spare room?.It's always heartening to see a true philanthropist out in the wild.Squatters, is it? Maybe I'd be willing to lend a helping hand.[Detect Thoughts] Probe his thoughts.Leave. Select the first option, and Ben Golewits will agree. However, Arfur's disagreement escalates into racial slurs. Karlach becomes angry, and Arfur threatens them to leave or face consequences. Respond with: In that case, perhaps I can help you out.[Intimidation] Let them stay or I'll make you leave and never come back.Well, good luck with that. Choose the second option, and if your charisma is sufficient, you'll intimidate Arfur into allowing them to stay. Zenovia Dawg will then express skepticism, revealing her connection to a criminal group called the Guild. You can reply with: All right, I get it - how much do you want?.Or what?.Over my dead body. Opt for the second choice, and Zenovia will reiterate her threat. Respond with: [Intimidation] I fought and killed an avatar of Myrkul recently. I think I can handle you.All right - how much do you want?.[Melee Attack] Stand down.[Intimidation] I could give you that gold - but then I'd just take it back after I killed you.Let's find out shall we? Choose the first option, and with enough charisma, you'll startle Zenovia. She abandons her intention to rob you and departs. Proceed to enter Arfur's mansion and speak to Ben. Thank him for standing up for them, and reply with: You're welcome.And you'd better be grateful for it.How did you end up here?.Leave. Select the first option, and Ben will express his gratitude as you become the first to support them. You can then start looting Arfur's mansion.  After looting the mansion, you need to find Arfur Gregorio again and confront him. He confessed to donating the exploding toys. He claimed he was getting instructions and supplies from Felogyr's Fireworks in the Lower City.  
+
+Arfur Gregorio Stats : 
+
+Arfur Gregorio General Information : Race: HumanHealth: ?6AC: 10Base speed: N/ASize: mEDIUNWeight: 75KGAttitude: N/A
+
+Arfur Gregorio stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: N/A Initiative: 0
+
+Arfur Gregorio Passive Features : Opportunity Attack None
+
+Arfur Gregorio Notable Loot : N/A
+
+Arfur Gregorio Notes and Tips : Notes & Tips  

@@ -1,0 +1,13 @@
+Andorn : Andorn is one of the Enemies in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot. He can be found in the Overgrown Ruins, a segment of the Dank Crypt. Andorn is located behind a door that is one of the easier entrances into the Ruins. You must pass a deception, or perception check to have him let you inside, otherwise you'll need to lockpick the door. No matter the choice, he is immediately aggressive and will attack on sight. Andorn is part of a grave robbing band, consisting of nine other members (Gimblebock, Taman, Quelenna, Warryn, Torgga, Haseid, Barton, Mari, and Cefrey). They are currently in the process of looting the Dank Crypt but aren't having much success. 
+
+Andorn General information  : Race: Human.Health: 12 || 14 || 23.AC: 11.Base speed: 9m.Size: Medium.Weight: 75kg.Attitude: 0  
+
+Andorn Stats : Strength: 12Dexterity: 14Constitution: 10Intelligence: 11Wisdom: 10Charisma: 14 Proficiency Bonus: -.Initiative: -    
+
+Adorn Resistances : Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalCold: NormalPoison: Normal Off-Hand Attack (Melee)
+
+Passive Features : N/A  
+
+Andorn Drops : Leather Armour.Shortsword.Bandit's Key.Small Bottle.Torch  
+
+Andorn Notes & Tips : If you don't take him out immediately, he'll immediately run for the lever on South side of the room to add more of his companions to the combat.    

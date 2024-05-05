@@ -1,0 +1,19 @@
+Zorru : Zorru is an NPC in Baldur's Gate 3. Zorru can be found at the Hollow in the Druid Grove. Zorru has seen a Githyanki patrol and survived. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Zorru : Can be found at: Act 1 Druid Grove  
+
+Zorru Related Quests : Remove the Parasite.The Githyanki Warrior.Find a Cure (Find the Githyanki Creche)  
+
+Zorru Dialogue Options : Zorru can be found near the training grounds at The Hollow at Druid Grove. If Lae'zel is in the party, he will refer to her as a monster and she will want to intervene. This interaction can affect give you approval or disapproval from some of your Companions based on your responses. Your response options could vary based on your Character.  Yes. And I suggest you do as she says.Hold it, Lae'zel. I'll see to this one.  Other known responses:  You heard the woman. Bow. .[DRAGONBORN] Give the tiefling a menacing glare.   If you choose either of the following, Zorru will bow.  Yes. And I suggest you do as she says.You heard the woman. Bow.  Follow up by continuing to side with Lae'zel for her approval.  If you give the tiefling a Menacing Glare, Lae'zel and Astarion will approve, while Shadowheart will disapprove. She will turn the simple asking into an interrogation, being quite rough with the Tiefling. You will need to allow this interrogation to progress with the objective: Find the Githyanki Creche. He will tell he has met with more Githyanki on the way to Baldur's Gate, near the Mountain Pass. This encounter costed him his friend's life, who's body can be found in Blighted Village. Speaking to her body with Speak with Dead will reveal she was torn apart by ogres after escaping into the village by Githyanki hunters. After your interaction, he will run away.  Following your interaction Lae'zel will comment on his compliance. Your response could gain her approval Do you plan to be that rough with everyone we meet? .You're a dab hand at interrogations - we might need that skill again. .What comes next?  Choose option 1 and confront her interrogation abilities and Lae'zel, Astarion and Shadowheart will all disapprove.Choose option 2 and compliment her interrogation skill and both Lae'zel and Astarion will approve.  
+
+Zorru Stats : 
+
+Zorru General Information : Race: Asmodeus TieflingHealth: 23AC: 13Base speed: 9mSize: MediumWeight: 60kgAttitude: 0
+
+Zorru stats : Strength: 12Dexterity: 15Constitution: 12Intelligence: 10Wisdom: 14Charisma: 12 Proficiency Bonus: +2 Initiative: +2
+
+Zorru Passive Features : Hellish Resistance: Your blood protects you from flame, abyssal or otherwise. You have resistance to Fire and take only half damage from it. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: Can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: ResistantFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Zorru Notable Loot : N/A
+
+Zorru Notes and Tips : Notes & Tips  

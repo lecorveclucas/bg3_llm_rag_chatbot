@@ -1,0 +1,7 @@
+Halfling : Halfling  is a Race in Baldur's Gate 3. Halflings have a +2 Dexterity Score. While creating your Character in Baldur's Gate 3, you can choose between 11 different types of Races. Each of them has their special characteristics.    Small yet capable, halflings prefer the comforts of home and hearth - but their natural luck and dexterity makes them fine adventurers.     
+
+Halfling Traits: : Base Racial Speed.Brave: You have advantage on saving throws against being frightened.Lucky: When you roll a 1 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.  
+
+Halfling Subraces: : Lightfoot Halfling Naturally Stealthy: Your nimble nature makes you skilled at concealment. You have advantage at Stealth checks. Strongheart Halfling Strongheart Resilience: You have an advantage on saving throws against Poison and resistance to Poison damage.     
+
+Halfling Tips & Notes : During Early Access, the Halfling race used to feature +2 Dexterity. This has been changed in the full launch of BG3 and the Ability Score points are now associated with the Class that players will choose.??    

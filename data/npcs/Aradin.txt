@@ -1,0 +1,19 @@
+Aradin : Aradin is an NPC in Baldur's Gate 3. Aradin can be found at Druid Grove. Aradin alongside his companions - Remira  and Barth  are encountered while they are fighting off a group of Goblins that have followed them to the Druid Grove's gate.  There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Aradin : Can be found at: Act 1 Druid Grove  
+
+Aradin Related Quests : Find the Nightsong  
+
+Aradin Dialogue Options : You first encounter Aradin arguing with Zevlor. He will be accompanied by his companions Remira and Barth, arguing to open the gate leading to Emerald Grove. After the cutscene plays out, you will then be engaged in Combat. This will update your journal for Find a Cure. Your first optional responses come after your Combat encounter ends and after you enter through the gates. Zevlor and Aradin will continue to argue. Your next set of choices will look like this: Where there's one goblin, there's ten. I'm leaving before the horde shows up.One fight just ended, and now you're picking another? Relax.Druid? Those goblins didn't take any prisoners.You can cough up my payment any time now. Choosing the second option will just make Zevlor provoke Aradin in some way. Then they go back and forth insulting each other. Your next set of choices will look like this: [INTIMIDATION] If you want me to take both of you down, I will. Otherwise, knock it off.Stand back and watch.[PERSUASION] More violence won't bring back those you lost. Stop and think. If you successfully pass the Persuasion check skill check will make Zevlor say you're right and there's too much at stake. Aradin then makes another side comment to insult Zevlor but he didn't bite back and says squabbling is pointless since the goblins already found their camp. You will also receive approval from Shadowheart and Gale for choosing the third option.If you stand back and watch, Zevlor will punch Aradin, knocking him out. Later on, you can find Aradin and his group in the forest or in The Hollow, around a bunch of dead bodies, adventurers and goblins alike. He was leading his crew to fulfil a contract, but it wasn't specified that there were goblins involved. .If you ask about what job was that, he tells you that a Wizard in Baldur's Gate pays a lot for a relic buried near their location. This starts the Find the Nightsong Quest. He gives you the Stamped Handbill.You can also ask about Halsin. Aradin tells you that Halsin joined them when he found out about the group was trying to recover Nightsong. After the goblin's attack, they lost Halsin.  
+
+Aradin Stats : 
+
+Aradin General Information : Race: HumanHealth: 28AC: 16Base speed: 9mSize: MediumWeight: 50kgAttitude: 0
+
+Aradin stats : Strength: 15Dexterity: 14Constitution: 12Intelligence: 10Wisdom: 10Charisma: 12 Proficiency Bonus: +2 Initiative: +2
+
+Aradin Passive Features : ??? Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Aradin Notable Loot : Greatclub.Scale Mail.Torch.Thieves' Tools.Lorroakan's Contract.Aradin's Key
+
+Aradin Notes and Tips : If Aradin does not survive the encounter at the gates of the Druid Grove, by looting Lorroakan's Contract, you will receive the quest Find the Nightsong.  

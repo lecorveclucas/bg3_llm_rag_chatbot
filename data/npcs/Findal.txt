@@ -1,0 +1,11 @@
+Findal : Findal is an NPC in Baldur's Gate 3. He can be found unconscious in Underground Passage. Findal is lying unconscious near a band of Goblins and can be killed during the battle.     
+
+Findal Information: : A band of goblins (Brawler Gresh, Sharp-eye Gurza, Tracker Torrack, and Tracker Worm) are about to kill Findal, who is unconscious on the ground. If he survives, you can save him with a healing spell like Healing Word. You can also heal him by throwing a healing potion just right next to him so the splash healing heals him. Be sure to aim carefully as targeting Findal directly by throwing healing potion kills him. If he dies, he can be looted for Arcane Circlet (Helmet, Nature +1). You can also pickpocket this item from him, while he is laying unconscious. .If healed and sent to the grove, characters with the Folk Hero background will gain an inspiration point and 25 XP.  
+
+Where to find Findal : Can be found at: Act 1.Underground Passage  
+
+Findal's Quests : -   
+
+Findal's Dialogue Options : After Findal is healed the dialogue with him starts. There are four dialogue options available: If you ask him how he those goblins slip into the grove, he will answer that this was his fault.If you ask if no one was looking for him, he will answer that he is here all alone.If you tell him that you are surprised that the Goblins didn't kill him, he will tell you that they kept asking about some weapon.If you say that you will kill him, the dialogue ends. No matter which option you choose, Findal will run away to tell his friends what happened.  
+
+Notes and Tips : Findal is a very quick runner.If killed by a Fiend Warlock, the warlock will not gain the Dark One's Blessing.

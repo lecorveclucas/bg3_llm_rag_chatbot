@@ -1,0 +1,19 @@
+Lump the Enlightened : Level 4 Lump the Enlightened is an NPC in Baldur's Gate 3. Lump the Enlightened can be found at the Blighted Village. Lump the Enlightened is an eloquent ogre that can be found on a destroyed house. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Lump the Enlightened : Can be found at: Act 1 Blighted Village  
+
+Lump the Enlightened Related Quests : N/A  
+
+Lump the Enlightened Dialogue Options : Once approached, Lump asks if you are friend or foe, or food or not food. If you have been branded by True Soul Gut and show him the brand, he won't attack you. You can also use Deception to convince him that you are one of the Absolute's chosen disciples and he will deem you a friend.You can convince him to work for you instead of the goblins. You can offer him gold, or you can pass a check to persuade him. If you manage to do so, you will receive Lump's War Horn from him. Use it to summon the ogres at any battle up to three times (if he is paid or persuaded to defer payment). .Alternatively, you can decide to fight him and his two allies, Fank and Chock. Lump the Enlightened drops the Warped Headband of Intellect, one of the best items currently in the game. Stranger: be you friend or food? The mark is Her measure: show us the brand of the Absolute.  Note: Additional dialogue options are available based on your character.  [ELF] You speak with an eloquence unusual to your kind.You're quite eloquent for an ogre.I bear no such brand.[DECEPTION] I'll do you one better - I'm one of the Absolute's chosen disciples.Attack. Option 1: If you choose the first or second option, he will continue to call you a delicacy and you can still respond with the other options.Option 2: Admit you don't have the brand and he will deem you food which will trigger a battle. .Option 3: Use Deception if you don't have the brand and he will be convinced you are a friend.  Continue conversing with him and you will eventually have the option to say:  Forget goblins. You should be fighting for me.  Pass the checks that follow the dialogue and you can convince him to agree, Shadowheart and Karlach will approve.  After three battles if he was/is paid for his services he asks to "taste" the player as a parting gift. Should the player agree or not Lump will depart and no longer respond to the war horn.  
+
+Lump the Enlightened Stats : 
+
+Lump the Enlightened General Information : Race: Ogre (Giant)Health: 67AC: 13Base speed: 12mSize: LargeWeight: 3500kgAttitude: 0
+
+Lump the Enlightened stats : Strength: 19Dexterity: 12Constitution: 16Intelligence: 19Wisdom: 7Charisma: 7 Proficiency Bonus: +2 Initiative: +1
+
+Lump the Enlightened Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: Can see in the dark up to 12m. Ogre's Mark: Damage is increased by 1d6 Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Lump the Enlightened Notable Loot : 75 XP.Heavy Spiked Club.Lump's War Horn.Scroll of Blur.The Diary of Lump the Enlightened.Warped Headband of Intellect
+
+Lump the Enlightened Notes and Tips : Notes & Tips  

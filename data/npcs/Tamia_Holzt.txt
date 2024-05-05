@@ -1,0 +1,13 @@
+Tamia Holzt : Health: 82AC: 18Base Speed: __speed__ Location: __location__ Tamia Holzt is an Enemy in Baldur's Gate 3. Tamia Holzt is a cultist of Bane under Gortash's employ. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Tamia Holzt general information : Race: HumanHealth: 82AC: 18Base speed: __speed__Size: MediumWeight: __weight__Attitude: __attitude__    
+
+Tamia Holzt abilities : Strength: 18Dexterity: 11Constitution: 18Intelligence: 12Wisdom: 15Charisma: 16 Proficiency Bonus: ??.Initiative: ??   
+
+Tamia Holzt Resistances : Slashing: ???Piercing: ???Bludgeoning: ???Fire: ???Lightning: ???Psychic: ???Poison: ???  
+
+Tamia Holzt Attacks, Spells & Features : Extra Attack.Opportunity Attack.Tactical Discipline.Infernal Weapon  
+
+Tamia Holzt Rewards : Experience: ????.Loot: ?????  
+
+Tamia Holzt Notes & Tips : Notes and tips go here    

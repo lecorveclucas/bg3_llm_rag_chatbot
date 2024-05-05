@@ -1,0 +1,19 @@
+Skickpit : Skickpit is an NPC in Baldur's Gate 3. Skickpit can be found at Grymforge. Skickpit is enslaved by the Duergar and when first found, he is being bullied by Ward Magmar.  There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Skickpit : Can be found at: Act 1 Grymforge  
+
+Skickpit Related Quests : N/A  
+
+Skickpit Dialogue Options : When first found, Skickpit is being bullied by Ward Magmar, a Duergar that is drinking alcohol and ordering Skickpit around, as well as calling him names. Players can tell Skickpit they are there to free him from the Duergar. In order to free him, players need to deal with Ward Magmar. Once they do, Skickpit will grant players a Wyvern Poison.  
+
+Skickpit Stats : 
+
+Skickpit General Information : Race: Deep GnomeHealth: 20AC: 10Base speed: 6mSize: SmallWeight: 35kgAttitude: 0
+
+Skickpit stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Skickpit Passive Features : Superior Darkvision: You can see in the dark up to 24m.Gnome Cunning: You have advantage on Intelligence, Wisdom and Charisma saving throws.Shortened Stride: Your movement speed is 7.5m. The distance you can move per turn is -1.5m.Stone Camouflage: You have advantage on Stealth checks. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalCold: NormalPoison: Normal
+
+Skickpit Notable Loot : Wyvern Poison.Mug of Beer.Bowl.x3 Mug
+
+Skickpit Notes and Tips : Grants 25 XP when killed.  

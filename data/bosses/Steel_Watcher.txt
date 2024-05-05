@@ -1,0 +1,13 @@
+Steel Watcher : Health: 206AC: 16Base Speed: __speed__ Location: __location__ Steel Watch is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Steel Watch general information : Race: ConstructHealth: 206AC: 16Base speed: __speed__Size: LargeWeight: 1500Attitude: __attitude__    
+
+Steel Watch abilities : Strength:18Dexterity:22 (proficient, advantage on saves)Constitution:18 (proficient save)Intelligence:6Wisdom:10Charisma:10 Proficiency Bonus: 4.Initiative: +6   
+
+Steel Watch Resistances : Slashing: ResistantPiercing: ResistantBludgeoning: ResistantFire: NormalLightning: VulnerablePsychic: ImmunePoison: Immune Magic Resistance against spells and other magic effects + 5 to saves against form changing spells Darkvision 40ft Can't be surprised Agile Chassis grants +30 ft of movement and advantage on Dexterity saving throws. Self destruct protocol at around ~20% of health left (needs testing), cannot act and will detonate. Will detonate on death.  
+
+Steel Watch Attacks, Spells & Features : attack1.attac2.spell1.spell2  
+
+Steel Watch Rewards : Experience: ????.Loot: ?????  
+
+Steel Watch Notes & Tips : The spell Shatter does NOT apply disadvantage on save against this construct.    

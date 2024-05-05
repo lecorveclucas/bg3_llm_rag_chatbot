@@ -1,0 +1,25 @@
+Commander Zhalk : Fiend Level 8 Commander Zhalk is an optional Boss in Baldur's Gate 3. Commander Zhalk can be found near the end of the Prologue, fighting against a Mind Flayer. Bosses in BG3 are powerful enemies that have increased health and pose a bigger challenge for players.   
+
+Where to find Commander Zhalk : Act I Nautiloid  
+
+Commander Zhalk Quests : Escape the Nautiloid  
+
+Commander Zhalk Dialogue Options : Players can't talk to Commander Zhalk, he is fighting a Mind Flayer when first found and won't bother with the player until it manages to kill it. Although players can avoid Commander Zhalk and not fight it, if you have a Fighter or plan to have Lae'zel in your party, he drops a powerful Greatsword called Everburn Blade that makes the confrontation worthwhile. Note that if the Mind Flayer facing him is killed, Commander Zhalk will focus his attention on your party.  
+
+Commander Zhalk Boss Fight Guide : 
+
+Commander Zhalk Boss Tips : Commander Zhalk isn't paying attention to the player once you stumble upon him, he is fighting a Mind Flayer exclusively.
+
+ Commander Zhalk general information : Race: FiendHealth: 150AC: 18Base speed: 9mSize: MediumWeight: 50kgAttitude
+
+Passive Features : Darkvision
+
+Commander Zhalk Abilities : Strength: 18Dexterity: 18Constitution: 16Intelligence: 14Wisdom: 15Charisma: 16 Proficiency Bonus: +2.Initiative: +4
+
+Command Zhalk Attack & Spells : Main hand attack
+
+Commander Zhalk Resistances : Slashing: ResistantPiercing: ResistantBludgeoning: ResistantFire: ResistantLightning: ResistantCold: ResistantPoison: Resistant
+
+Commander Zhalk Rewards : Experience: 75.Loot: Everburn Blade
+
+Commander Zhalk Notes & Tips : Zhalk and the mind flayer on the bridge will be preoccupied fighting each other. The survivor will turn on you when one of them is dead. Use the first few turns to clear the bridge of minor demons and pile nautiloid tanks next to him. Move to a safe distance and detonate the tanks with a fire spell when the mind flayer is close to death.Shadowheart can cast Command: Drop to force Commander Zhalk to drop his flaming greatsword on the floor. This will completely neuter him in combat; have Lae'zal or a martially inclined PC pick it up and use it against him.Keeping the mind flayer alive is your best chance to defeat Commander Zhalk. You can buff the mind flayer with spells and throw potions to heal him.Note that a second set of minor demons will spawn after you move past Zhalk. .When only 11 turns remain on the timer, 2 powerful Cambions will spawn and rush you down. They have over 100 hp and hit almost as hard as Zhalk himself at range and in melee. If you're playing on balanced or tactician difficulty, you're best off activating the bridge before they close the distance and cut your party to pieces.

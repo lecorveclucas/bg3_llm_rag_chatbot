@@ -1,0 +1,19 @@
+Doni : Doni is an NPC in Baldur's Gate 3. Doni can be found at Druid Grove. Doni can't talk, but he can point you to the Tiefling Hideout. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Doni : Can be found at: Act 1 Druid Grove  
+
+Doni Related Quests : Investigate the Beach  
+
+Doni Dialogue Options : While interacting with Doni, he mostly communicates with different grunts and gestures, Your interaction with Doni differs depending on if you were previously sent to him by Mirkon as part of the Investigate the Beach quest, but if the player passes a Perception check upon their first meeting with Doni they can notice the hidden entrance to the Tiefling Hideout early. After you free Mirkon from the Harpies at the beach, he tells you to head to Doni, to learn the secret entrance of the Tiefling Hideout. If you skipped the interaction with Mirkon, your response options with Doni will be more limited: Are you all right?.Turn around to see what he's looking at.Leave.  If you seek Doni out while progressing through Investigate the Beach, you will have these options:  Hello?.[INSIGHT] Where the hells did you disappear to before?.Doni, isn't it? I want to see the Dragon's Lair.Turn around to see what he's looking at.Leave.  Request to see the Dragon's Lair and he will reveal the hatch. This will update your journal for Investigate the Beach. You can then thank him, continue to interact, or choose to leave and he will continue to Grunt. Just nearby, you can now interact with the Concealed Hatch to enter the Tiefling Hideout.   
+
+Doni Stats : 
+
+Doni General Information : Race: TieflingHealth: 5AC: 12Base speed: 9mSize: SmallWeight: 25kgAttitude: 0
+
+Doni stats : Strength: 10Dexterity: 14Constitution: 10Intelligence: 10Wisdom:10Charisma: 10 Proficiency Bonus: +2 Initiative: +2
+
+Doni Passive Features : Hellish Resistance: Your blood protects you from flame, abyssal or otherwise. You have resistance to Fire and take only half damage from it. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: You can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: ResistanceLightning: NormalPsychic: NormalPoison: Normal
+
+Doni Notable Loot : N/A
+
+Doni Notes and Tips : At The Festering Cove players can find a Message in a Bottle, written by Doni to his father.  

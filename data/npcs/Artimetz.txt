@@ -1,0 +1,13 @@
+Artimetz : Health: 32AC: 14Base Speed: __speed__ Location: west of the Selûnite Outpost Artimetz is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Artimetz general information : Race: DrowHealth: 32AC: 14Base speed: __speed__Size: mediumWeight: 75kgAttitude: __attitude__    
+
+Artimetz abilities : Strength: 10Dexterity: 16Constitution: 12Intelligence: 10Wisdom: 14Charisma: 10 Proficiency Bonus: 2.Initiative: 3   
+
+Artimetz Resistances : Slashing: ???Piercing: ???Bludgeoning: ???Fire: ???Lightning: ???Psychic: ???Poison: ???  
+
+Artimetz Attacks, Spells & Features : Darkvision.Fey Ancestry.Opportunity Attack.Sunlight Sensitivity  
+
+Artimetz Rewards : Experience: ????.Loot: ?????  
+
+Artimetz Notes & Tips : Notes and tips go here    

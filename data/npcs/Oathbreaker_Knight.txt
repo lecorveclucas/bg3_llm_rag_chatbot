@@ -1,0 +1,19 @@
+Oathbreaker Knight : Oathbreaker Knight is an NPC in Baldur's Gate 3. Oathbreaker Knight can be found at the Camp. Oathbreaker Knight only becomes available when you break your Oath, as a Paladin. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Oathbreaker Knight : Can be found at: Act 1 Camp  
+
+Oathbreaker Knight Related Quests : N/A  
+
+Oathbreaker Knight Dialogue Options : The Oathbreaker Knight is heard when, while playing as a Paladin, an Oath is broken. As you head to camp for a Long Rest, he can be found near Withers position.  Interact with the Oathbreaker Knight to finally break your oath and become an Oathbreaker, by reaffirming that decision. You can also decide to remain pure, but you will be unable to use your channel oath charges. If at any given moment, after you have become an Oathbreaker, want to earn your previous subclass. Just talk to the Oathbreaker Knight again and tell him that you wish to up your oath again. You will have to spend 1,000 gold to be able to recover your former subclass.   
+
+Oathbreaker Knight Stats : 
+
+Oathbreaker Knight General Information : Race: UndeadType: Undead Health:192AC: 18Base speed: 9mSize: MediumWeight: 50Attitude: 0
+
+Oathbreaker Knight stats : Strength: 18Dexterity: 16Constitution: 14Intelligence: 10Wisdom: 16Charisma: 18 Proficiency Bonus: +4 Initiative: +3
+
+Oathbreaker Knight Passive Features : Darkvision.Extra Attack.Great Weapon Fighting Necrotic: Resistant
+
+Oathbreaker Knight Notable Loot : The Oathbreaker Knight's corpse cannot be looted unlike other corpses in the game. Instead, 3 javelins are dropped next to it.If the player has reclaimed their original Oath by paying 1000gp and the Oathbreaker Knight is killed, the gold paid will drop next to his corpse.
+
+Oathbreaker Knight Notes and Tips : The Oathbreaker Knight uses Divine Smite same as player Paladins, but does not appear to use any spells or subclass features.As of Patch 9, his greatsword cannot be looted.He has the second highest amount of health in the game out of any NPC that can be fought as of Patch 9, second only to Grym.Killing the Oathbreaker Knight does not break a Paladin's Oath.If the player chooses to fight the Oathbreaker Knight by attacking him in camp, all companions not already in the player's party will join the fight as non-controllable allies, making the fight easier.

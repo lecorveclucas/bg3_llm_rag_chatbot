@@ -1,0 +1,21 @@
+Dammon : Dammon is an NPC and Merchant in Baldur's Gate 3. Dammon can be found at the Hollow, in the Druid Grove. Dammon is an Asmodeus Tiefling that works as a smith. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Dammon : Can be found at: Act 1 Druid Grove Act 2 Last Light Inn Act 3 Lower City
+
+Dammon Related Quests : The Hellion's Heart After you've completed the second part of Karlach's quest, The Hellion's Heart, where you finally cool her down, Dammon can make use of any extra Infernal Iron you have in your inventory.  You'll see a unique dialogue option when you speak with him at Last Light Inn: "I think I found a material you could work with.  What can you make of it?"  After using this prompt he'll craft you one of a number of items including: Flawed Helldusk Armor, Flawed Helldusk Helmet, and Flawed Helldusk Gloves, each consuming a single Infernal Iron. If you have the Infernal Alloy from the Dwarf in Grymeforge, though, he can make all three pieces of the Flawed Helldusk set by repeatedly using the "I found this metal in Grymeforge" option.
+
+Dammon Dialogue Options : If you approach him with Karlach, this will be a chance to improve your approval. This also advances The Hellion's Heart. Eventually Karlach will say Karlach: hey soldier - I think we picked up some of that infernal iron already. What say you - should I give it to him? Absolutely - let's see what he can do.I'm not sure. Should we be tampering with an infernal machine?.We'll keep our eyes open for some iron.Personally, I'd like to know what infernal iron is worth.Could we see your wares?.Leave.  If you agree with her, Karlach will approve. The Hellion's Heart will be updated after your interaction.   
+
+Dammon Merchant Wares : Not all items will be sold at the same time. Leveling up or completing a Long Rest will reset the shop and potentially show different items. Unique items will not refresh if previously purchased. Arrow of Ilmater.Arrow of Darkness.Arrow of Roaring Thunder.Heavy Crossbow.Shortbow.Shortbow +1.Longbow.Light Crossbow +1.Blooded Greataxe - Unique Item.Greataxe.Greataxe +1.Greatclub.Greatclub +1.Spear.Spear +1.Rapier.Rapier +1.Dagger.Dagger +1.Handaxe +1.Light Hammer.Light Hammer +1.Mace.Mace +1.Maul.Morningstar.Morningstar +1.Quarterstaff.Quarterstaff +1.Halberd +1.Battleaxe.Scimitar.War Pick.War Pick +1.Helmet.Chain Shirt.Ring Mail Armour.Scale Mail Armour.Scale Mail Armour +1.Studded Shield.Metallic Boots.Metallic Gloves   
+
+Dammon Stats : 
+
+Dammon General Information : Race: Asmodeus TieflingHealth: 8AC: 13Base speed: 9mSize: MediumWeight: 60kgAttitude: 0
+
+Dammon stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Dammon Passive Features : Hellish Resistance: Your blood protects you from flame, abyssal or otherwise. You have resistance to Fire and take only half damage from it. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: You can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: ResistanceLightning: NormalPsychic: NormalPoison: Normal
+
+Dammon Notable Loot : N/A
+
+Dammon Notes and Tips : DO NOT pickpocket him at Last Light Inn in Act 2! As soon as he notices that he's been robbed, he'll run off and despawn, never to return. I was able to pickpocket him just fine in Act 1, though, so this is likely a bug in v4.1.1.

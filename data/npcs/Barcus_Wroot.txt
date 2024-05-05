@@ -1,0 +1,19 @@
+Barcus Wroot : Barcus Wroot is an NPC in Baldur's Gate 3. Barcus Wroot can be initially found at the Blighted Village. Later on, he can be found on the Grymforge. Barcus Wroot is looking for his friend Wulbren. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Barcus Wroot : Can be found at: Act 1 Blighted Village.Grymforge.Camp  
+
+Barcus Wroot Related Quests : Rescue the Gnome.Save the Grymforge Gnomes  
+
+Barcus Wroot Dialogue Options : The events during his interaction will determine the outcomes of the quest: Rescue the Gnome When first found at the Blighted Village, Barcus Wroot is in a tight spot, tied to the blade of a windmill to the amusement of a group of goblins, led by Fezzerk. If you manage to convince Fezzerk to leave him alone, or end up defeating him, you can free Barcus. Use the button that says Brake to free him, the other one will send the Deep Gnome flying.If you choose to free him, he asks what you want in return. Barcus will tell you he is looking for a friend that has gone missing. He also points out that if you find his belongings, you can have them (can be found in the basement of the windmill). After this, he will leave. Barcus Wroot: You saved me. Now you'll extort me. That's how this works, yes? I'd rather know how you got caught.You owe me nothing.Yes. My reward - now After your conversation, he will leave.   He can be found again at the Grymforge. And again, he has been captured, this time by the Duergar. He is working as a slave on the digging site, attempting to remove the rubble to free True Soul Nere. If you manage to free him. He will insist on his search for his friend Wulbren, but you can convince him that it will lead to a third capture. This will make him change his mind and he can join your camp. When you reach the Last Light Inn, he will leave your camp. He can be found on the 1st floor of the Last Light Inn, in the southeast corner. Here, he will act as a merchant.  
+
+Barcus Wroot Stats : 
+
+Barcus Wroot General Information : Race: Deep GnomeHealth: 20AC: 10Base speed: 6mSize: SmallWeight: 35kgAttitude: 0
+
+Barcus Wroot stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Barcus Wroot Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Superior Darkvision: This creature can see in the dark within 24m. Gnome Cunning: You have advantage on Intelligence, Wisdom, and Charisma Saving Throws. Stone Camouflage: You have advantage on Stealth checks Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Barcus Wroot Notable Loot : Barcus' Log.Bloody Amulet
+
+Barcus Wroot Notes and Tips : Notes & Tips  

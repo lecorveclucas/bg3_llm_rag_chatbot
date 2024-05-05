@@ -1,0 +1,19 @@
+Sister Yannis : Sister Yannis is an NPC in Baldur's Gate 3. Sister Yannis can be found at Open Hand Temple, Rivington. Sister Yannis is a Lightfoot Halfling with whom you can interact to Solve the Open Hand Temple Murders. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Sister Yannis : Can be found at: Act 3 Open Hand Temple, Rivington.  
+
+Sister Yannis Related Quests : Solve the Open Hand Temple Murders  
+
+Sister Yannis Dialogue Options : After welcoming you to explore the temple further, proceed to the central area where you'll encounter Sister Yannis and Valeria, a small flying elephant. A scene unfolds where they argue about a criminal case that Sister Yannis is handling, with Valeria suggesting that the accused former criminal is the murderer. Valeria leaves, allowing you to interact with Sister Yannis: Acknowledge the intensity of their disagreement.Accept Sister Yannis' apology.Disregard the apology and express skepticism.Downplay the significance of swearing in a temple.Utilize your Warlock background to relate to Valeria's nature. Select the fifth option, and Sister Yannis will express gratitude for your understanding, noting the exceptional circumstances surrounding the situation. She explains that both Father Lorgan and a refugee named Brilgor were victims of the incidents. Investigator Valeria posits that Brilgor, despite being killed, might have been responsible for murdering Father Lorgan before taking his own life. Responding to Yannis' information, you can offer your perspective: Offering to conduct a thorough investigation to ascertain Brilgor's innocence.Inquiring about the political implications of Brilgor's situation.Suggesting that the temple's focus should be on ensuring safety.Choosing to leave the conversation. Opt for the second choice, and Yannis elaborates on Brilgor's status as a refugee and the lack of support they receive. With Gortash's influence, she fears that if the murder was committed by a refugee, the Flaming Fist might cease refugee aid. Respond to her concerns with: Committing to help by investigating to prove Brilgor's innocence.Recognizing the ongoing need to assist Baldur's Gate residents.Expressing your view that the temple should concentrate on spiritual matters.Choosing to depart from the conversation. Choose the first option to update the quest "Solve the Open Hand Temple Murders." Yannis allows you to explore the temple premises but cautions that new evidence is crucial to changing Investigator Valeria's perspective. In response, you can inquire further: Requesting information about Investigator Valeria's whereabouts.Seeking guidance on what kind of evidence to search for.Inquiring about the location of Shirra Clarwen.Indicating your intention to leave. Choose the first option, and Yannis directs you to Sharess Caress, where Investigator Valeria can often be found. If you opt for the third choice, she reveals that Shirra Clarwen has passed away and is buried in a crypt beneath the temple. This revelation updates the quest "Help the Cursed Monk." Finally, if you choose the second option, Yannis advises you to start by searching for the murder weapon, as Valeria was unable to locate it.   
+
+Sister Yannis Stats : 
+
+Sister Yannis General Information : Race: Lightfoot HalflingHealth: 13AC: 10Base speed: N/ASize: SmallWeight: 35kgAttitude: N/A
+
+Sister Yannis stats : Strength: 12Dexterity: 10Constitution: 12Intelligence: 12Wisdom: 18Charisma: 12 Proficiency Bonus: N/A Initiative: N/A
+
+Sister Yannis Passive Features : Brave.Halfling Luck.Opportunity Attack None
+
+Sister Yannis Notable Loot : N/A
+
+Sister Yannis Notes and Tips : Notes & Tips  

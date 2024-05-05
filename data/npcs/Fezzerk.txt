@@ -1,0 +1,19 @@
+Fezzerk : Goblin BossLevel 3 Fezzerk is an NPC and potential Enemy in Baldur's Gate 3. Fezzerk can be found at Blighted Village. Fezzerk commands a group of goblins that are torturing a Deep Gnome called Barcus Wroot. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Fezzerk : Can be found at: Act 1 Blighted Village. Near the windmill. Act 2 Moonrise Towers. 
+
+Fezzerk Related Quests : Rescue the Gnome.The Blade of Frontiers  
+
+Fezzerk Dialogue Options : Act 1: When you first encounter Fezzerk, he has a gnome (Barcus Wroot) tied to a windmill's mill blade for pure amusement. Your interaction here will be recorded as part of the Rescue the Gnome quest. You can interact with him. This situation can be resolved in different ways: Doing nothing regarding Barcus Wroot, the Gnome tied to the windmill.Convince Fezzerk and his group to leave, either by passing a check or using the tadpole.Fezzerk and Wyll's story has changed. Wyll does not have a special interaction with Fezzerk anymore. Depending on your choices, different Companions will approve or disapprove.  Dialogue choices:  [INTIMIDATION] I won't let you harm a defenseless being - not without a fight.[PERSUASION] All of you lot against some deep gnome? You should find a better target. .[DETECT THOUGHTS] Read the goblin's mind.[ILLITHID] [WISDOM] You will release the gnome. That's an order. Use persuasion and they will leave him alone. Shadowheart, Gale and Karlach will approve. Attack. Laez`el will approve,  Shadowheart disapprove Act 2: If Fezzerk survives your first encounter and you defeated the goblin leaders, when you enter the great hall to report to Disciple Z'rell, she and Katheric Thorm are dealing with a group of three goblins. One of them is Fezzerk. They are on trial because they failed to achieve their mission. You are then asked how they should deal with them. It doesn't matter what your first choice is, one of the goblins gets killed either way (though Thorm seems to approve most of the "kill them" route). Afterwards Fezzerk and the other remaining goblin are entrust to you. You have 4 choices: Make them kill themselves (Approval: Astarion - Disapproval: Wyll, Karlach).Choke them to death (Approval: Astarion - Disapproval: Wyll, Karlach).Make them fight you (Approval: Lae'zel, Karlach - Disapproval: Astarion).Free them (Approval: Karlach - Disapproval: Astarion, Halsin, Lae'zel) Freeing the goblins also gives an Inspiration Point to the Urchin Origin and the Noble Origin.  
+
+Fezzerk Stats : 
+
+Fezzerk General Information : Race: Goblin (Humanoid)Health: 21AC: 14Base speed: 9mSize: SmallWeight: 35kgAttitude: 0
+
+Fezzerk stats : Strength: 12Dexterity: 14Constitution: 11Intelligence: 10Wisdom: 8Charisma: 10 Proficiency Bonus: +3 Initiative: +2
+
+Fezzerk Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: Can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Fezzerk Notable Loot : Very Heavy Greataxe
+
+Fezzerk Notes and Tips : Notes & Tips  

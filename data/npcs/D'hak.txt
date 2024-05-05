@@ -1,0 +1,13 @@
+D'hak : Health: 37AC: 14Base Speed: 12m / 40ft Location: Captain's Quarters D'hak is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+D'hak general information : Race: WolfHealth: 37AC: 14Base speed: 12m / 40ftSize: LargeWeight: 110kg / 220lbs    
+
+D'hak abilities : Strength: 17Dexterity: 15Constitution: 15Intelligence: 3Wisdom: 12 Charisma: 7 Proficiency Bonus: ??.Initiative: 2   
+
+D'hak Resistances : Slashing: ???Piercing: ???Bludgeoning: ???Fire: ???Lightning: ???Psychic: ???Poison: ???  
+
+D'hak Attacks, Spells & Features : Extra Attack.Opportunity Attack.Pack Tactics  
+
+D'hak Rewards : Experience: 40.Loot: ?????  
+
+D'hak Notes & Tips : Notes and tips go here    

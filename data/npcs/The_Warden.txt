@@ -1,0 +1,25 @@
+The Warden : Level 9 The Warden is a Boss in Baldur's Gate 3. The Warden is the Tiefling Warden of Moonrise Towers Prison. Bosses in BG3 are powerful enemies that have increased health and pose a bigger challenge for players.   
+
+Where to find The Warden : Act 2 Moonrise Towers Prison  
+
+The Warden Quests : N/A  
+
+The Warden Dialogue Options : The Warden: The prisoners have escaped - and the blame falls on me. I will be split open, my innards splayed before the eyes of the Absolute. As it should be. You're not bothered that you'll be killed?.I'm glad I snuck the prisoners out when I did.I'm sorry She won't yield to your attempt to speak with the prisoners, so you'll need to confront her.
+
+The Warden Boss Guide : 
+
+The Warden Boss Tips : Insert boss tips here.
+
+The Warden General Information : Race: TieflingHealth: 124AC: 17Base speed: 9mSize: MediumWeight: 75kg
+
+The Warden Passive Features : Evade Difficult Terrain.Opportunity Attack.Archery.Colosus Slayer.Darkvision.Escape the Horde.Extra Attack.Helish Resistance
+
+The Warden Abilities : Strength: 14Dexterity: 18Constitution: 15Intelligence: 9Wisdom: 16Charisma: 14 Initiative: +4
+
+Attacks & Spells : ??
+
+The Warden Resistances : Slashing: NonePiercing: NoneBludgeoning: NoneFire: NormalLightning: NonePsychic: NonePoison: None
+
+The Warden Rewards : Spellcrux Amulet
+
+Notes and Tips : Notes and tips go here  

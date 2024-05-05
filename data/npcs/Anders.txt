@@ -1,0 +1,19 @@
+Anders : Anders is an NPC in Baldur's Gate 3. Anders can be found at The Risen Road. He is alongside his companions, inside a tollhouse, they are looking for a demon named Karlach. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Anders : Can be found at: Act 1 The Risen Road  
+
+Anders Related Quests : Hunt the Devil  
+
+Anders Dialogue Options : When approached, Anders tells you that even if the gnolls hit them hard, the place is safe because it's under Tyr's protection. He tells you that he and his companions are looking for a Tiefling called Karlach. According to his words, Karlach is a powerful demon that has to be put to rest. If you bring him Karlach's head, he will deliver his Sword of Justice. This updates Hunt the Devil. Cast "Speak with Dead" in the room next to him reveals he lied to you. After he tells about their encounter with a demon who slaughtered them. Where is this devil?.It isn't like a devil to use their brawn instead of their brains.Let me help. I can hunt down this monster.I wish you and yours well, but I must e on my way soon.Now that she softened you up, I'll finish you off.  Eventually, he will offer up his sword in exchange for her head.  Very well. I'll bring you her head. . I'll think about it.I have other things to deal with .The only head that will roll is yours.    You can return to Anders with Karlach and he will tell you to leave them in peace. You'll need to convince me you're not who she says you are.Karlach, these people seem harmless.You can drop the act. I know you're servants of Zariel. .[INSIGHT] Assess his posture, his eyes - is he telling the truth?.[DETECT THOUGHTS] Probe his mind.  If you choose option 3, he will deny it. You will have another opportunity to leave him alone Enough of this charade, I know who you really are.Stand down, Karalach, or I'll have to intervene. .Leave them in peace.  If you continue to press him with option one, a Battle will soon begin.   
+
+Anders Stats : 
+
+Anders General Information : Race: Human (HumanoidHealth: 30AC: 14Base speed: 0mSize: MediumWeight: 75kgAttitude: 0
+
+Anders stats : Strength: 18Dexterity: 11Constitution: 14Intelligence: 12Wisdom: 12Charisma: 18 Proficiency Bonus: +2 Initiative: +0
+
+Anders Passive Features : Opportunity Attack: Attack an enemy moving out of your reach.Divine Health: Prevents disease from affecting you.Extra Attack: Can make an additional free attack after making an unarmed or weapon attack. If you gain the Extra Attack feature from more than one class, they don't add together. Conditions:  Aura of Protection: The paladin and any nearby allies have +4 bonus on Saving Throws. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Anders Notable Loot : Sword of Justice
+
+Anders Notes and Tips : Notes & Tips  

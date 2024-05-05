@@ -1,0 +1,19 @@
+Tara : Tara is an NPC in Baldur's Gate 3. Tara can be found at the Camp and in Rivington. Tara is a Tressym, She can help you obtain important items, but she only accepts fish and magical items in exchange for her. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Tara : Can be found at: Act 1 & 3 Camp.Rivington  
+
+Tara Related Quests : The Wizard of Waterdeep.Find the Missing Letters  
+
+Tara Dialogue Options : in Rivington: You'll encounter a Tressym guarding a shiny ring and a stack of letters. Engage in conversation using one of the following options: What are you doing here, kitty?.Quite a nice ring you have there. What are tou going to do with it?.From the look of those letters, one might guess you were responsible for the post house's missing pigeons.Leave. Select the third option, and the cat acknowledges its connection to the missing pigeons. Proceed with the following questions: These letters are important. You shouldn't be eating their messengers.If pigeon is your second-favourite, what's your first?.Happy hunting, then. Select the first option, and the cat wonders if you're ready to depart. Respond with: [INTIMIDATION] Leave these pigeons alone or I'll eat you.[PERSUASION] I'm not leaving 'til you agree to stop hunting these pigeons.[DECEPTION] There's much better aviary across town, if you've already picked over the choice cuts here.Enjoy your feast. Choose the third option, and if pass the DC 15 Deception Check, the cat will believe you and allow you to loot the Bundle of Letters nestled within its nest.  Return to Danzo at the Sword Coast Couriers and to hand the letters over. He'll reward you with 320 Gold.  
+
+Tara Stats : 
+
+Tara General Information : Race: TressymHealth: 12AC: 12Base speed: N/ASize: TinyWeight: 4.5kgAttitude: N/A
+
+Tara stats : Strength: 3Dexterity: 15Constitution: 10Intelligence: 11Wisdom: 12Charisma: 12 Proficiency Bonus: N/A Initiative: +2
+
+Tara Passive Features : Darkvision.Feline Fall.Opportunity Attack None
+
+Tara Notable Loot : Hat of the Sharp Caster: Sold by Tressym on the roof of Devil's Fee.Slinging Shoes: on the roof of the Open Hand Temple. .Tressym Collar: On the monastery roof in Rivington.Ring of Blink: Rooftop of Open Hand Temple. Need to persuade Tara or steal it.Ring of Beguiling: In Tressym's nest. On rooftop of Open Hand Temple, Rivington.
+
+Tara Notes and Tips : Notes & Tips  

@@ -1,0 +1,19 @@
+Mol : Mol is an NPC in Baldur's Gate 3. Mol can be found at Tiefling Hideout. Complete the Investigate the Beach quest to gain her favor. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Mol : Can be found at: Act 1 Tiefling Hideout  
+
+Mol Related Quests : Investigate the Beach.Save Arabella.Steal the Sacred Idol  
+
+Mol Dialogue Options : If you try to talk with Mol before Investigate the Beach is completed, she will tell you to leave.If you complete Save Arabella, she will show gratitude and you will be able to start Steal the Sacred Idol.When Mol asks you if you will try to tell her that "thievery is bad", it is possible to respond that you want to start a Thief's guild. This will cost some gold and will possibly result in some kind of income later.If you talk to Mol after she preforms the countdown in the Tiefling Hideout, she will turn all the Tiefling against you
+
+Mol Stats : 
+
+Mol General Information : Race: TieflingHealth: 5AC: 12Base speed: 9mSize: SmallWeight: 25kgAttitude: 0
+
+Mol stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: +2
+
+Mol Passive Features : Hellish Resistance: Your blood protects you from flame, abyssal or otherwise. You have resistance to Fire and take only half damage from it. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: You can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: ResistantLightning: NormalPsychic: NormalPoison: Normal
+
+Mol Notable Loot : N/A
+
+Mol Notes and Tips : If you bother Mol too much before Investigate the Beach is completed and do not leave when she demands it, she will not talk with you anymore and other Tiefling kids will neither.An item Contract: Mol unreadable for the player is found in Raphael's vault in the House of Hope, suggesting she made a deal with him back in the Shadowlands when you see them interact. She reveals this was what allowed her to escape the cursed lands unharmed, and in the grander scheme of things will help her become the guild leader one day. She is not interested in having the contract destroyed; she knew what she was signing up for. After signing her contract, Mol no longer wears an eyepatch, implying restoring her eye was a part of the deal. Mol doesn't take it too kindly to learn you may have slain her eldritch patron, as that means he won't be fulfilling any of the promises made to her. .She reveals this was what allowed her to escape the cursed lands unharmed, and in the grander scheme of things will help her become the guild leader one day. She is not interested in having the contract destroyed; she knew what she was signing up for.After signing her contract, Mol no longer wears an eyepatch, implying restoring her eye was a part of the deal.Mol doesn't take it too kindly to learn you may have slain her eldritch patron, as that means he won't be fulfilling any of the promises made to her.If you gain her favour through the game and meet her later in Baldur's Gate, she may become one of your allies at the end of the game. Passive boon: All companions gain the ability to cast Rays of Fire (a non-spell variant of Scorching Ray), and fire damage towards them is reduced. .Passive boon: All companions gain the ability to cast Rays of Fire (a non-spell variant of Scorching Ray), and fire damage towards them is reduced.  

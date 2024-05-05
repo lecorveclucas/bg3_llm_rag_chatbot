@@ -1,0 +1,13 @@
+Shadow-Whiskers : Health: 110AC: 16Base Speed: __speed__ Location: Circus of the Last Days Shadow-Whiskers is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Shadow-Whiskers general information : Race: Displacer BeastHealth: 110AC: 16Base speed: __speed__Size: MediumWeight: 140 kg / lbsAttitude: __attitude__    
+
+Shadow-Whiskers abilities : Strength: 18Dexterity: 15Constitution: 16Intelligence: 6Wisdom: 12Charisma: 8 Initiative: 2   
+
+Shadow-Whiskers Resistances : --  
+
+Shadow-Whiskers Attacks, Spells & Features : Darkvision.Evasion.Extra Attack.Opportunity Attack  
+
+Shadow-Whiskers Rewards : Experience: ????.Loot: ?????  
+
+Shadow-Whiskers Notes & Tips : Notes and tips go here    

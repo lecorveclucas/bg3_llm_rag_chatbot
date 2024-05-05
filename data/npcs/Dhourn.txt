@@ -1,0 +1,19 @@
+Dhourn : Initiate of the Living Library Dhourn is an NPC in Baldur's Gate 3. Dhourn can be found at Underdark. Dhourn is first found petrified, he is one of the three Drow, alongside Xargrim and Filro the Forgotten, looking for the Adamantine Forge.  There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Dhourn : Can be found at: Act 1 Underdark  
+
+Dhourn Related Quests : The Adamantine Forge  
+
+Dhourn Dialogue Options : Dhourn is found petrified, near the selunite temple in the Underdark. Once you reach his area of influence, you will be faced by a Spectator. The monstrosity will remove the petrify spell from Dhourn and his Drow team, this will cause them to attack you. The player can either kill the Spectator first or do a small amount of damage to Dhourn, breaking the Spectator's hold on him. If the latter is done, Dhourn will fight with you against the Spectator. He will tell you about how he and two other Drow (Xargrim and Filro the Forgotten) were looking to find the adamantine forge, but reaches the conclusion that they are either dead or couldn't find it. If the player has already fought Filro the Forgotten you have the opportunity to tell him Filro is dead, having joined a pack of Hook Horrors. Nevertheless, you will end up fighting him and any other Drow the Spectator managed to de-petrify during the fight. If you are a female Drow, the interaction can be resolved peacefully by convincing Dhourn to give the player his Memory Shard and return home. Note that if you do this you will not receive the Icy Helve loot (can be combined with other items to make a staff). You may pickpocket him for the Icy Helve after ending the encounter peacefully, but he will disappear from this location once you reload the area and/or long rest. Unknown at this time if he can be encountered again later.  
+
+Dhourn Stats : 
+
+Dhourn General Information : Race: Lolth-Sworn DrowHealth: 20AC: 10Base speed: 9mSize: MediumWeight: 50kgAttitude: 0
+
+Dhourn stats : Strength: 10Dexterity: 10Constitution: 12Intelligence: 16Wisdom: 10Charisma: 14 Proficiency Bonus: +2 Initiative: -
+
+Dhourn Passive Features : Fey Ancestry: The Feywild casts a veil over your mind. You have advantage on saving throws against being Charmed, and magic can't put you to sleep. Sunlight Sensitivity: While in sunlight, this creature has Disadvantage on attack rolls and Perception checks that rely on sight. Darkvision: This creature can see in the dark within 12 m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Dhourn Notable Loot : x20 Gold.The Blast Pendant.Memory Shard.Icy Helve.Potion of Healing
+
+Dhourn Notes and Tips : Provides 50 XP when killed.If the Spectator does not de-petrify Dhourn during combat a Basilisk Oil can be used to do so.  

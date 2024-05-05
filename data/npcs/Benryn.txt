@@ -1,0 +1,19 @@
+Benryn : Benryn is an NPC in Baldur's Gate 3. Benryn can be found at Waukeen's Rest in The Risen Road. He is trapped inside a burning tavern. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Benryn : Can be found at: Act 1 The second floor of the burning tavern in Waukeen's Rest, The Risen Road  
+
+Benryn Related Quests : Rescue the Trapped Man  
+
+Benryn Dialogue Options : When you first encounter Benryn, he is stuck under a wood beam in the burning tavern and he yells for help. You can pass a few checks to try to lift the burning wood beam and free him. Your interaction here will update the journal for Rescue the Trapped Man [BERSERKER] [STRENGTH] Grip the wreckage. FLING IT ASIDE. .[INVESTIGATION[ Find leverage to shift the beam.Leave. Pass the checks to successfully free him.  Your Quest Journal will once again update with progress on the quest. Use Karlach to scavenge materials from the burning building. Afterward, engage in conversation with Benryn, who is grieving the loss of someone dear to him. You can select from these dialogue options: How did the two of you become separated?.Your actions wouldn't have changed the outcome.Leave. Pick the first option, and Benryn will explain the circumstances of their separation. Choose one of these dialogues as your response: What did you mean by mentioning a dowry?.It's not your fault. There's no way you could have predicted this.Be thankful you're still alive.Leave. Opt for the second option, and Benryn will clarify that the dowry was intended for his sister's wedding. Now, choose the second option, and he'll request you to leave him to mourn his loss. Your next objective is to locate the mentioned dowry in order to complete the "Rescue the Trapped Man" quest. The dowry ring is hidden in the haystack, inside the barn. Click on the haystack to reveal the chest. He will head running to the safe room and find his wife dead. You will then have to find a dowry, you can find it in a barn next to the Zhentarim Hideout entrance. The Dark Urge receives a point of inspiration if/when Benryn dies, regardless of how or when he dies. If you rescue Benryn from the fire, you can kill him at a later time to receive the associated inspiration. There is a known Dark Urge bug where players may receive the inspiration point for Benryn's death shortly after the nautiloid crashes. 
+
+Benryn Stats : 
+
+Benryn General Information : Race: High Half-ElfHealth: 8AC: 10Base speed: 9mSize: MediumWeight: 55kgAttitude: 0
+
+Benryn stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Benryn Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Fey Ancestry: The Feywild casts a veil over your mind. You have advantage on saving throws against being Charmed, and magic can't put you to sleep. Darkvision: Can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Benryn Notable Loot : N/A
+
+Benryn Notes and Tips : Notes & Tips  

@@ -1,0 +1,19 @@
+Chock : Level 4 Chock is an NPC and Enemy in Baldur's Gate 3. Chock can be found at the Blighted Village, he is under the command of Lump the Enlightened, a very eloquent ogre. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Chock : Can be found at: Act 1 Blighted Village  
+
+Chock Related Quests : N/A  
+
+Chock Dialogue Options : Players don't get to talk directly to Chock, only to Lump the Enlightened.  
+
+Chock Stats : 
+
+Chock General Information : Race: Ogre (Giant)Health: 59AC: 12Base speed: 12Size: LargeWeight: 3500kgAttitude: 0
+
+Chock stats : Strength: 19Dexterity: 12Constitution: 16Intelligence: 5Wisdom: 7Charisma: 7 Proficiency Bonus: +2 Initiative: +1
+
+Chock Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Tenacity: When you miss an Attack, deal 1 Bludgeoning damage anyway. Darkvision: Can see in the dark up to 12m. Ogre's Mark: Damage is increased by 1d6 Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Chock Notable Loot : N/A
+
+Chock Notes and Tips : Notes & Tips  

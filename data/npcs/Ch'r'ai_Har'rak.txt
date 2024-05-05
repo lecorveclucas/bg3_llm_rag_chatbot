@@ -1,0 +1,13 @@
+Ch'r'ai Har'rak : Health: __health__AC: __AC__Base Speed: __speed__ Location: Knights of the Shield Hideout Ch'r'ai Har'rak is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Ch'r'ai Har'rak general information : Race: GithyankiHealth: __health__AC: __ac__Base speed: __speed__Size: __size__Weight: __weight__Attitude: __attitude__    
+
+Ch'r'ai Har'rak abilities : Strength:Dexterity:Constitution:Intelligence:Wisdom:Charisma: Proficiency Bonus: ??.Initiative: ??   
+
+Ch'r'ai Har'rak Resistances : Slashing: ???Piercing: ???Bludgeoning: ???Fire: ???Lightning: ???Psychic: ???Poison: ???  
+
+Ch'r'ai Har'rak Attacks, Spells & Features : attack1.attac2.spell1.spell2  
+
+Ch'r'ai Har'rak Rewards : Experience: ????.Loot: ?????  
+
+Ch'r'ai Har'rak Notes & Tips : Notes and tips go here    

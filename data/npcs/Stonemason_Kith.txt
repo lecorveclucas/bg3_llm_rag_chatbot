@@ -1,0 +1,11 @@
+Stonemason Kith : Stonemason Kith is an NPC in Baldur's Gate 3. Stonemason Kith can be found at Grymforge. Stonemason Kith asks you about the old statues and the architecture of the area. He also sells some wares.   
+
+Stonemason Kith Information: : Stonemason Kith is a Duergar that sells some wares and asks you about the architecture of the Grymforge  
+
+Where to find Stonemason Kith : Can be found at: Act 1.Grymforge  
+
+Stonemason Kith Quests : N/A  
+
+Stonemason Kith Dialogue Options : __quests__  
+
+Stonemason Kith Notes and Tips : Pass all his dialogue checks and he will give you an Infernal Alloy. If you fail, you can also purchase it off him with gold.  

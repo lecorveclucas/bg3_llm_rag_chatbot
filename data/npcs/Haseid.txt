@@ -1,0 +1,13 @@
+Haseid : Haseid is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot. He is part of a grave robbing band, consisting of nine other members (Gimblebock, Taman, Quelenna, Warryn, Andorn, Torgga, Barton, Mari, and Cefrey). They are currently in the process of looting the Dank Crypt but aren't having much success.   
+
+Haseid General information : Race: HumanHealth: 14 || 17|| 32AC: 13Base speed: 9mSize: MediumWeight: 75kgAttitude: 0  
+
+Haseid Skills : Strength: 14Dexterity: 11Constitution: 16Intelligence: 10Wisdom: 10Charisma: 12 Proficiency Bonus: +4.Initiative: +0   
+
+Haseid Resistances : Slashing: Normal (Halved when raging)Piercing: Normal (Halved when raging)Bludgeoning: Normal (Halved when raging)Fire: NormalCold: NormalPoison: Normal Main Hand Attack.Throw
+
+Passive Features : Danger Sense: You sense when things aren't as they should be. You have an Advantage on Dexterity Saving Throws against traps, spells, and surfaces. To gain this benefit, you can't be Blinded or Incapacitated.Unarmoured Defense: Your body is as resilient as any armour. While not wearing armour, you add your constitution Modifier to your Armour Class.Tenacity: When you miss an attack, deal 1 Bludgeoning damage anyway. Uses a reaction. Can be used once per Short Rest.  
+
+Haseid Drops : Greatclub.Ring Mail Armour  
+
+Haseid Notes & Tips : There's two oil barrels set near a cluster of the Grave Robbers. Igniting this with a flaming projectile can ignite this and easily damage or take out some of them, making combat a lot easier.During combat, Haseid is able to use Rage, implying his class is Barbarian.    

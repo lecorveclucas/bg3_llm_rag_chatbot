@@ -1,0 +1,19 @@
+Boney : Boney is an NPC in Baldur's Gate 3. Boney can be found at Circus of the Last Days. Boney __shortdescription__. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Boney : Can be found at: Act 3 Circus of the Last Days  
+
+Boney Related Quests : --  
+
+Boney Dialogue Options : You can purchase a statue of themself for 5000 gold. This statue will remain in camp and grant a permanent Bless to whomever it depicts.  
+
+Boney Stats : 
+
+Boney General Information : Race: MephitHealth: 23AC: 14Base speed: ???Size: TinyWeight: 4kgAttitude: 0
+
+Boney stats : Strength: 8Dexterity: 12Constitution: 12Intelligence: 9Wisdom: 11Charisma: 7 Initiative: 1
+
+Boney Passive Features : Darkvision.Opportunity Attack.Death Burst: Force Poison: Immune
+
+Boney Notable Loot : ????
+
+Boney Notes and Tips : Notes & Tips  

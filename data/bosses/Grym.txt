@@ -1,0 +1,19 @@
+Grym : Health: 300, 450AC: 20 (18 Superheated)Movement Speed: 12m Location: Grymforge Grym is an Enemy in Baldur's Gate 3 (BG3). In BG3, each type of Enemy has different attacks, resistances and immunities. Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+BG3 Grym general information : Race: ConstructHit Points: 300 (Balanced), 450 (Tactician)AC: 20 (18 Superheated)Movement Speed: 12mSize: LargeWeight: 5000kgAttitude: 0 (Hostile)
+
+How to defeat Grym in BG3 : You have to take into account a few things when fighting Grym: When you activate the lava and Grym appears, your terrain will be limited to the Circles surrounding the "anvil" part of the forge. Avoid passing through the lava at all costs!.When Grym is standing on lava, it gains a status effect called Superheated. Only when this status effect is active you can damage the golem. This will cause Grym to become Vulnerable to Bludgeoning damage, lower his Armour Class and be Resistant to Thunder, Cold and Force. He will remain Immune to all other elements.Grym will target the most recent character that struck it before its turn and set them as "Prime Target". This can be exploited to use the anvil to deal massive damage to Grym. It is not necessary to have damaged it, only to have a successful attack roll. .Position a character near the Forge Lever and, another one near the anvil's strike position. Lure Grym there by attacking it with that character and, once the golem is in position, pull the Forge Lever. The anvil strikes down, dealing around 100 points of damage and leaving the golem Prone.Once Grym loses enough HP, some Fire Mephits will appear and attack (attracted by using the loud hammer likely).If the Lava is removed, interact with the Lava Valve to refill the chamber and force Grym to walk over it.Grym won't take damage from the Anvil if he doesn't have the Superheated status effect.  
+
+BG3 Grym abilities : Strength: 24.Dexterity: 6.Constitution: 24.Intelligence: 3.Wisdom: 11.Charisma: 1.Proficiency Bonus: +5.Initiative: -2
+
+BG3 Grym Conditions : Superheated: Exposure to lava has caused Grym's adamantine body to soften. Has reduced Armour Class (-2) and is Vulnerable to Bludgeoning damage, but has increased Movement Speed. .Exposure to lava has caused Grym's adamantine body to soften.Has reduced Armour Class (-2) and is Vulnerable to Bludgeoning damage, but has increased Movement Speed.
+
+BG3 Grym Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a reaction.Darkvision: You can see in the dark up to 12m.Vengeful Guardian: Grym always attacks the last creature that hits it each round.Adamantine Skin: Made entirely from adamantine, this mass is about as heavy as a dragon, and nearly as indestructible. Only intense heat can soften the metal enough to be shaped.
+
+BG3 Grym Resistances : Slashing: ResistantPiercing: ResistantBludgeoning: Immune (Vulnerable when Superheated)Acid: ImmuneThunder: Immune (Resistant when Superheated)Necrotic: ImmuneFire: ImmuneLightning: ImmuneCold: Immune (Resistant when Superheated)Poison: ImmunePsychic: ImmuneRadiant: ImmuneForce: Resistant
+
+BG3 Grym attacks & spells : Quake: 3d4 Bludgeoning damage in pbAoE. STR Save vs Prone.Slam: 4d8+7 Bludgeoning damage. STR Save vs Prone.
+
+BG3 Grym Rewards : Experience: 500 XP.Loot: Grymskull Helm
+
+BG3 Grym Notes & Tips : Command: Approach is an excellent Spell to lure Grym to the anvil without being attacked.Heat Metal will make Grym Superheated, lowering the Armour Class and Resistances.One can position any Smokepowder bombs/barrels/satchels they have near the gap in the walkway by the grate where Grym spawns before the fight and blow them up first turn to get a minor jump on damage.    

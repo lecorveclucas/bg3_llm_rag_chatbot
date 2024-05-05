@@ -1,0 +1,21 @@
+Z'rell : Level 9 Disciple Z'rell is an NPC and potential mini Boss in Baldur's Gate 3. Z'rell serves directly under Ketheric Thorm, chosen of the Absolute, at Moonrise Towers. Disciple Z'rell holds power over all of the Absolute's followers, though her abilities do not work on any non-believers.   
+
+Where to find Disciple Z'rell : Act 2 Moonrise Towers  
+
+Disciple Z'rell Quests : Infiltrate Moonrise Towers  
+
+Disciple Z'rell Dialogue Options : Act 2 You first encounter Disciple Z'rell in the main hall of Moonrise Towers. If you didn't kill Fezzerk in Act 1, after entering through the double doors a cutscene will start with Ketheric Thorm and Disciple Z'rell putting Fezzerk and the other goblins on trial. Ketheric Thorm will express that they are useless and should be killed and Disciple Z'rell will leave you to decide their fate. Once you either kill Fezzerk and his group or set them free, you can go upstairs to report to Z'rell. Disciple Z'rell will read your mind to see what decision you came to, being pleased with their deaths or displeased if you freed them. She will probe your mind a second time looking for proof in your faith to the Absolute. [PERSUASION] Distract her with your lust for (romantic interest).].[PERSUASION] Distract her with thoughts of your romantic desires.[DECEPTION] Fake it - fill your mind with love for the Absolute.Distract her by drawing her toward your hunger for power.[WISDOM] Overwelm her by unleashing a wave of hatred as you prepare to attack. The first four options will lead the same result and open up the opportunity to play along as a follower of the Absolute. If you respond with the last option to attack, you will immediately start a battle and the whole outpost will become hostile. Show me the power She gave you.Good for you. How do I get what I want?.Everything? What exactly do you want? Pick any of these and she will then express that she has a job for you to do. I live to serve. What do I need to do?.Oh, do you? Well, it so happens that I have a price.And why should I serve General Thorm?.Is it true that General Thorm is invulnerable? Again, all dialogue options will lead to you accepting the request and she will then tell you to find Balthazar and retrieve the relic. Understood - I'm ready to head out.What if Balthazar's dead?.What exactly was this relic he was sent to retrieve?.You said you lost contact - what do you mean? Asking about the relic will initiate an insight check and if passed, you can roll to persuade her to speak more about it. Passing the persuasion check will allow you to ask for more support and she will then tell you speak with the bugbear quartermaster to access her secret stash. After you have accepted the request,  Z'rell will tell you grab a moonlantern from Balthazar's room you will recieve Balthazar's room key.   
+
+Disciple Z'rell Boss Guide : 
+
+Disciple Z'rell General Information : Race: Half-OrcHealth: 90AC: 14Base speed: Size: MediumWeight: 100kgAttitude:0
+
+Disciple Z'rell Passive Features : Absolute Aegis If the wielder bears the Absolute's Brand, all damage recieved from spells is reduced by 1. Agonizing Blast When you cast Eldritch Blast, add your charisma modifier to the damage it deals, unless it is negative. Dark One's Blessing When you reduce a hostile creature to 0 hit points, this gift from your patron grants you 3+ClassLevel(Warlock) temporary hit points.Can only have temporary hit points from one source. Opportunity Attack Automatically attack an enemy moving out of your reach. Psionic Backlash When an enemy within 9m casts a spell, you can use your reaction to inflict 1d4 Psychic damage to the caster per the spell's level. Shield Bash When a foe hits you with a melee attack, you can use your reaction, to knock it Prone unless they succeed a Dexterity Saving Throw.
+
+Disciple Z'rell Abilities : Strength: 16Dexterity: 11Constitution: 18Intelligence: 14Wisdom: 9Charisma: 17 Initiative:+0
+
+Attacks & Spells : N/A
+
+Disciple Z'rell rewards : N/A
+
+Notes and Tips : Notes and tips go here.??  

@@ -1,0 +1,21 @@
+Bernard : Guardian of the Enchanted TowerLevel 5 Bernard is an NPC in Baldur's Gate 3. Bernard can be found at Arcane Tower. Bernard is a Construct that guards the Arcane Tower.  There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Bernard : Can be found at: Act 1 Arcane Tower, Underdark  
+
+Bernard Related Quests : N/A  
+
+Bernard Dialogue Options : Bernard is a Construct that resides at the Arcane Tower, it talks to you in a particular way, citing plays that can be found all around the tower. By talking to it like you would to any other NPC in the game, Bernard will simply state that it does not know that command. "Or art thou friend, a rescue from my lonely wake?". Bernard turns friendly and you gain 50 XP. Players can read this stanza, from a book called The Roads to Darkness, found on a desk on the level prior to Bernard."How can I trust? How will I ever know? / How can I show myself, my darkest me?". Bernard puts the ring Guiding Light on the table. Threadbare Book contains this stanza, can be found on the floor that has the ingredients Omeluum asked for the Help Omeluum Investigate The Parasite."There is a light in every living thing. /It's crawling t'wards the surface to survive". Bernard turns hostile. Players can learn this stanza by reading the Dusty Book, found on the level with the Arcane Cannons."The silence stretches on - I'm all alone. / Please, can I hold your hands, for just a while?". Bernard gives you a hug. This stanza can be read on the Torn-Out Paper, found on the level prior to Bernard."These empty sheets are all that's left of you. / The last of all the thoughtless gifts you have." Bernard gives you a Potion of Greater Healing. This stanza can be read from the Patched Parchment, found on the table next to Bernard.  
+
+Bernard Stats : 
+
+Bernard General Information : Race: ConstructHealth: 70AC: 18Base speed: 9mSize: MediumWeight: 200kgAttitude: 0
+
+Bernard stats : Strength: 16Dexterity: 14Constitution: 16Intelligence: 8Wisdom: 10Charisma: 6 Proficiency Bonus: +2 Initiative: +2
+
+Bernard Passive Features : Overcharge: Chance to stun the wielder, unless it is a construct.Multiattack: Static Discharge. Bernard can multiattack while under the effect of his Multiattack Discharge Aura
+
+Bernard Conditions : Multiattack Discharge Aura: All Constructs near Bernard deal an additional 1d6+2 Lightning Damage to weapon attacks. All others receive 2d8 Lightning Damage each turn. When the condition ends, Bernard is stunned for 2 seconds. Slashing: ResistantPiercing: ResistantBludgeoning: ResistantFire: ResistantLightning: ResistantPsychic: ResistantPoison: Resistant
+
+Bernard Notable Loot : Antique Key.Light of Creation.Guiding Light (If killed before choosing the command in which it leaves it on the table).Scroll of Prayer of Healing (If killed before choosing the command in which it gives it to you)
+
+Bernard Notes and Tips : Defeating Bernard grants 60 XP .Tasha's Hideous Laughter is pretty effective against it as it has pretty low WIS. Afterward you can disarm it or chip it with range attacks. 

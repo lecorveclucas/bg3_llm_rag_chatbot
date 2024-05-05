@@ -1,0 +1,19 @@
+Zarys : Zarys is an NPC in Baldur's Gate 3. Zarys can be found at Zhentarim Hideout. Zarys is the receiver of the cargo for Find the Missing Shipment. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Zarys : Can be found at: Act 1 Zhentarim Hideout, Waukeen's Rest  
+
+Zarys Related Quests : Find the Missing Shipment  
+
+Zarys Dialogue Options : Locate Zarys at Zhentarim Hideout and if you've accepted the task by Rugan, she will welcome you. Your interaction her has a chance to Inspire Astarion with the Importance of Networking. He is inspired if you successfully talk your way into the Zhentarim hideout.  Enter the hideout and you'll can encounter a few situations depending on your previous choices: Zarys will initiate a combat if you have opened the cargo and offer her the Iron Flask.Zarys and Rugan will welcome you and she will offer you more work for providing her with the shipment still sealed.Rugan will be strapped to a chair and held captive by Zarys. She wants him killed. This happens if you previously used Persuasion during your interaction with Rugan and Olly, and convinced them to sell the cargo themselves.   If Rugan is is held captive, these are your dialogue options:  [PERSUASION] I've already shown I've got more wits than Rugan. Let's work together.[INTIMIDATION] I'm going to walk out of here alive. Play it right, and so will you.Can we just skip to the killing? If you choose to persuade her and successfully pass the Persuasion check, she will let you live without a Battle, and then ask you to deliver the shipment to Baldur's Gate. She also asks that you kill him.  Obey - kill Rugan.I won't do that.  If you obey, Astarion will approve and Rugan will begin to beg. You will ultimately complete the task and you can loot his body afterward.  After this interaction, you can further attempt to Intimidate them into leaving you the chest.     
+
+Zarys Stats : 
+
+Zarys General Information : Race: HumanHealth: 28AC: 14Base speed: 9Size: MediumWeight: 75 kgAttitude: 0
+
+Zarys stats : Strength: 12Dexterity: 16Constitution: 12Intelligence: 12Wisdom: 14Charisma: 10 Proficiency Bonus: +2 Initiative: +3
+
+Zarys Passive Features : Attack of Opportunity Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Zarys Notable Loot : Zhentarim Key
+
+Zarys Notes and Tips : Notes & Tips  

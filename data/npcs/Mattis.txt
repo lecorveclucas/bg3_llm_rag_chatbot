@@ -1,0 +1,19 @@
+Mattis : Mattis is an NPC and a Merchant in Baldur's Gate 3. Mattis can be found at the Druid Grove. He is a Tiefling child that proclaims to sell invaluable goods.       
+
+Where to find Mattis : Can be found at: Act 1 Druid Grove Act 2 Last Light Inn ( Saved the Tieflings in Act 1, Mattis did not die in Act 1)
+
+Mattis Related Quests : N/A  
+
+Mattis Dialogue Options : Upon interacting with Mattis at The Hollow, he will offer you a lucky ring.  Take the ring.That was a fancy trick.Leave.  Even if you refuse, he will continue to insist.  Take the ring.[Sleight of Hand] Mimic his trick and make the ring disappear. .Leave.  Use Sleight of Hand on him successfully and then he will challenge you to play.  Heads.Tails.Pocket the ring.  If you choose to pocket the ring, he will ask you to pay for it.  It's only a joke. Go on- flip your coin.you're getting paid in experience. The ring is mine now.   If you play along, then he will soon offer to show you his wares.  Mattis is a Tiefling child that sells Rings, that according to him are lucky rings but actually have no real power. If you prod him, he will admit that they're not real lucky rings. In addition to these rings, Mattis also sells assorted miscellaneous junk items. Unique items will not refresh if previously purchased. Ring of Being Really Invisible - Unique Item (No effect).Ring of Resistance to Ants - Unique Item (No effect).Ring of Infinite Wishes - Unique Item (No effect).Ring of the Lekinesus - Unique Item (No effect).Bucket.Plate.Clam Shell.Fork.Ink Pot.Thieves' Tools.Shovel.Tarbell's Guide to Distractions.Potato    
+
+Mattis Stats : 
+
+Mattis General Information : Race: TieflingHealth: 5AC: 12Base speed: 9mSize: SmallWeight: 25kgAttitude: 0
+
+Mattis stats : Strength: 10Dexterity: 14Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: +2
+
+Mattis Passive Features : Hellish Resistance: Your blood protects you from flame, abyssal or otherwise. You have resistance to Fire and take only half damage from it. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: You can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: ResistantLightning: NormalPsychic: NormalPoison: Normal
+
+Mattis Notable Loot : N/A
+
+Mattis Notes and Tips : Notes & Tips  

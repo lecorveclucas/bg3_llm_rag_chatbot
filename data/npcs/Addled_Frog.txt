@@ -1,0 +1,19 @@
+Addled Frog : Addled Frog is an NPC in Baldur's Gate 3. Addled Frog can be found northern to Auntie Ethel's house, in the Sunlit Wetlands. Addled Frog is a surprisingly powerful frog, that dwells within the Wetlands. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Addled Frog : Can be found at: Act 1 Sunlit Wetlands  
+
+Addled Frog Related Quests : N/A  
+
+Addled Frog Dialogue Options : The Addled Frog can be found northern of Auntie Ethel's house. If you cast Speak with Animals, it warns you of Ethel's power. But if you talk to the frog after killing the hag, it will happily bounce back and forth and take you to a chest as a reward.  
+
+Addled Frog Stats : 
+
+Addled Frog General Information : Race: Frog (Beast)Health: 12AC: 22Base speed: 9mSize: TinyWeight: 1kgAttitude: 0
+
+Addled Frog stats : Strength: 3Dexterity: 16Constitution: 10Intelligence: 3Wisdom: 8Charisma:8 Proficiency Bonus: +2 Initiative: +3
+
+Addled Frog Conditions & Passive Features : Reflective Mucous: Armour Class increased by 2, and reflects the first projectile flying towards it back at the attacker, after which the mucous is removed. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Toxic Secretions: When an enemy makes a melee attack against the frog, they need to succeed on a Constitution saving throw, or succumb to Madness for two turns. Mad creatures lose control of themselves and become hostile to everyone around them. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: ResistantAcid: Resistant
+
+Addled Frog Notable Loot : N/A
+
+Addled Frog Notes and Tips : Notes & Tips  

@@ -1,0 +1,19 @@
+Stranded Fisher : Stranded Fisher is an NPC in Baldur's Gate 3. Stranded Fisher can be found at Ravaged Beach. Stranded Fisher can be found mind controlled by an Injured Mind Flayer. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Stranded Fisher : Can be found at: Act 1 Ravaged Beach  
+
+Stranded Fisher Related Quests : N/A  
+
+Stranded Fisher Dialogue Options : You can offer to help, and the man will tell you that the monster is this daughter. also, you can try to use a persuasion roll to convince them the mind flayer is clouding their minds. If you fail at persuading him, he and his two companions will turn hostile on you.
+
+Stranded Fisher Stats : 
+
+Stranded Fisher General Information : Race: HumanHealth: 5/8AC: 13Base speed: 9mSize: MediumWeight: 60kgAttitude: 0
+
+Stranded Fisher stats : Strength: 12Dexterity: 16Constitution: 12Intelligence: 12Wisdom: 14Charisma: 10 Proficiency Bonus: +2 Initiative: +3
+
+Stranded Fisher Passive Features : No longer in control of itself   Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Stranded Fisher Notable Loot : Grants 10 XP when defeated.
+
+Stranded Fisher Notes and Tips : If you manage to persuade the fishers to leave the Injured Mind Flayer, you will gain approval by Shadowheart and an inspiration point if you are a Folk Hero. You can then follow them to the beach to the south and kill them to gain experience (10xp each) and loot without gaining disapproval or losing your inspiration point.  

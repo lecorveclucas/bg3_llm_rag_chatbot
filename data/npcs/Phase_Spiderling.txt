@@ -1,0 +1,13 @@
+Phase Spiderling : Health: 6AC: 8Base Speed: 9m Location: Whispering Depths Phase Spiderling is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Phase Spiderling general information : Race: Phase Spider (Monstrosity)Health: 6AC: 8Base speed: 9mSize: TinyWeight: 0.5kgAttitude: 0  
+
+Phase Spiderling abilities : Strength: 6Dexterity: 8Constitution: 6Intelligence: 8Wisdom: 4Charisma: 4 Proficiency Bonus: +2.Initiative: +1   
+
+Phase Spiderling Resistances : Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Resistant  
+
+Phase Spiderling Attacks, Spells & Features : Ethereal Jaunt: Teleports the user to another location.Venomous Bite: Attacks with its jaws. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: Can see in the dark up to 12m. Web Walker: Isn't slowed down by web surfaces, and can't be Enwebbed by them.  
+
+Phase Spiderling Rewards : Experience: 3xp.Loot: N/A  
+
+Phase Spiderling Notes & Tips : Notes and tips go here    

@@ -1,0 +1,11 @@
+Gribbo : Gribbo is an NPC in Baldur's Gate 3. Gribbo can be found at Goblin Camp. Gribbo is a female goblin delighted by Volo's performance. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Gribbo Information: : Gribbo is carefully listening to Volo's performance at the entrance of the Goblin Camp. If you interrupt him during said performance, Gribbo will accuse you of "breaking" him taking Volo back to his cage.  
+
+Where to find Gribbo : Can be found at: Act 1.At the entrance of the Goblin Camp  
+
+Gribbo Quests : Rescue Volo  
+
+Gribbo Dialogue Options : When you see Gribbo at the Goblin Camp, she tells you not to bother her pigeon.  So I see. Do you have plans for this pigeon?.Does your bird have a name?.Leave. If you ask any questions, she will follow up with "Whats it to ya?" Your pet is actually a rather famous writer.I was admiring him. I'd like one of my own.I hate to see such a lovely creature in a cage. .Leave. As the conversation goes on, the symbol will start to glow and you will be presented with some checks:  I've taken a shine to this one. How much do you want for him?.[ILLITHID] [WISDOM] Set him free.[PERSUASION] He looks weak. Sick, even. He won't last long in there.[INTIMIDATION] I'm done talking. Open the cage or you'll be sorry. .[DETECT THOUGHTS] Read her thoughts.Leave. Choose a response and pass the associated check and she will give you the Cage Key to the "pigeon."  You can interact with Volo directly from here.   
+
+Gribbo Notes and Tips : Notes & Tips  

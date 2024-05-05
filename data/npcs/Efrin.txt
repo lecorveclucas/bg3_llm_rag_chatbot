@@ -1,0 +1,19 @@
+Efrin : Efrin is an NPC in Baldur's Gate 3. Efrin can be found at the Overgrown Tunnel, petrified by Auntie Ethel. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Efrin : Can be found at: Act 1 Overgrown Tunnel  
+
+Efrin Related Quests : N/A  
+
+Efrin Dialogue Options : Efrin is petrified when you first enter the gallery of the Overgrown Tunnel. If players decide to kill Auntie Ethel, he will turn back to normal again. Apparently, Efrin was petrified by the hag because he was dying from a mortal disease called Laduger's Bite. But if you manage to pass an Arcana check, you can reveal that he was actually sickened by Ethel herself. He will thank you and leave to reunite with his family.You can remove Efrin's Petrified status by throwing Basilisk Oil at him before dealing with Ethel. In the pre-release, he flees the Overgrown Tunnel without providing a dialogue option.However, in the full release, if the Petrification is dispelled, Efrin screams in pain before expiring on the cave floor.(It is unknown if he appears later in the storyline.)  
+
+Efrin Stats : 
+
+Efrin General Information : Race: Gold DwarfHealth: 27AC: 15Base speed: 9mSize: MediumWeight: 50kgAttitude: 0
+
+Efrin stats : Strength: 14Dexterity: 12Constitution: 12Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: +1
+
+Efrin Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Efrin Notable Loot : x3 Gold.Scale Mail.Greataxe.Bottle
+
+Efrin Notes and Tips : Notes & Tips  

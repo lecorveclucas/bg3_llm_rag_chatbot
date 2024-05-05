@@ -1,0 +1,13 @@
+Gate Master Ri'zel : Health: __health__AC: __AC__Base Speed: __speed__ Location: Knights of the Shield Hideout Gate Master Ri'zel is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Gate Master Ri'zel general information : Race: GithyankiHealth: __health__AC: __ac__Base speed: __speed__Size: __size__Weight: __weight__Attitude: __attitude__    
+
+Gate Master Ri'zel abilities : Strength:Dexterity:Constitution:Intelligence:Wisdom:Charisma: Proficiency Bonus: ??.Initiative: ??   
+
+Gate Master Ri'zel Resistances : Slashing: ???Piercing: ???Bludgeoning: ???Fire: ???Lightning: ???Psychic: ???Poison: ???  
+
+Gate Master Ri'zel Attacks, Spells & Features : attack1.attac2.spell1.spell2  
+
+Gate Master Ri'zel Rewards : Experience: ????.Loot: ?????  
+
+Gate Master Ri'zel Notes & Tips : Notes and tips go here    

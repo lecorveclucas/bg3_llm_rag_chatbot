@@ -1,0 +1,19 @@
+Grukkoh : Grukkoh is an NPC and Enemies in Baldur's Gate 3. Grukkoh can be found at the Blighted Village. Grukkoh is a bugbear that is having relationships with Buthir, an ogre inside a barn. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Grukkoh : Can be found at: Act 1 Blighted Village  
+
+Grukkoh Related Quests : N/A  
+
+Grukkoh Dialogue Options : Grukkoh can be found at the Blighted Village, inside a barn alongside Buthir. Players can interact with the doors and decide to open them or leave them be. If players enter, they will inexorably end up fighting you. If Astarion is in your party, when you go to open the barn door, he will ask you to let him have the honor. Shadowheart will disapprove of you indulging him. After the fight, he will want to talk to you and ask you what you thought of it allAs of version 2.1 the entire scene involving Astarion and Shadowheart has been removed from the game entirely, and you simply open the door and start the dialogue immediately. Bards can pass a Persuasion (DC 15) check to solve this situation peacefully.  
+
+Grukkoh Stats : 
+
+Grukkoh General Information : Race: Bugbear (Humanoid)Health: 27AC: 14Base speed: 9mSize: MediumWeight: 60kgAttitude: 0
+
+Grukkoh stats : Strength: 15Dexterity: 14Constitution: 13Intelligence: 8Wisdom: 11Charisma: 9 Proficiency Bonus: +2 Initiative: +2
+
+Grukkoh Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Tenacity: When you miss an Attack, deal 1 Bludgeoning damage anyway. Darkvision: Can see in the dark up to 12m. Brute: Deals an extra 1d8 when attacking with a melee weapon. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Grukkoh Notable Loot : 25 XP
+
+Grukkoh Notes and Tips : Buthir hits hard but has a low AC; concentrate your attacks on her before dealing with the much weaker Grukkoh.There are a few small items scattered throughout the barn you find the lovers in, including some wine, gems, and a greatsword.If Astarion is in your party, when you go to open the barn door, he will ask you to let him have the honor. Shadowheart will disapprove of you indulging him. After the fight, he will want to talk to you and ask you what you thought of it all As of version 2.1 the entire scene involving Astarion and Shadowheart has been removed from the game entirely, and you simply open the door and start the dialogue immediately.  

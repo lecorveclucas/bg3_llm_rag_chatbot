@@ -1,0 +1,13 @@
+Kressa Bonedaughter : Health: 84AC: 15Base Speed: __speed__ Location: Mind Flayer Colony Kressa Bonedaughter is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Kressa Bonedaughter general information : Race: HumanHealth: 84AC: 15Base speed: __speed__Size: MediumWeight: 75kg    
+
+Kressa Bonedaughter abilities : Strength: 10Dexterity: 14Constitution 17:Intelligence: 19Wisdom: 14Charisma: 13 Initiative: +2   
+
+Kressa Bonedaughter Resistances : --  
+
+Kressa Bonedaughter Attacks, Spells & Features : Incubate Death.Fireball.Bone Chill.Misty Step.Shield  
+
+Kressa Bonedaughter Rewards : Experience: ????.Loot: Myrkulite Scourge  
+
+Kressa Bonedaughter Notes & Tips : Notes and tips go here    

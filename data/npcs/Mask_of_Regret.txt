@@ -1,0 +1,13 @@
+Mask of Regret : Health: 21AC: __AC__Base Speed: __speed__ Location: Overgrown Tunnel Mask of Regret is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+ Mask of Regret general information : Race: __race__.Health: 21.AC: __ac__.Base speed: __speed__.Size: __size__.Weight: __weight__  
+
+Mask of Regret abilities : Strength: __str__.Dexterity: __dex__.Constitution: __con__.Intelligence: __int__.Wisdom: __wis__.Charisma: __char__.Proficiency Bonus: ??.Initiative: ??   
+
+Mask of Regret Resistances : Slashing:Piercing:Bludgeoning:Fire:Cold:Poison:  
+
+Mask of Regret attacks & spells : Curse of Regret  
+
+Mask of Regret Rewards : Experience:50 Xp.Loot: Whispering Mask Leather Armour Club Studded Shield .Whispering Mask.Leather Armour.Club.Studded Shield  
+
+Mask of Regret Notes & Tips : Notes and tips go here.You can toggle "non-lethal attacks" ON from the passives, knocking the masks unconsicious and take off their masks. Mask of Regret might be the only one still sane (?) or atleast the only one able to remove her own mask and happy about Auntie's death, should you kill her.    

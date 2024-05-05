@@ -1,0 +1,25 @@
+Malus Thorm : Level 7  Malus Thorm is a Boss in Baldur's Gate 3 (BG3). BG3 Malus Thorm can be found in Healing House in Act 2. Bosses in BG3 are powerful enemies that have increased health and pose a bigger challenge for players.   
+
+Where to find Malus Thorm in BG3 : Act 2 House of Healing  
+
+BG3 Malus Thorm Quests : Find Arabella's Parents.Wake up Art Cullagh  
+
+BG3 Malus Thorm Dialogue Options : You’ll walk in on Malus Thorm teaching his nurses. He’ll bid you to come forward and feel free to take in his lessons as well. You will have the following options to respond, with possible minor differences based on Class: I don’t wish to study, only to lift the curse on this land.A student, yes. Do please enlighten me.You will stop this sick spectacle at once.What wrong has this man done to deserve such torture.Attack. All above dialogue options, excluding Attack obviously, will eventually lead to the below choices, again with possible differences based on Class. After his ode to Shar, he’ll offer to cure you too, to which you can respond with the following: [INVESTIGATION, DC 14] Examine the sisters and their implements. (Rogues will have advantage on this check).[RELIGION, DC 16] Recall what you know of Shar’s teachings. (Shadowheart: The Goddess has greater plans for me than to submit to your scalpels.).[PERSUASION, DC 16] The sisters aren’t ready. They’ll make me sick instead of curing me.Attack. A successful check on any of the above will lead to Malus pondering how to better train the nurses. If you have NOT read the book "Surgery and Physiology: A Sharran's Primer" found in the small room at the rear of the House of Healing (X: -199 Y: 78) you will have the following choices: [PERSUASION, DC 21] The sisters require a willing volunteer, a master of the art. - Outcome: Nurses kill Malus (Nurses will be neutral).[PERSUASION, DC 21] Why not have them hone their skills on each other? - Outcome: Malus orders nurses to kill each other.[ROGUE][PERSUASION, DC 21 + Advantage] Practice - that's how I got good with a blade. They should spar with each other. - Outcome: Malus orders nurses to kill each other.Attack. If you HAVE read the book "Surgery and Physiology: A Sharran's Primer" found in the small room at the rear of the House of Healing (X: -199 Y: 78) it will unlock a different conversation path: [INTIMIDATION, DC 18] I have read your treatise. Initiate the final lesson, or die by my hand. Outcome: Nurses kill Malus (Nurses will be neutral).[PERSUASION, DC 18] "Only with sacrifice is mastery gained." For the sisters to learn, you must submit. Outcome: Nurses kill Malus (Nurses will be neutral).[PERSUASION, DC 21] Why not have them hone their skills on each other? - Outcome: Malus orders nurses to kill each other. If you successfully persuade Malus to have the nurses turn on each other, he now wishes to acquaint you with Shar. There will be a final dialogue check, again, potentially different based on Class which all result in Malus killing himself, if successful: Shadowheart: [CLERIC] [DECEPTION, DC 21 + Advantage] You do me an honour, but I am not worthy. Show me the way of Shar - I beg of you. Sorcerer: [SORCERER] [DECEPTION, DC 21 + Advantage] My magic has blinded me - I see now that Shar is the only path. Show me how - I beg of you. Bard: [BARD] [PERSUASION, DC 21 + Advantage] I am not worthy! Please, show me how a mater works - I would be honoured. General/Default: [PERSUASION, DC 21]  I would rather acquaint myself - if you show me how.
+
+BG3 Malus Thorm Boss Guide : 
+
+Malus Thorm Boss Tips : The entire encounter can be skipped by dialogue checks to have Malus order the nurses to turn on each other then commit suicide, or persuading him to let the nurses kill him.
+
+Malus Thorm General Information : Race: UndeadHealth: 276AC: 18Base speed: Size: MediumWeight: 100 kgAttitude:
+
+Malus Thorm Passive Features : Magic Resistance Multiattack: Wounded Opportunity Attack Turn Resistance
+
+Malus Thorm Abilities : Strength: 14Dexterity: 18Constitution: 14Intelligence: 14Wisdom: 16Charisma: 8 Proficiency Bonus: DEX, WIS.Initiative: +4
+
+Attacks & Spells : attack1.attack2.spell1.spell2
+
+Malus Thorm Resistances : Slashing: ResistancePiercing: ResistanceBludgeoning: ResistanceFire: Resistance
+
+Malus Thorm Rewards : Exp: 280.Surgeon's Subjugation Amulet.Battered Lute.Alchemy Ingredients
+
+Notes and Tips : Notes and tips go here.??  

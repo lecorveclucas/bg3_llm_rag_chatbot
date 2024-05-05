@@ -1,0 +1,13 @@
+Devout Mezzka : Health: 12AC: __AC__Base Speed: __speed__ Location: Goblin Camp Devout Mezzka is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+ Devout Mezzka general information : Race: Goblin.Health: 12.AC: __ac__.Base speed: __speed__.Size: __size__.Weight: __weight__  
+
+Devout Mezzka abilities : Strength: __str__.Dexterity: __dex__.Constitution: __con__.Intelligence: __int__.Wisdom: __wis__.Charisma: __char__.Proficiency Bonus: ??.Initiative: ??   
+
+Devout Mezzka Resistances : Slashing: ???.Piercing: ???.Bludgeoning: ???.Fire: ???.Cold: ???.Poison: ???  
+
+Devout Mezzka attacks & spells : Main hand attack.Bless.Ray of Sickness.Cure Wounds  
+
+Devout Mezzka Rewards : Experience: 10 Xp.Loot: Crude Mace Scrapwood Shield x5 Gold Mug .Crude Mace.Scrapwood Shield.x5 Gold.Mug  
+
+Devout Mezzka Notes & Tips : Notes and tips go here    

@@ -1,0 +1,25 @@
+He Who Was : Level 6 He Who Was is a Boss in Baldur's Gate 3 (BG3). BG3 He Who Was can be found at Ruined Battlefield in Act 2. Bosses in BG3 are powerful enemies that have increased health and pose a bigger challenge for players.   
+
+Where to find He Who Was in BG3 : Act 2 Ruined Battlefield  
+
+BG3 He Who Was Quests : Punish the Wicked  
+
+BG3 He Who Was Dialogue Options : He who was tasks you to find Madeline's ledger in The Waning Moon. You can find it under a loose plank on the floor (x-223, y-78) after a perception check.Return to He Who Was, He'll then begin to channel Madeline's spirit onto him, and tasks you to have her undergo her trial and punish her if necessary. She'll reveal that the Dark Justiciar promised her she was just going to talk to her but instead had them stab each other to death. You'll have three choices next, all with Persuasion checks - have her stab herself (DC 14). call her a coward (DC 10), or placate her and say that it wasn't her fault (DC 10). Choosing the third option will result in a fight against He Who Was and his Raven.Punish Madeline satisfy him and reward you Raven Gloves, if you placate her you will have to fight He Who Was.
+
+BG3 He Who Was Boss Guide : 
+
+He Who Was Boss Tips : Insert boss tips here.
+
+He Who Was General Information : Race: Shader-Kai Gloom WeaverHealth: 98AC: 15Base speed: 9mSize: MediumWeight: Attitude:
+
+He Who Was Passive Features : Darkvision: You can see in the dark up to 12m. Extra Attack: Can make an additional free attack after making an unarmed or weapon attack. If you gain the Extra Attack feature from more than one class, they don't add together. Fey Ancestry: You have advantage on Saving Throws against being Charmed, and magic can't put you to sleep. Misty Presence: After taking damage this character may turn Invisible. Opportunity Attack: Automatically attack an enemy moving out of your reach. Burden of Time Aura: Beasts and Humanoids have disadvantage on Saving Throws while within 3m of this creature. Elves are unaffected by this temporal magic.
+
+He Who Was Abilities : Strength: 10Dexterity: 18Constitution: 12Intelligence: 16Wisdom: 14Charisma: 14 Proficiency Bonus: +2.Initiative: -
+
+Attacks & Spells : attack1.attack2.spell1.spell2
+
+He Who Was Resistances : Necrotic Resistance
+
+He Who Was Rewards : Raven Gloves.29 gold
+
+Notes and Tips : Notes and tips go here.??  

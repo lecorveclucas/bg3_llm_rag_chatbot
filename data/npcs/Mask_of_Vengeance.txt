@@ -1,0 +1,13 @@
+Mask of Vengeance : Health: 30AC: __AC__Base Speed: __speed__ Location: Overgrown Tunnel Mask of Vengeance is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+ Mask of Vengeance general information : Race: __race__.Health: 30.AC: __ac__.Base speed: __speed__.Size: __size__.Weight: __weight__  
+
+Mask of Vengeance abilities : Strength: __str__.Dexterity: __dex__.Constitution: __con__.Intelligence: __int__.Wisdom: __wis__.Charisma: __char__.Proficiency Bonus: ??.Initiative: ??   
+
+Mask of Vengeance Resistances : Slashing:Piercing:Bludgeoning:Fire:Cold:Poison:  
+
+Mask of Vengeance attacks & spells : Main hand attack: Attacks using the weapon equipped in the main hand.  
+
+Mask of Vengeance Rewards : Experience: 50 Xp.Loot: Studded Leather Armour Whispering Mask Warhammer .Studded Leather Armour.Whispering Mask.Warhammer  
+
+Mask of Vengeance Notes & Tips : Notes and tips go here    

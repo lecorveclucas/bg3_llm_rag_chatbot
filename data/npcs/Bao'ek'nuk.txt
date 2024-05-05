@@ -1,0 +1,13 @@
+Bao'ek'nuk : Health: 27AC: __AC__Base Speed: __speed__ Location: Goblin Camp Bao'ek'nuk is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+ Bao'ek'nuk general information : Race: Bugbear.Health: 27.AC: __ac__.Base speed: __speed__.Size: __size__.Weight: __weight__  
+
+Bao'ek'nuk abilities : Strength: __str__.Dexterity: __dex__.Constitution: __con__.Intelligence: __int__.Wisdom: __wis__.Charisma: __char__.Proficiency Bonus: ??.Initiative: ??   
+
+Bao'ek'nuk Resistances : Slashing: ???.Piercing: ???.Bludgeoning: ???.Fire: ???.Cold: ???.Poison: ???  
+
+Bao'ek'nuk attacks & spells : Main Hand Attack:.Throw Javelin  
+
+Bao'ek'nuk Rewards : Experience: 10 Xp.Loot: x5 Gold Skull .x5 Gold.Skull  
+
+Bao'ek'nuk Notes & Tips : Notes and tips go here    

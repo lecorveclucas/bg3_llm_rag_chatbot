@@ -1,0 +1,11 @@
+Arka : n/a Arka is an NPC in Baldur's Gate 3. Arka can be found at The Hollow. Arka is a green-skinned tiefling that can be found at the makeshift prison, wielding a crossbow.   
+
+Arka Information: : Arka can be found threatening a goblin prisoner with a crossbow. She blames the goblin for the death of her brother.  
+
+Where to find Arka : Can be found at: Act 1.The Hollow (Druid Grove)  
+
+Arka Quests : n/a  
+
+Arka Dialogue Options : Arka is holding Sazza prisoner at the Makeshift Prison in The Hollow and is threatening her with a crossbow. You can persuade her not to kill the goblin. Your reactions and dialogue here will involve Sazza. Shut up. Those words could be your last.Step between the crossbows and the goblin.Do nothing. If you choose to step in between, Gale will approve. She will then ask you to move. [INTIMIDATION] Lower the crossbow, r I'll deliver you right to your brother.[PERSUASION] No, shoot me. Should be easy, right?.[PERSUASION] This won't avenge Kanon. It won't change anything. .[DETECT THOUGHTS] Read the tiefling's thoughts.Step out of the way.  Succeed in an Intimidation check, this way you threaten to kill Arka.Prompt Arka to shoot you, this is a Persuasion check. Succeeding in doing so, Arka lowers the crossbow and after angrily venting she leaves.If you choose the 3rd option: Persuasion and succeed, Arka will agree with you.  Arka: Why do you care if a goblin lives or dies? Because she's not a practice target. She's a person. .If she dies, she'll take everything she knows to thegrave.A goblin prisoner. Her life isn't yours to take.Because vengeance eats people alive. you'll grant the goblins two victories this day.My reasons are my own. .[Bard] She still has a story to tell. One I want to hear. Give a soft answer and Lae'zel will disapprove, however, Shadowheart will approve. You can further choose to interact with     
+
+Arka Notes and Tips : Notes & Tips  Following the celebration and the refugee's farewell, she can be found dead on a cliff between the blighted village and the Goblin camp. If speak with dead is used on her body, the corpse will refuse to respond and the spell will end.  

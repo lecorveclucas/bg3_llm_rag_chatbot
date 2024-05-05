@@ -1,0 +1,19 @@
+Arabella : Arabella is an NPC in Baldur's Gate 3. During Act 1, Arabella can be found at the Emerald Grove, in the Druid Grove. She is being held prisoner by Kagha and her snake, Teela. Players can also meet her parents, Komira and Locke as they devise a way to retrieve her from the druids. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on. During Act 2, she can be found at the entrance to a cemetery, west of the Mason's Guild. After stealing the Druid's idol in Act 1, she has gained some degree of Druid spell powers. She was separated from her parents, however, and is willing to teach you a vine entangling spell (Arabella's Shadow Entangle which works only on Shadow and Undead creatures and can be cast once per long rest) in exchange for your help in finding them. 
+
+Where to find Arabella : Can be found at: Act 1 Emerald Grove, Druid Grove Act 2 Cursed Lands, cemetery entrance west of Mason's Guild -In this area, she is lost, looking for her parents. Check the house of healing to find her father. It is assumed that the mother is next to him, as the player's response is "I found your parents dead" after finding the father. The father can be talked to using speak to dead. Act 3 West side of the Lower City Sewers
+
+Arabella Related Quests : Save Arabella.Find Arabella's Parents  
+
+Arabella Dialogue Options : Arabella can be found at the Emerald Grove, inside the Druid Grove. She is held prisoner by Kagha, the Druid in charge during Halsin's absence. Apparently, Arabella attempted to steal the Idol of Silvanus, and got caught while doing it. Now, two things may happen: You manage to free Arabella, and she returns to her parents, ending the quest and receiving Komira's Locket.Arabella dies. Return to her parents outside to tell them the news. They will be devastated. The events of this interaction will also progress through the Save Arabella Quest. You can choose a response from the following: [NATURE] Don't druids cherish harmony? Jailing the girl disrupts nature's balance.[PESRUASION] Release her. I'll see that she stays out of trouble. .[DETECT THOUGHTS] Read Kagha's mind.Keep silent.Prepare to attack. If you try to persuade Kagha to release Arabella, she will listen, which will please Rath. He will commend you for speaking up for the girl. Lae'zel will disapprove of this response, while Shadowheart, Wyll, Karlach, and Gale will approve. If Arballa survives, you will be rewarded by her parents, Komira and Locke when you return to them and complete the quest: Save Arabella.If you choose to keep silent or hint at Arabella to run, Arabella will attempt to run away, this will cause Kagha's snake to bite her, killing her in the process. After this interaction, your journal for Save Arabella will be updated. If Arbella survives, the next time you encountered her again will be back near The Hollow where her parents, Locke and Komira are. Return to them to retrieve your reward, a Cherished Locket.  
+
+Arabella Stats : 
+
+Arabella General Information : Race: TieflingHealth: 5AC: 10Base speed: 9mSize: SmallWeight: 25kgAttitude: 0
+
+Arabella stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Arabella Passive Features : Hellish Resistance: Your blood protects you from flame, abyssal or otherwise. You have resistance to Fire and take only half damage from it. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: Can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Arabella Notable Loot : N/A
+
+Arabella Notes and Tips : Notes & Tips  

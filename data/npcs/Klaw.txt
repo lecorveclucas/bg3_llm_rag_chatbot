@@ -1,0 +1,13 @@
+Klaw : Health: 22AC: 11Base Speed: 12m Location: __location__ Klaw is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Klaw general information : Race: MonstrosityHealth: 26AC: 13Base speed: 12mSize: MediumWeight: 75kgAttitude: 0    
+
+Klaw abilities : Strength: 16Dexterity: 13Constitution: 13Intelligence: 7Wisdom: 11Charisma: 8 Proficiency Bonus: +2.Initiative: +1   
+
+Klaw Resistances : Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalCold: NormalPoison: Normal  
+
+Klaw attacks & spells : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction.   
+
+Klaw Rewards : Experience: ???.Loot: ???  
+
+Klaw Notes & Tips : Notes and tips go here    

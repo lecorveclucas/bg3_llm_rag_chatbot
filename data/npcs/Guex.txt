@@ -1,0 +1,19 @@
+Guex : Guex is an NPC in Baldur's Gate 3. Guex can be found at Druid Grove. Guex is a Tiefling trying to improve his sword skills to help fend off the goblin invaders. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Guex : Can be found at: Act 1 Druid Grove  
+
+Guex Related Quests : N/A  
+
+Guex Dialogue Options : When you meet Guex, he is training to become a better swordsman. You can help him with his training. Certain Classes, such as Fighter, you do not need to pass a check to aid him in his learning. All companions except Astarion give you approval if you properly teach Guex using (Athletics) or (Insight).Guex will reward you with a Battle Axe if you teach him properly.  
+
+Guex Stats : 
+
+Guex General Information : Race: Asmodeus TieflingHealth: 28AC: 17Base speed: 9mSize: MediumWeight: 60kgAttitude: 0
+
+Guex stats : Strength: 16Dexterity: 12Constitution: 15Intelligence: 10Wisdom: 10Charisma: 12 Proficiency Bonus: +2 Initiative: +1
+
+Guex Passive Features : Hellish Resistance: Your blood protects you from flame, abyssal or otherwise. You have resistance to Fire and take only half damage from it. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: You can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: ResistantLightning: NormalPsychic: NormalPoison: Normal
+
+Guex Notable Loot : N/A
+
+Guex Notes and Tips : Notes & Tips  

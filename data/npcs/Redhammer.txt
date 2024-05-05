@@ -1,0 +1,19 @@
+Redhammer : Redhammer is an NPC in Baldur's Gate 3. Redhammer can be found at Flymm Cargo's Basement. Redhammer __shortdescription__. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Redhammer : Can be found at: Act 3 Flymm Cargo's Basement  
+
+Redhammer Related Quests : Avenge The Drowned.Save the Gondians  
+
+Redhammer Dialogue Options : ???  
+
+Redhammer Stats : 
+
+Redhammer General Information : Race: Gold DwarfHealth: 80AC: 15Base speed: ???Size: MediumWeight: 75kgAttitude: 0
+
+Redhammer stats : Strength: 18Dexterity: 12Constitution: 16Intelligence: 10Wisdom: 14Charisma: 12 Initiative: 1
+
+Redhammer Passive Features : Darkvision.Dwarven Resilience.Improved Extra Attack.Opportunity Attack Poison: Resistant
+
+Redhammer Notable Loot : ????
+
+Redhammer Notes and Tips : Notes & Tips  

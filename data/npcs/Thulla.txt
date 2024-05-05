@@ -1,0 +1,19 @@
+Thulla : Thulla is an NPC in Baldur's Gate 3. Thulla can be found at the Ebonlake Grotto, in the Underdark. Thulla is a poisoned Deep Gnome that is being protected by the Myconids.  There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Thulla : Can be found at: Act 1 Ebonlake Grotto, Underdark  Act 3 (If healed in Act 1) Angleiron's Cellar
+
+Thulla Related Quests : Cure the Poisoned Gnome.Find the Missing Boots.Save the Grymforge Gnomes  
+
+Thulla Dialogue Options : When first met, Thulla is near Spaw's locations, and suffering because she is poisoned. This will record the events for the Cure the Poisoned Gnome journal. (Note: This needs to be completed before completing Defeat the Duergar Intruders and saving other Gnomes otherwise players might encounter her too late.) Players may heal her using an Antitoxin, Duergar Antidote or Minor Restoration. Once restored, she will tell you that she has stolen the Boots of Speed from a Duergar (Sergeant Thrinn), and offers them to you as a reward. She also asks you to help her kin, the Ironhand clan gnomes that are enslaved by the Duergar the Grymforge, thus starting the Save the Grymforge Gnomes quest. This interaction could inspire Karlach. Players can kill her or let her die from the poison to obtain the Boots of Speed from her, and head directly to Gekh Coal, who will point you to the Grymforge to return the boots to Sergeant Thrinn (the reward is either Bracing Band or Robust Chain Shirt).  Players can also take them from her before she dies.  It is also possible to heal her, after taking the boots from her. If you manage to save the Deep Gnomes at the end of the Save the Grymforge Gnomes quest, they will all appear here, at the myconic temple, next to Thulla.   Who did this to you?.How did you end up here?.Give her an antitoxin.[PERSUASION] You're in a bad way. I could end your suffering if you want.[INVESTIGATION] She's helpless. Check if she has anything worth taking.Leave.  If you ask her who did this, she will say it was Duergar.If you ask how she will say it was the Myconids. .If you give her the antitoxin, she will sit up.  You'll eventually have the option to try Medicine. If you try giving her medicine, you will be left with the original options again. Finally, you can instead attempt to give her the antitoxin and she will sit up. She will say that her kin need her and you can offer to help. You're in no condition to help anyone. .Take it easy and tell me what I can do.Focus on what I need. A reward, for starters.  If you offer to help, she will still offer to reward you. This will begin Save the Grymforge Gnomes.   
+
+Thulla Stats : 
+
+Thulla General Information : Race: Deep GnomeHealth: 8AC: 11Base speed: 6mSize: SmallWeight: 35 Kg.Attitude: 0
+
+Thulla stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Thulla Passive Features : Superior Darkvision: You can see in the dark up to 24m. Gnome Cunning: You have advantage on Intelligence, Wisdom and Charisma saving throws. Shortened Stride: Your movement speed is 7.5m. The distance you can move per turn is -1.5m Stone Camouflage: You have advantage on Stealth checks.   Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Thulla Notable Loot : Boots of Speed
+
+Thulla Notes and Tips : Notes & Tips  

@@ -1,0 +1,25 @@
+Dror Ragzlin : True Soul of the Absolute Level 3 Dror Ragzlin is an NPC and potential Boss in Baldur's Gate 3 (BG3). BG3 Dror Ragzlin is one of the three leaders of the Goblins, alongside Minthara and True Soul Gut. Bosses in BG3 are powerful enemies that have increased health and pose a bigger challenge for players.   
+
+Where to find Dror Ragzlin in BG3 : Act 1.Shattered Sanctum  
+
+BG3 Dror Ragzlin Quests : Raid the Grove  
+
+BG3 Dror Ragzlin Dialogue Options : When first approached, Dror Ragzlin is trying to communicate with a dead mind flayer with little success. He turns to you and recognizes you as a True Soul. He tells you that this is your chance to talk to a dead Mind Flayer.  You can connect with the Mind Flayer to learn a few things, even by passing a few checks you can "influence" what questions Dror Ragzlin does to the dead creature. The Hobgoblin wants to ask the aberration who killed it.If you stay throughout the whole process without leaving, the mind flayer will reveal you as the attacker. You can still pass a check to avoid confrontation. After the scene ends, he will ask you to report to Minthara about joining the attack on the Druid Grove.You can decide to attack him right there, be ready to face him alongside all the goblin minions lurking around.   When prompted, you will be able to make your choice from the following: Study the corpse. Was this the mind flayer that tortured you?.I haven't made a habit of it. .What kind of ceremony is this?.Settle in to watch the proceedings. .Move in for the kill.Turn away from the rite.  Make your choice and the next scene will reflect. You can study the corpse and it will pan into the Mind Flayer. This will also update the journals for Discover the Artefact's Secrets. You can then let it continue, leave or attack him.  If you stay for the ceremony, there will be a chance for the Mind Flayer to recognize you during the interrogation.  Allow the hobgoblin to speak freely, lest he sense your intrusion.[WISDOM] Dig into RAgzlin's mind and control the interrogation.Attack the hobgoblin.Leave, before the mind flayer can identify you.  If you continue to stay, the mind flayer responds with memories. You will continue to be given the option to leave. If you continue to stay, he will eventually find out. You can respond with [PERSUASION] It's a mistake. I'm a True Soul, remember? We connected.[DETECT THOUGHTS] Cast Detect Thought on him. .Thrust yourself into his mind.Drop the ruse and attack.     
+
+BG3 Dror Ragzlin Boss Guide : 
+
+Dror Ragzlin Boss Tips : Dror Ragzlin is a powerful general that likes to get up close and personal with you, thanks to the massive damage he can inflict using the Faithbreaker. Try to prevent this at all costs. He casts Aura of Leadership, that boosts the damage nearby troops inflict. Be specially aware to not throw Dror Ragzlin into the bottomless pit, because you won't be able to retrieve his body. Eldritch Blast users pay extra attention to this.
+
+Dror Ragzlin General Information : Race: Hobgoblin (Humanoid)Health: 50AC: 11Base speed: 9mSize: MediumWeight: 50kgAttitude: 0
+
+Dror Ragzlin Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction.  Darkvision Martial Advantage: Once per turn, the hobgoblin can deal an extra 2d6 damage to a creature it hits with a weapon attack. The hobgoblin must have an ally who is within 2m of the target and isn't incapacitated.
+
+Dror Ragzlin Abilities : Strength: 18Dexterity: 12Constitution: 16Intelligence: 12Wisdom: 10Charisma: 15 Proficiency Bonus: +2.Initiative: +1
+
+Attacks & Spells : Aura of Leadership: Nearby allies deal an additional 1d4 Force damage, as long as the Hobgoblin isn't incapacitated.attack2.spell1.spell2
+
+Dror Ragzlin Resistances : Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalCold: NormalPoison: Normal
+
+Dror Ragzlin Rewards : Faithbreaker
+
+Notes and Tips : A possible easy way of dealing with Ragzlin is to push or throw all the goblins in the room into the Spider pit while a member of your group tanks Ragzlin.Notes and tips go here.??  

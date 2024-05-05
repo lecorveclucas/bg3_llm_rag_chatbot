@@ -1,0 +1,27 @@
+Withers : Withers is an NPC in Baldur's Gate 3. Withers can be found at Dank Crypt. Withers is a mysterious and terrifying Skeleton that joins your camp after you either first meet him or after a short while.  There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Respec a Character in Baldur's Gate 3 : In Baldur's Gate 3, you will be able to Respec your characters as many times as you want, as long as they have the required gold and have already added Withers to the Camp. Approach to him and select Respec among the services he provides. Withers will ask for 100 gold pieces for his service. The price of the service DOES NOT increase during the course of the game, nor if you use it frequently. Any character can interact with Withers to Respec, even your Companions, if they pay the asking price. Note that respecing a character does not change its interactions or Quests.  
+
+Hiring Hirelings in Baldur's Gate 3 : After Wither shows in camp. Not only does he inform you of his reviving and respecing capabilities. But a new feature he provides is the ability to pull in souls that would help your cause. In other words, Hirelings. Withers charges for this services with Gold (100).  
+
+How to unlock Withers? : Players must progress through the main storyline and reach the Dank Crypt. Players will encounter him as you progress through the Explore the Ruins Quests.Otherwise, Withers will also join the camp even if you haven't met him at the Dank Crypt, after progressing for a short while into the main storyline.  
+
+What happens if you Attack Withers? : Withers will not respond with hostility and you cannot engage in a combat with him. He will still meet you at the camp and provide you with his services including respeccing capabilities and will continue to provide you with Hirelings.   
+
+Where to find Withers : Can be found at: Act I Dank Crypt Act II Moonrise Towers (end of act II)    
+
+Withers Related Quests : Explore the Ruins   
+
+Withers Dialogue Options : You will find him inside a Richly Adorned Sarcophagus at Dank Crypt as you progress through Explore the Ruins. View the quest page if you are having trouble reaching Withers. Interact with the Sarcophagus to wake him up. This will begin a cutscene & dialogue. After he wakes up, you can interact with him. He will ask you, What is the worth of a single mortal's life? Quite the question. What's the reason for it? .So he has spoken'? What 'he' are you talking about?.Little spooked by the crawling out of the tomb but. What are you?.A peaceful undead. Interesting. Why aren't you attacking me?.Attack.  Choose any question option and he will circle back and ask if you will answer his previous question. .If you choose to Attack Withers, he will not engage in Combat and will still show up at Camp and provided you with his services.  You have the following responses available for his question:  Yes. Ask away. .I don't owe you answers.Attack.Leave. He will ask again. Finally, you can respond with the following: No one life is worth more than any other. We are all equal.That depends on a person's deeds.Life's only value is as currency. Doesn't matter to me otherwise.Each life is of infinite value and merits sacrificing everything for.The only life that matters is mine. .Depends on the mortal. .[Dark Urge two additional dialogue options] Mortals live to die. To be slaughtered. Mine seems worth little, as my blood calls me to harm others. .Mortals live to die. To be slaughtered.Mine seems worth little, as my blood calls me to harm others.[Racial] (The answer given here depends upon the player's race or subrace.) [Elf] Some mortals live much longer than others. I can't compare them. [Lolth-Sworn Drow] Life only has value where Lolth decrees it. .[Elf] Some mortals live much longer than others. I can't compare them.[Lolth-Sworn Drow] Life only has value where Lolth decrees it. There is no wrong answer here. After you respond, he will be satisfied with your answer and bid you farewell after stating that you will meet again. He will then walk away. You can choose to follow him and interact with him again to engage in a short dialogue. After this, he can be found later in the camp, where he provides a resurrection service for 200 GP along with his other services.   Though Withers will be more pleased with some responses more than others, there are no wrong answers during this interaction. .If you attempt to attack him, no Combat interaction will be triggered and it will not affect the outcome.   
+
+Withers Stats : 
+
+Withers General Information : Race: Skeleton (Undead)Health: 11AC: 10Base speed: 9mSize: MediumWeight: 50kgAttitude: 0
+
+Withers stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 18Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Withers Passive Features : N/A Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Withers Notable Loot : ???
+
+Withers Notes and Tips : You can attack Withers at the camp, and even when hit, you don't seem to deal damage to him.  

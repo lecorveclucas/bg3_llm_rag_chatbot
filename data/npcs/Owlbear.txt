@@ -1,0 +1,19 @@
+Owlbear : Owlbear is an NPC and Enemy in Baldur's Gate 3 (BG3). BG3 Owlbear resides at the Owlbear Nest, alongside its little Owlbear Cub. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Owlbear in BG3 : Can be found at: Act 1 Owlbear Nest  
+
+BG3 Owlbear Related Quests : N/A  
+
+BG3 Owlbear Dialogue Options : Players can interact with the Owlbear once inside the Owlbear Nest. She is very territorial, and asks you to leave. If you trespass her territory, she will immediately turn hostile.  
+
+BG3 Owlbear Stats : 
+
+Owlbear General Information : Race: BeastHealth: 73/81AC: 13Base speed: 18mSize: LargeWeight: 350kgAttitude: 0
+
+Owlbear stats : Strength: 20Dexterity: 12Constitution: 17Intelligence: 3Wisdom: 12Charisma: 7 Proficiency Bonus: +2 Initiative: +1
+
+Owlbear Passive Features : Attack of Opportunity:  Automatically attack an enemy moving out of your reach. This uses a Reaction.  Darkvision You can see in the dark up to 12m. Multiattack: Enraged: The Owlbear can make a multiattack while under the effects of Owlbear's Rage. Owlbear's Rage: The owlbear is enraged! Strength is increased by 2. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Owlbear Notable Loot : Head of a Broken Spear.25 XP
+
+Owlbear Notes and Tips : If you kill the Owlbear before killing the cub, the fight will end and you don't have to kill the cub.  

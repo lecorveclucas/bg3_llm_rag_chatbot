@@ -1,0 +1,13 @@
+Phase Spider : Health: 24AC: 13Base Speed: 9m Location: Whispering Depths Phase Spider is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Phase Spider general information : Race: Phase Spider (Monstrosity)Health: 24AC: 13Base speed: 9mSize: MediumWeight: 90kgAttitude: 0  
+
+Phase Spider abilities : Strength: 15Dexterity: 15Constitution: 12Intelligence: 6Wisdom: 10Charisma: 6 Proficiency Bonus: +2.Initiative: +2   
+
+Phase Spider Resistances : Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Resistant  
+
+Phase Spider Attacks, Spells & Features : Venomous Discharge: Shoots a venom missile that can damage multiple targets.Ethereal Jaunt: Teleports the user to another location.Venomous Bite: Attacks with its jaws. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: Can see in the dark up to 12m. Web Walker: Isn't slowed down by web surfaces, and can't be Enwebbed by them.  
+
+Phase Spider Rewards : Experience: 5xp.Loot: N/A  
+
+Phase Spider Notes & Tips : Take advantage of height, Spiders aren't immune to fall damage    

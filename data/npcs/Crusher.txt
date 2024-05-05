@@ -1,0 +1,19 @@
+Crusher : Crusher is an NPC in Baldur's Gate 3. Crusher can be found at Goblin Camp. Crusher attempts to intimidate players into submitting and belittling them during their interaction. It is up to you to decide to let him learn his place or not. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Crusher : Can be found at: Act 1 Goblin Camp  
+
+Crusher Related Quests : n/a  
+
+Crusher Dialogue Options : You can find Crusher at the Goblin Camp. Speak to him and you will have these options: Lot of assumptions here. I don't think I'm better than anyone else.I don't just think so; its a fact. You're nothing but dirt beneath my feet. .Leave.[ILLITHID] [WISDOM] I'm your superior. You'd better show some respect.  Choose the first one and he will say he has the Absolute on their side. He then demands you kiss his foot to know your place. Lae'zel suggests against it. You can't be serious.I'd sooner spit in your face.[INTIMIDATION] How about you kiss my feet instead?.Attack the goblin.  You can attempt to intimidate him and if you pass the check, he will back down but tell you to piss off. Lae'zel, Gale, Karlach and Shadowheart will approve.  Not so high and mighty, after all.[INTIMIDATION] You better kiss my foot. Now.[ILLITHID] [WISDOM] You will obey me. Kneel.[DETECT THOUGHTS] Scan his mind. .Leave. If you proceed without any checks, he will initiate combat. Hit him enough and he will yield. You can continue your interaction. I think my point's been made. Come on, I'll help you up.Now. You should kiss my feet.Ignore his pleading and prepare for the finishing blow. .Leave. If you make him kiss your feet, Astarion, Gale, Lae'zel, and Shadowheart will approve. Crusher will agree and do as you ask. Finally, you can Leave him groveling or laugh and continue to finish him off in combat. This will end your interaction.   
+
+Crusher Stats : 
+
+Crusher General Information : Race: ???Health: ???AC: ???Base speed: ???Size: ???Weight: ???Attitude: 0
+
+Crusher stats : Strength: ???Dexterity: ???Constitution: ???Intelligence: ???Wisdom: ???Charisma: ??? Proficiency Bonus: ??? Initiative: ???
+
+Crusher Passive Features : ??? Slashing: ????Piercing: ????Bludgeoning: ????Fire: ????Lightning: ????Psychic: ????Poison: ????
+
+Crusher Notable Loot : ????
+
+Crusher Notes and Tips : Notes & Tips  

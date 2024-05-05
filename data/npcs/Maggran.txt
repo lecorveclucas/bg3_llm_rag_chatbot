@@ -1,0 +1,15 @@
+Maggran : Maggran is an NPC in Baldur's Gate 3. Maggran can be found at Emerald Grove. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on. 
+
+Location : Act 1 Emerald Grove, Sacred Pool, X: 262, Y: 528 
+
+Related Quests : n/a n/a  
+
+Stats : 
+
+General Information : Race: BearHealth: 19AC: 11Base speed: 0mSize: MediumWeight: 200 kgAttitude: n/a
+
+Abilities : Strength: 15Dexterity: 10Constitution: 14Intelligence: 16Wisdom: 10Charisma: 15
+
+Passive Features : Darkvision.Fey Ancestry.Opportunity Attack Wild Shape: Bear Slashing: nonePiercing: noneBludgeoning: noneFire: noneLightning: nonePsychic: nonePoison: none
+
+Notable Loot : TBD

@@ -1,0 +1,19 @@
+Rath : Rath is an NPC in Baldur's Gate 3. Rath can be found at Druid Grove. He is arguing with Kagha, trying to prevent her from imprisoning or killing Arabella. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Rath : Can be found at: Act 1 Druid Grove  
+
+Rath Related Quests : Remove the Parasite.Save Arabella  
+
+Rath Dialogue Options : You will meet Rath during your encounter with Kagha with Arabella captive. This interaction progresses the Save Arabella quest. If you saved Arabella during your interaction with Kagha, Rath says that you did the right thing. He's worried about how Kagha sees the Tieflings and he reveals that the real leader of the druids is the missing First Druid Halsin. You can then respond to him afterward. That Kagha seems dangerous.And if I hadn't spoken up? What would have happened?.I've heard theres' some sort of ritual going on.  You can tell him that you will look for Halsin.If you talk to him after siding with the Tieflings and killing Kagha, he tells you that the price of victory was too high.If you manage to bring back Halsin, Rath will give you the Rune of the Wolf, use it to reach the Hidden Vault and obtain Sorrow and Robe of Summer During Investigate Kagha, you can return to them in Emerald Grove to confront Kagha. Rath will be there. Olodan appears during your second interaction with Kagha after speaking with Zevlor. She tells your to tell Rath what is going on.  Take this letter, Rath. It will explain everything.Kagha's a Shdaow Druid. She means to convert the circle.Forget it, rat. You can explain it yourself.The Shadow Druids are taking over - the circle is overdue some change. As Rath goes against their plans, Olodan wants him burned away. You can intervene. [PERSUASION] The shadows won't save you - they'll corrupt you. Stop this, while you can.[DETECT THOUGHTS] Probe Kagha's mind.Take the grove. - I won't stand in your way. .You seem intent on forcing me to take. our life So be it.  If you choose persuasion and succeed, Kagha will see the truth in your words. Astarion will disapprove of this response. This will convince Kagha to turn against Olodan. This will update the journal for  Investigate Kagha and will complete Kill Kagha. This interaction will be followed by a battle against Olodan. You can speak to Kagha afterward to follow up on her thoughts. Rath will thank you for your course of action.    
+
+Rath Stats : 
+
+Rath General Information : Race: HumanHealth: 30AC: 12Base speed: 9mSize: MediumWeight: 60kgAttitude: 0
+
+Rath stats : Strength: 12Dexterity: 10Constitution: 14Intelligence: 12Wisdom: 18Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Rath Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Tenacity: When you miss an Attack, deal 1 Bludgeoning damage anyway. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Rath Notable Loot : Gold.Greatclub.Rune of the Wolf
+
+Rath Notes and Tips : Notes & Tips  

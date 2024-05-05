@@ -1,0 +1,19 @@
+Scratch : Scratch is an NPC in Baldur's Gate 3. Scratch can be found at Blighted Village. Scratch is a dog, waiting for his master to wake up. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Scratch : Can be found at: Act 1 Outside the Blighted Village   
+
+Scratch Related Quests : N/A  
+
+Scratch Dialogue Options : Scratch can be found protecting its master, unbeknownst to it that its master is already dead. You can convince it to follow you to your camp. There you can pet Scratch, and it can retrieve some items to you such as a Potion of Healing. Reach out to pet him.Sidestep him to get to the corpse.Shoo him away.  If you attempt to pet him he won't let you.  [ANIMAL HANDLING] Kneel - you mean no harm.[PERCEPTION] Peer at his collar.[INTIMIDATION] Stand down!.Leave. If you use Intimidation and pass the check, Scratch will stand down.  Take a closer look at him.Pet him.Leave If you choose to him pet him now, he will allow you.  Motion him to follow.Leave him to his sorrow. Ask him to come, and he will need more convincing.  Hold out your hand so he can follow your scent to camp.Leave him to his sorrow.  After this interaction, you can examine his master's body and his belongings. You can then find Scratch at the camp.  
+
+Scratch Stats : 
+
+Scratch General Information : Race: BeastHealth: 7AC: 14Base speed: 9mSize: MediumWeight: 35kgAttitude: 0 Carrying Capacity: 170 kg
+
+Scratch stats : Strength: 13Dexterity: 14Constitution: 12Intelligence: 3Wisdom: 12Charisma: 7 Saving Throw Bonus: STR +5.DEX +6.CON +5.INT 0.WIS +5.CHA +2
+
+Scratch Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Pack Tactics: Creature has advantage on attack rolls against a target if one of its allies is within 3m of the target and isn't incapacitated. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Scratch Notable Loot : N/A
+
+Scratch Notes and Tips : Throw a ball in his presence and he will fetch it, truly a good boy.The longer he is in your camp the more often he will bring you random things (including healing potions).  

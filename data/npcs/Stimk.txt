@@ -1,0 +1,19 @@
+Stimk : Stimk is an NPC in Baldur's Gate 3. Stimk can be found at the Goblin Camp. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Stimk : Can be found at: Act 1 Goblin Camp  
+
+Stimk Related Quests : n/a  
+
+Stimk Dialogue Options : You can find Stimk at the Goblin Camp drunk and asleep. If you wake him up you will have these options: [INTIMIDATION] Sleep is for the weak. I could have killed you where you lay. .[DECEPTION] Huh? I was sleeping with the rest of you. No idea who made that racket.[PERSUASION] Sorry - I thought you might need fresh drinks.[ILLITHID] [WISDOM] You dare speak to me like that? Go back to sleep.Attack. If you choose to try to deceive him and succeed, he will let it go and go back to sleep. If you fail your checks, a Battle will start.   
+
+Stimk Stats : 
+
+Stimk General Information : Race: ???Health: ???AC: ???Base speed: ???Size: ???Weight: ???Attitude: 0
+
+Stimk stats : Strength: ???Dexterity: ???Constitution: ???Intelligence: ???Wisdom: ???Charisma: ??? Proficiency Bonus: ??? Initiative: ???
+
+Stimk Passive Features : ??? Slashing: ????Piercing: ????Bludgeoning: ????Fire: ????Lightning: ????Psychic: ????Poison: ????
+
+Stimk Notable Loot : ????
+
+Stimk Notes and Tips : Notes & Tips  

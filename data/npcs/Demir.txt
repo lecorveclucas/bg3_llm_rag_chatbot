@@ -1,0 +1,19 @@
+Demir : Demir is an NPC in Baldur's Gate 3. Demir can be found at the entrance of the Sunlit Wetlands, alongside his brother Johl, and arguing with Auntie Ethel. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Demir : Can be found at: Act 1 Sunlit Wetlands  
+
+Demir Related Quests : Save Mayrina  
+
+Demir Dialogue Options : Demir can be found alongside Johl, his brother, arguing with Auntie Ethel at the entrance of the Sunlit Wetlands. They are accusing Ethel of the disappearance of their sister, Mayrina. Depending on how the conversation goes, they can be killed instantly by Auntie Ethel, or when she disappears, they enter the Sunlit Wetlands, to meet the same fate, probably at the hands of the Redcaps. Your interactions will break down like this: Side with the Brothers: If you do this, Auntie Ethel will vanish and head into her teahouse, you can talk to the brothers who, if offered help, will refuse it and proceed to search for their sister on their own. This leads to their death.Don't get involved: Auntie Ethel will admonish you for not coming to her aid before killing both brothers with magic. She then teleports to her teahouse as above.If you side with Auntie Ethel, the brothers will attack you immediately. Your first options are the following:  How about you all just calm down. What's going on here? .Lower your weapon, I know this lady. .This is nothing to do with me. Goodbye.  Auntie Ethel will soon disappear and you will be left with Johl and Demir who ponder about what to do next and how to find their sister. Let me - I'll bring Mayrina home.you're on your own. I have enough problems. .I'm sorry. I wish you luck in finding her.  If you volunteer to help them by picking the first dialogue option both Lae'zel and Shadowheart will disapprove, and they will still decline your help. This will still progress through the quest: Save Mayrina  
+
+Demir Stats : 
+
+Demir General Information : Race: HumanHealth: 10AC: 9Base speed: 9mSize: MediumWeight: 50kgAttitude: 0
+
+Demir stats : Strength: 11Dexterity: 9Constitution: 12Intelligence: 10Wisdom: 8Charisma: 11 Proficiency Bonus: +2 Initiative: -1
+
+Demir Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Demir Notable Loot : x4 Gold.Cleaver.Baguette
+
+Demir Notes and Tips : Notes & Tips  

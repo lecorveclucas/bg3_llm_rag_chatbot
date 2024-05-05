@@ -1,0 +1,13 @@
+Barton :   Location: Refectory Barton is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot. He is part of a grave robbing band, consisting of nine other members (Gimblebock, Taman, Quelenna, Warryn, Andorn, Torgga, Haseid, Mari, and Cefrey). They are currently in the process of looting the Dank Crypt but aren't having much success.  
+
+Barton general information : Race: Human.Health: 10 || 12 || 19.AC: 13.Base speed: 9m.Size: Medium.Weight: 75kg.Attitude: 0  
+
+Barton Stats : Strength: 10Dexterity: 15Constitution: 10Intelligence: 11Wisdom: 10Charisma: 10 Proficiency Bonus: +4.Initiative: +2   
+
+Barton Resistances : Slashing: Normal.Piercing: Normal.Bludgeoning: Normal.Fire: Normal.Cold: Normal.Poison: Normal  
+
+Barton Attacks & spells : Ranged Attack.Throw  
+
+Barton Rewards : Experience: 15xp.Loot: Shortbow Alchemist's Fire Torch Basic Poison Gold .Shortbow.Alchemist's Fire.Torch.Basic Poison.Gold  
+
+Barton Notes & Tips : There's two oil barrels set near a cluster of the Grave Robbers. Igniting this with a flaming projectile can ignite this and easily damage or take out some of them, making combat a lot easier.    

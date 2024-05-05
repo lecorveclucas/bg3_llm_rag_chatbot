@@ -1,0 +1,21 @@
+Corsair Greymon : Novice of the AbsoluteLevel 4 Corsair Greymon is an NPC and Merchant in Baldur's Gate 3. Corsair Greymon can be found at Grymforge. Corsair Greymon can be first found patrolling the Ebon lake, before reaching the Grymforge. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Corsair Greymon : Can be found at: Act 1 Grymforge  
+
+Corsair Greymon Related Quests : Free True Soul Nere: If players side with Nere, Corsair Greymon will be an ally during the battle, if not, he will be hostile.  
+
+Corsair Greymon Dialogue Options : Corsair Greymon can be first found when sailing to the Grymforge. He and his crew will approach the player's boat and ask about Gekh Coal, the true owner of the vessel you are boarding. If players fail to convince him, they will face Greymon there. If not, he can be found near the digging site, where players can trade with him a few wares. When he boards your board he will ask where Gekh is and who you are. I seek the sergeant - I believe she's keen to get these boots back.[INTIMIDATION] In the name of the Absolute - you will let me pass. (10).[DECEPTION] I'm afraid Gekh is dead - he fell fighting the myconids. (15).Reach out to the duergar's parasite.[ATHLETICS] Push the duergar into the water. (15).Attack.  If you pass the Deception check and choose dialogue option 3, he will go with you to shore. A scene will follow.   
+
+Corsair Greymon Stats : 
+
+Corsair Greymon General Information : Race: DuergarHealth: 34AC: 12Base speed: 8mSize: MediumWeight: 50kgAttitude: 0
+
+Corsair Greymon stats : Strength: 19Dexterity: 12Constitution: 16Intelligence: 10Wisdom: 12Charisma: 14 Proficiency Bonus: +2 Initiative: +1
+
+Corsair Greymon Passive Features : Superior Darkvision: You can see in the dark up to 24m.Dwarven Resilience: You have advantage on saving throws against Poison, and you have resistance against Poison damage.Duergar Resilience: You have advantage on saving throws against illusions, and being charmed or paralyzed.Sunlight Sensitivity: While in sunlight, this creature has Disadvantage on attack rolls and Perception checks that rely on sight. Poison: Resistant
+
+Corsair Greymon Notable Loot : Greatclub +1
+
+Corsair Greymon Merchant Shop : If he isn't killed during the Ebonlake encounter, he will set up shop at the Grymforge's Digging Site.  
+
+Corsair Greymon Notes and Tips : Notes & Tips  

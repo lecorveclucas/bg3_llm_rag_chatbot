@@ -1,0 +1,19 @@
+Buthir : Buthir is an NPC and Enemy in Baldur's Gate 3. Buthir can be found at the Blighted Village, inside a barn with Grukkoh, a Bugbear. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Buthir : Can be found at: Act 1 Blighted Village  
+
+Buthir Related Quests : N/A  
+
+Buthir Dialogue Options : Buthir can be found at the Blighted Village, inside a barn alongside Grukkoh. Players can interact with the doors and decide to open them or leave them be. If you enter, you will have a chance to respond. If you are a Barbarian you can roll an intimidation check that requires a 15+ to succeed, which will have you laugh at the bugbear, and both the bugbear and ogre will leave. .If you are a Bard you can roll a persuasion check to end the social encounter without them trying to kill you and your party. 
+
+Buthir Stats : 
+
+Buthir General Information : Race: Ogre (Giant)Health: 41AC: 10Base speed: 6mSize: LargeWeight: 500kgAttitude: 0
+
+Buthir stats : Strength: 23Dexterity: 12Constitution: 16Intelligence: 5Wisdom: 7Charisma: 7 Proficiency Bonus: +2 Initiative: +1
+
+Buthir Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction.Darkvision: Can see in the dark up to 12m.Ogre's Mark: Damage is increased by 1d6 Conditions: Buthir's Wrath: Buthir is enraged! Strength increased by 4, Armour Class reduced by 2.  Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Buthir Notable Loot : 75 XP
+
+Buthir Notes and Tips : Notes & Tips  

@@ -1,0 +1,19 @@
+Gekh Coal : Duergar Slave-Hunter Gekh Coal is an NPC in Baldur's Gate 3. Gekh Coal can be found at Underdark, near the beach. Gekh Coal is a Duergar that is residing at the Decrepit Village in the Underdark, apparently looking for a Deep Gnome that escaped his grasp.  There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Gekh Coal : Can be found at: Act 1 Underdark  
+
+Gekh Coal Related Quests : Defeat the Duergar Intruders.Find the Missing Boots  
+
+Gekh Coal Dialogue Options : Once approached, Gekh Coal will attempt to attack you. If you manage to convince him to not do it, you will learn that he is looking for the Boots of Speed stolen by Thulla. You can tell him you have the pair (if you actually do), and he will tell you to take his vessel to head to the Grymforge to give the boots back to Sergeant Thrinn.On the other hand, if you have already visited Spaw at the Ebonlake Grotto, he should have given you the quest Defeat the Duergar Intruders in which tasks you to defeat Gekh Coal and his crew in order to complete it.If you head to his position alongside Glut, there will not be any kind of dialogue between you, and he will order his crew to attack you.If you continue to converse with him, you have the option to proceed with the quest: Find the Missing Boots   I could've killed you before you even noticed me, but didn't. Stand down.[RELIGION] Stand down - I'm a follower of the Absolute, just like you.[INTIMIDATION] Take your hand off that axe before you lose it.[PERSUASION] I can be discreet. No need for bloodshed.[FIGHTER] Fights tend to make quite a racket, if that's what you want to avoid.[ILLITHID] [WISDOM] Stand down. I am a True Soul.[BRANDED] Show him your brand.Attack him.Turn to leave.  If you succeed any of the skill checks, he will let you live and you can continue to converse with him. You get an additional dialogue option if you were branded at the Goblin Camp, allowing you to bypass the checks for a peaceful outcome. Ask him what he is doing and this will update the journal for Find the Missing Boots. It is up to you whether you want to help or not.  Got the boots right here.I'll help you.I don't work for free. I'm not helping a slave-cacher. .Your problems are your own - I'm leaving.  If you ask for a reward, he says to pick up the boots first, and then you can discuss your rewards.   
+
+Gekh Coal Stats : 
+
+Gekh Coal General Information : Race: DuergarHealth: 52AC: 13Base speed: 8mSize: MediumWeight: 50kgAttitude: 0
+
+Gekh Coal stats : Strength: 18Dexterity: 16Constitution: 14Intelligence: 14Wisdom: 12Charisma: 18 Proficiency Bonus: +3 Initiative: +3
+
+Gekh Coal Passive Features : Superior Darkvision: You can see in the dark up to 24m. Dwarven Resilience: You have advantage on saving throws against Poison, and you have resistance against Poison damage. Duergar Resilience: You have advantage on saving throws against illusions, and being charmed or paralyzed. Sunlight Sensitivity: While in sunlight, this creature has Disadvantage on attack rolls and Perception checks that rely on sight. Extra Attack: Can make an additional free attack after making a main hand attack. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Gekh Coal Notable Loot : Duergar Antidote.Scroll of Misty Step.Scroll of Ray of Sickness.Exterminator's Axe
+
+Gekh Coal Notes and Tips : Grants 60 XP when defeated.  

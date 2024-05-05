@@ -1,0 +1,13 @@
+Mask of Servitude : Health: 18AC: __AC__Base Speed: __speed__ Location: Overgrown Tunnel Mask of Servitude is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+ Mask of Servitude general information : Race: __race__.Health: 18.AC: __ac__.Base speed: __speed__.Size: __size__.Weight: __weight__  
+
+Mask of Servitude abilities : Strength: __str__.Dexterity: __dex__.Constitution: __con__.Intelligence: __int__.Wisdom: __wis__.Charisma: __char__.Proficiency Bonus: ??.Initiative: ??   
+
+Mask of Servitude Resistances : Slashing:Piercing:Bludgeoning:Fire:Cold:Poison:  
+
+Mask of Servitude attacks & spells : attack1.attac2.Boon of Servitude: Heals a friendly target.  
+
+Mask of Servitude Rewards : Experience: 50 XP.Loot: Faded Note x2 Heavy Stone x2 Poisonous Slime Bomb Whispering Mask .Faded Note.x2 Heavy Stone.x2 Poisonous Slime Bomb.Whispering Mask  
+
+Mask of Servitude Notes & Tips : Notes and tips go here    

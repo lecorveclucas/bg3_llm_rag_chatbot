@@ -1,0 +1,19 @@
+Gandrel : Gandrel is an NPC and Merchant in Baldur's Gate 3. Gandrel can be found near Auntie Ethel's house, in the Sunlit Wetlands. Gandrel is a Gur, a monster hunter that is looking for Astarion. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Gandrel : Can be found at: Act 1 Sunlit Wetlands  
+
+Gandrel Related Quests : The Pale Elf  
+
+Gandrel Dialogue Options : Gandrel is a Gur, a monster hunter that is looking to make a deal with Auntie Ethel, in order to find Astarion. Apparently, someone in Baldur's Gate, wants Astarion back alive.  If Gandrel is left alive, he might track Astarion to your camp, depending if you said that you know about Astarion, but you did not reveal where he was. Players can decide to leave him be in his search for Astarion, or even reveal Astarion if he is in your party. Note that if players don't reveal Astarion during this conversation, you won't be able to do it later on. Players can trade with Gandrel: he sells Arrow of Fire, Arrow of Acid, Potion of Healing and, obviously, Garlic.  
+
+Gandrel Stats : 
+
+Gandrel General Information : Race: HumanHealth: 73AC: 15Base speed: 9mSize: MediumWeight: 60kgAttitude: 0
+
+Gandrel stats : Strength: 16Dexterity: 18Constitution: 16Intelligence: 12Wisdom: 16Charisma: 10 Proficiency Bonus: +3 Initiative: +4
+
+Gandrel Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Hunter's Mark: When you attack your quarry, you deal an additional 1d6 Piercing Damage. Extra Attack: Can make an additional free attack after making a Main Hand Attack. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Gandrel Notable Loot : 60 XP.Gandrel's Aspiration.Dagger.Heavy Crossbow.x2 Torch.Leather Armour.Arrow of Acid.Arrow of Fire.Potion of Healing
+
+Gandrel Notes and Tips : Notes & Tips  

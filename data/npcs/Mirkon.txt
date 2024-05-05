@@ -1,0 +1,19 @@
+Mirkon : Mirkon is an NPC in Baldur's Gate 3. Mirkon can be found at Secluded Cove. At first, his name shows as Entranced Child and meeting him begins the Investigate the Beach quest. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Mirkon : Can be found at: Act 1 Secluded Cove  
+
+Mirkon Related Quests : Investigate the Beach  
+
+Mirkon Dialogue Options : You'll find Mirkon by the beach through the Emerald Grove at the Secluded Cove. He is entranced by a song.  I don't. hear anything. Come back to shore.Focus and try to hear what he hears.Leave.  If you try to listen, you will be charmed by the Harpy's song as well.  Close your eyes and listen to the song.[WISDOM] Struggle against the music's pull.  You can break free from the effects of the spell if you succeed in a Wisdom check (11). Either way, the battle with Harpies starts.After the battle is finished, if you ask him if he is alright, he will answer that you should go meet with Mol in Tiefling Hideout. He tells you to find Doni in order to get in. Doni can be found at The Hollow. When you meet Mirkon in Tiefling Hideout, he tells you that he wrote a story about you, which he offers as a reward for saving his life.You can also not find him fast enough, and he has sadly passed by the time you get there.  
+
+Mirkon Stats : 
+
+Mirkon General Information : Race: TieflingHealth: 5AC: 10Base speed: 9mSize: SmallWeight: 25kgAttitude: 0
+
+Mirkon stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Mirkon Passive Features : Hellish Resistance: Your blood protects you from flame, abyssal or otherwise. You have resistance to Fire and take only half damage from it. Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: Can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: ResistantLightning: NormalPsychic: NormalPoison: Normal
+
+Mirkon Notable Loot : N/A
+
+Mirkon Notes and Tips : Notes & Tips  

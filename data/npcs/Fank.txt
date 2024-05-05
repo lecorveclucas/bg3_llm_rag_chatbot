@@ -1,0 +1,19 @@
+Fank : Level 4 Fank is an NPC and potential Enemy in Baldur's Gate 3. Fank can be found at the Blighted Village. Fank is an ogre mercenary, working alongside Chock and Lump the Enlightened. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Fank : Can be found at: Act 1 Blighted Village  
+
+Fank Related Quests : N/A  
+
+Fank Dialogue Options : Players don't get to talk directly to Chock, only to Lump the Enlightened.  
+
+Fank Stats : 
+
+Fank General Information : Race: Ogre (Giant)Health: 59AC: 12Base speed: 12mSize: LargeWeight: 3500kgAttitude: 0
+
+Fank stats : Strength: 19Dexterity: 12Constitution: 16Intelligence: 5Wisdom: 7Charisma: 7 Proficiency Bonus: +2 Initiative: +1
+
+Fank Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Tenacity: When you miss an Attack, deal 1 Bludgeoning damage anyway. Darkvision: Can see in the dark up to 12m. Ogre's Mark: Damage is increased by 1d6 Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Fank Notable Loot : N/A
+
+Fank Notes and Tips : Notes & Tips  

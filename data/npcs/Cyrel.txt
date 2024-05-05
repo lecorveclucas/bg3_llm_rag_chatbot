@@ -1,0 +1,19 @@
+Cyrel : Cyrel is an NPC, Merchant and potential Enemy in Baldur's Gate 3. Cyrel can be found at the Tollhouse, in The Risen Road, alongside Anders and the rest of the group of adventurers. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Cyrel : Can be found at: Act 1 Inside the tollhouse at The Risen Road. She is in the room next to Anders.  
+
+Cyrel Related Quests : Hunt the Devil  
+
+Cyrel Dialogue Options : Cyrel is part of Anders' team, taking shelter at the tollhouse. She is also a trader and can trade with you as long as you don't turn hostile towards her team.   
+
+Cyrel Stats : 
+
+Cyrel General Information : Race: HumanHealth: 21AC: 10Base speed: 9mSize: MediumWeight: 60kgAttitude: 0
+
+Cyrel stats : Strength: 12Dexterity: 10Constitution: 10Intelligence: 16Wisdom: 12Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Cyrel Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Cyrel Notable Loot : Simple Robe.Dagger.x4 Scroll of Revivify.Scroll of Acid Arrow.Scroll of Mirror Image
+
+Cyrel Notes and Tips : Notes & Tips  

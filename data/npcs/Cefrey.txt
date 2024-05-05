@@ -1,0 +1,13 @@
+Cefrey : Cefrey is one of the Enemies in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot. She is seemingly the leader of a grave robbing band, consisting of nine other members (Gimblebock, Taman, Quelenna, Warryn, Andorn, Torgga, Haseid, Barton, and  Mari). They are currently in the process of looting the Dank Crypt but aren't having much success.  
+
+Cefrey General information : Race: Human.Health: 8 || 15.AC: 13.Base speed: 9m.Size: Medium.Weight: 75kg.Attitude: 0  
+
+Cefrey Stats : Strength: 10Dexterity: 10Constitution: 12Intelligence: 14Wisdom: 10Charisma: 10 Proficiency Bonus: +4.Initiative: -   
+
+Cefrey Resistances : Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalCold: NormalPoison: Normal  
+
+Cefrey Attacks & spells :  Fire Bolt  
+
+Cefrey Drops : Simple Robe.Quarterstaff.Scroll of Burning Hands.Random Scroll  
+
+Cefrey Notes & Tips : There's two oil barrels set near a cluster of the Grave Robbers. Igniting this with a flaming projectile can ignite this and easily damage or take out some of them, making combat a lot easier.    

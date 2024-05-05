@@ -1,0 +1,19 @@
+Us : Us is a temporary Companion and potentially later a summonable creature in Baldur's Gate 3. Us can be found in the Nautiloid near the beginning of the game and has to be freed from Myrnath. There is a massive amount of NPC's in Baldur's Gate 3, and their ideals, needs, and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party take on. 
+
+Where to find 'Us' : Can be found: in: Act 1 on: Nautiloid. Act 2  in: Mind Flayer Colony: Caged Up In The Morgue   
+
+Us Related Quests : Escape the Nautiloid  
+
+Us Dialogue Options : Your first interaction with Us is through Myrnath, in the second room of the Nautiloid during Escape the Nautiloid. Take the elevator on the left and interact with the dying elf. During the interaction, Us will be the one talking to you and asking for freedom. As you observe the brain you will have a few options [INVESTIGATION] Inspect the exposed brain.[STRENGTH] Break the skull.[DEXTERITY] Gently prise the brain from the skull.Destroy the brain.Leave. Choose to inspect the brain and they will give you an additional option: Medicine, which requires Wisdom. Narrator: *You notice oedema - a swelling of the brain causing pressure where it strains against the shell of the skull." [STRENGTH] Break the skull.[DEXTERITY] Gently prise the brain from the skull.[MEDICINE] Attempt a cerebral extraction, staying mindful of the swelling. .Destroy the brain.Leave. If you successfully Succeed a Strength, Dexterity, or Intelligence check to free it. After it is freed, you will still have to make the final decision to spare the brain or mutilate it.  [DEXTERITY] Mutilate the brain. Spare the creature - any injuries might weaken it. Spare it and it will serve as a temporary companion during the whole Nautiloid tutorial area. As soon as you land on the Ravaged Beach, Us won't be at your side anymore. Free Us from its cage in the Illithid Colony in Chapter 2 and you can summon it to your side in battle whenever you wish. .Spare it and it will serve as a temporary companion during the whole Nautiloid tutorial area. As soon as you land on the Ravaged Beach, Us won't be at your side anymore.Free Us from its cage in the Illithid Colony in Chapter 2 and you can summon it to your side in battle whenever you wish.If you attempt to mutilate it and fail, Us will be hostile as soon as it appears on-screen, and you won't be able to recruit it.
+
+Us Stats : 
+
+Us General Information : Race: AberrationHealth: 21AC: 12Base speed: 9mSize: SmallWeight: 20kgAttitude: 0 Darkvisiion Range: 12m.Initiative: +2 .Carrying Capacity: 100kg
+
+Us stats : Strength: 6Dexterity: 14Constitution: 13Intelligence: 12Wisdom: 11Charisma: 10 Proficiency Bonus: +2 Initiative: +2
+
+Us Notable Features : Blindsight (Passive): This creature can perceive its surroundings without relying on sight.Darkvision (Passive): Can see in the dark up to 12m.Opportunity Attack (Passive): Automatically attack an enemy moving out of your reach STR: -2.DEX: +2.CON: +1.INT: +1.WIS: 0.CHA: 0 Newborn: Gathering its bearings. Disadvantage on Attack Rolls, lowered Armour Class and hit points, and cannot take reactions.  Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Us Notable Loot : N/A
+
+Us Notes and Tips : Notes & Tips  If you attack a neutral Intellect Devourer after recruiting Us, both Us and the Intellect Devourer will immediately attack, presumably due to a collective consciousness.

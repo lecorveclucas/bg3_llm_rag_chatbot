@@ -1,0 +1,19 @@
+Johl : Johl is an NPC and potential Enemy in Baldur's Gate 3. Johl can be found at the entrance of Sunlit Wetlands. He is alongside Demir, his brother, arguing with Auntie Ethel. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Johl : Can be found at: Act 1 Sunlit Wetlands  
+
+Johl Related Quests : Save Mayrina  
+
+Johl Dialogue Options : Johl can be found alongisde Demir, his brother, arguing with Auntie Ethel at the entrance of the Sunlit Wetlands. They are acussing Ethel of the disappearance of their sister, Mayrina. Depending on how the conversation goes, they can be killed instantly by Auntie Ethel, or when she disappears, they enter the Sunlit Wetlands, to meet the same fate, probably at the hands of the Redcaps. If you are a Sorcerer or a Ranger, there are two options. There is an option to tell them to walk away from this situation and leave. However, they don't seem to do it, and if you confront Auntie Ethel about it, she states that they are Sussar Farm, near Baldur's Gate. The other option is to let you a more experienced adventurer take on the Hag, but Johl in his anger, states that he doesn't even know you and both take off only to be found dead near Ethel's house. If you side with Auntie Ethel, both Demir and Johl will turn hostile, and die by your hand. The dialogue will break down like this:  How about you all just calm down. What's going on here? .Lower your weapon, I know this lady. .This is nothing to do with me. Goodbye.  Auntie Ethel will soon disappear and you will be left with Johl and Demir who ponder about what to do next and how to find their sister. Let me - I'll bring Mayrina home.you're on your own. I have enough problems. .I'm sorry. I wish you luck in finding her.  If you volunteer to help them by picking the first dialogue option both Lae'zel and Shadowheart will disapprove, and they will still decline your help. This will still progress through the quest: Save Mayrina  
+
+Johl Stats : 
+
+Johl General Information : Race: HumanHealth: 9AC: 10Base speed: 9mSize: MediumWeight: 50kgAttitude: 0
+
+Johl stats : Strength: 12Dexterity: 11Constitution: 10Intelligence: 9Wisdom: 10Charisma: 9 Proficiency Bonus: +2 Initiative: -
+
+Johl Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Johl Notable Loot : Tattered Letter.Pitchfork.Hammer.Red Apple
+
+Johl Notes and Tips : Notes & Tips  

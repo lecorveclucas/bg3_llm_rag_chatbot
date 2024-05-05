@@ -1,0 +1,19 @@
+Nettie : Nettie is an NPC in Baldur's Gate 3. Nettie can be found at the Druids Chambers, inside the Druid Grove. Nettie is a healer in the druid hierarchy, and works alongside her master, Halsin. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Nettie : Can be found at: Act 1 Druid Grove (Druids' Chambers)  
+
+Nettie Related Quests : Remove the Parasite  
+
+Nettie Dialogue Options : Your interactions with Nettie will advance the Get Help from Healer Nettie quest. Dialogue Outcomes:  She will offer you a poison thorn if you prove she cannot trust you.If she offers the poison thorn and you allow it, she will poison you and you still have the choice to attack. You can pick up the cure for the poison. You can also leave the conversation and enter it again to get new options, these let you convince her to give you the antidote.If you refuse her suggestions, it could lead to Combat unless you successfully persuade or intimidate her.Killing her will give you an Arcane Circlet, which will open the stone door. .If she tells you the truth about the poison thorn, she will give you Wyvern Poison. Refuse to take it and she will turn hostile.  Dialogue Choices:  When you find Nettie in the Druids' Chambers, she is tending a bird. She tells you to wait for your turn, implying that for her any living being that requires attention is equally important. Is there anything I can do to help?.Wait patiently .Excuse me? I'm more important than some bird.Leave.  After this initial interaction, you can begin the rest of your dialogue and tell her what you need. If you tell her about your situation with the tadpole, and she looks at you. She then takes you to the Enclave Library, telling you about a Drow who had the same problem as you do. This interaction updates your journal for: Get Help from Healer Nettie She asks you to give her your arm to help with a cure. At this time, she can actually poison you because of fear you'd turn into a Mind Flayer or realize that you are a good person and won't do it. But instead, she will give you a Wyvern Poison and asks that you take it if you feel symptoms.  I thought you could cure me? What about that branch of yours?.I swear.All right. Hand it over.No. I'm not taking poison from a woman I can't trust.  If you eventually agree to the poison, Karlach and Astarion will disapprove while Lae'zel and Shadowheart will approve of your response.  She says she is unable to help you any further, but you should seek her master Halsin, who has been last seen with Aradin's group before he was lost to the goblins.  
+
+Nettie Stats : 
+
+Nettie General Information : Race: Gold DwarfHealth: 24AC: 11Base speed: 8mSize: MediumWeight: 65kgAttitude: 0
+
+Nettie stats : Strength: 10Dexterity: 12Constitution: 13Intelligence: 12Wisdom: 15Charisma: 11 Proficiency Bonus: +2 Initiative: +1
+
+Nettie Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: You can see in the dark up to 12m. Dwarven Resilience: You have advantage on saving throws against poison, and you have resistance against poison damage. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Resistant
+
+Nettie Notable Loot : Wyrvern Toxin.Elixir of Silvanus.Key of the Ancients.Arcane Circlet
+
+Nettie Notes and Tips : Notes & Tips  

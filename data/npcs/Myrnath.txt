@@ -1,0 +1,19 @@
+Myrnath : Myrnath is an NPC in Baldur's Gate 3. Myrnath is a dying high-elf on the Nautiloid with his brain exposed. He was infected with a parasite that led to an Intellect Devourer to take over his brain.    
+
+Where to find Myrnath : Can be found at: Act 1 Nautiloid  
+
+Myrnath Related Quests : Escape the Nautiloid  
+
+Myrnath Dialogue Options : You can choose between: Who am I talking to - a man or a brain? "A newborn. Born new from this husk" ."A newborn. Born new from this husk".I think you're past the point of saving. Tell me what to do. "Remove us from this body - from this case free us. Please!" Investigation [Skill Check: 10]: Inspect the exposed brain. If you are successful then you can use Medicine [Skill Check: 10] to attempt a cerebral extraction with advantage. Strength [Skill Check: 10]: Break the skull. Dexterity [Skill Check: 10]: Gently pry the brain from the skull. If you are successful in removing the brain from the skull, you can use Dexterity [Skill Check: 15] to mutilate the brain and add the aberration as a companion. If you fail this check, the aberration will turn hostile once freed. ."Remove us from this body - from this case free us. Please!".Investigation [Skill Check: 10]: Inspect the exposed brain. If you are successful then you can use Medicine [Skill Check: 10] to attempt a cerebral extraction with advantage. .If you are successful then you can use Medicine [Skill Check: 10] to attempt a cerebral extraction with advantage. .Strength [Skill Check: 10]: Break the skull. .Dexterity [Skill Check: 10]: Gently pry the brain from the skull.If you are successful in removing the brain from the skull, you can use Dexterity [Skill Check: 15] to mutilate the brain and add the aberration as a companion. If you fail this check, the aberration will turn hostile once freed.You sound afraid. Why? "The enemy. So many enemies." ."The enemy. So many enemies.".Destroy the brain.Leave  
+
+Myrnath Stats : 
+
+Myrnath General Information : Race: High ElfHealth: 8AC: 10Base speed: 9mSize: MediumWeight: 50kgAttitude: 0
+
+Myrnath stats : Strength: 10Dexterity: 10Constitution: 10Intelligence: 10Wisdom: 10Charisma: 10 Proficiency Bonus: +2 Initiative: -
+
+Myrnath Passive Features : Fey Ancestry: The Feywild casts a veil over your mind. You have advantage on saving throws against being Charmed, and magic can't put you to sleep. Darkvision: Can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Myrnath Notable Loot : N/A
+
+Myrnath Notes and Tips : If the intellect devourer is successfully pried from Myrnath's head, it will act as a companion until the end of the prologue.  

@@ -1,0 +1,19 @@
+Sazza : Sazza is an NPC in Baldur's Gate 3. Sazza can be found imprisoned at the Makeshift Prison, in the Druid Grove. Sazza has been captured by the Tieflings. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Sazza : Can be found at: Act 1 Makeshift Prison, Druid Grove  
+
+Sazza Related Quests : Remove the Parasite.Save the Goblin Sazza  
+
+Sazza Dialogue Options : Sazza is being held prisoner at the Makeshift Prison in The Hollow, and Arka, a Tiefling is threatening her with a crossbow. You can persuade her not to kill the goblin. Your reactions and dialogue here will involve Arka. Shut up. Those words could be your last.Step between the crossbows and the goblin.Do nothing. If you choose to step in between, Gale will approve. He will also have a story about a crossbow and a tavern once the conversation is complete, Arka will then ask you to move. [INTIMIDATION] Lower the crossbow, or I'll deliver you right to your brother.[PERSUASION] No, shoot me. Should be easy, right?.[PERSUASION] This won't avenge Kanon. It won't change anything. .[DETECT THOUGHTS] Read the tiefling's thoughts.Step out of the way.  If you choose the 3rd option: Persuasion and succeed, Arka will agree with you. If you choose the 4th option. Detect Thoughts and succeed you'll get the additional conversation option: What would Kanon think of you now? Picking this option also leads to Arka agreeing with you.  Arka: Why do you care if a goblin lives or dies? Because she's not a practice target. She's a person. .If she dies, she'll take everything she knows to the grave.A goblin prisoner. Her life isn't yours to take.Because vengeance eats people alive. You'll grant the goblins two victories this day.My reasons are my own.  Give a soft answer and Lae'zel and Wyll will disapprove, however, Shadowheart, Gale, and Karlach will approve. Talk to Sazza to learn about True Soul Gut, a powerful goblin priestess that according to Sazza could heal almost any ailment. This will update the Remove the Parasite quest. Speak to Sazza again and she will continue to respond with hostility.  I just saved your life. Show some gratitude.Who is this Absolute you're so fond of? Your god?  Eventually, she will urge you to let her out in exchange for a good word with her tribe. Deal. I'll get you out of there.Not a chance. You can rot in that cage.Leave. Agree to free Sazza and Lae'zel and Wyll will disapprove, however, Karlach will approve. Your interactions here will update your journal in: Find a Cure. Freeing her will give you an additional quest later on.  If you choose to free her, you can enter the Goblin Camp without having to deal with the guards, this gives you the quest Save the Goblin Sazza.Take her to Minthara, at the Shattered Sanctum, below the Goblin Camp, to finish the quest and earn the dagger Assassin's Touch   
+
+Sazza Stats : 
+
+Sazza General Information : Race: Goblin (Humanoid)Health: 9AC: 13Base speed: 9mSize: SmallWeight: 35kgAttitude: 0
+
+Sazza stats : Strength: 10Dexterity: 13Constitution: 10Intelligence: 10Wisdom: 8Charisma: 8 Proficiency Bonus: +2 Initiative: +1
+
+Sazza Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: You can see in the dark up to 12m. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Sazza Notable Loot : N/A
+
+Sazza Notes and Tips : Releasing/Sparing her at the Druid Grove, Goblin Camp, and Moonrise Towers will grant the achievement She Cannot Be Caged!  

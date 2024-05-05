@@ -1,0 +1,19 @@
+Ulma : Ulma is an NPC in Baldur's Gate 3. Ulma can be found at Rivington. Ulma is part of the Gur Camp, and depending on the dialogue choices you make, the quests The Pale Elf and Investigate Cazador's Palace will upgrade. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party have taken on.   
+
+Where to find Ulma : Can be found at: Act 3 Rivington  
+
+Ulma Related Quests : The Pale Elf  
+
+Ulma Dialogue Options : If you decide to pass through Rivington, look out for Urma at the Gur Camp. (X:93 Y:-18). You will witness an ongoing ceremony. These individuals are a tribe of Monster Hunters, similar to the ones encountered in Hag's Swamp. Ulma halts the ceremony to approach you. She discloses her search for Astarion and initiates a conversation: What's your interest in Astarion?.If you're looking to burn him on the pyre, I'm in favor.We're not interested in your affairs. Choose the first option, and Ulma explains that Astarion took their children during his last visit. However, she notes that circumstances have changed: Astarion severed ties with his master and the binding spell. Astarion adds his perspective, and you can reply: Yes, Astarion is free now.It was luck more than skill.Why do you care about this matter? Opt for the second choice, and Ulma acknowledges their misfortune. Despite their efforts to rescue the children from Cazador Szarr's well-guarded palace, they've been unsuccessful. Ulma speculates that if one of his offspring approached, he might believe he could control Astarion, thus allowing his entry. Astarion disputes this, knowing Cazador's merciless nature. He's convinced the children are deceased. You can interject with: We'll do our best to save them.You might be right, but it's worth trying.How can you be so certain, Astarion? Select the third option, prompting Astarion to explain his history of offering victims to his master over the past two centuries, resulting in their consumption on the same night. Ulma persists, urging you to rescue them or seek vengeance. Respond with: If Astarion won't assist, I will.Astarion owes them revenge at the very least.There's nothing more to discuss if we can't help. Choose the second option, leading Astarion to agree. This update progresses the quest The Pale Elf and Investigate Cazador's Palace. Open to your journal to view the update: Astarion met Ulma, the leader of a small tribe of monster hunters. She recognised Astarion as the one who stole their children for Cazador, but offered him a chance to redeem himself. Astarion agreed to help their children and kill Cazador.     
+
+Ulma Stats : 
+
+Ulma General Information : Race: HumanHealth: 88AC: 14Base speed: 9mSize: MediumWeight: 75kgAttitude: N/A
+
+Ulma stats : Strength: 20Dexterity: 11Constitution: 16Intelligence: 10Wisdom: 10Charisma: 14 Proficiency Bonus: N/A Initiative: 3
+
+Ulma Passive Features : Brutal Critical.Scar of the Sand Eclipse.Opportunity attack.Danger Sense.Unarmoured Defense.Feral Instinct.Scar of Fury.Fast Movement.Slay the Wicked.Scar of the Sirocco.Extra Attack None
+
+Ulma Notable Loot : The Undead Bane
+
+Ulma Notes and Tips : Notes & Tips  

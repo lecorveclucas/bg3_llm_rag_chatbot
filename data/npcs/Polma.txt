@@ -1,0 +1,13 @@
+Polma : Location: Defiled Temple Polma is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities. Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+ Polma general information : Race: Ogre (Giant).Health: 75.AC: 14.Base speed: 12m.Size: Large.Weight: 3500kg.Attitude 0  
+
+Polma abilities : Strength: 20Dexterity: 12Constitution: 16Intelligence: 8Wisdom: 8Charisma: 7 Proficiency Bonus: +2.Initiative: +1   
+
+Polma Resistances : Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalCold: NormalPoison: Normal  
+
+Polma attacks & spells : Tenacity.Attack of Opportunity.Throw: Throws the Javelin at the enemy.Main Hand Attack: Attacks with the equipped weapon on the main hand.Slam: Hits the target using both hands.Polma's Rage: When True Soul Gut is downed, Polma enters a rage state.  
+
+Polma Rewards : Experience: 50 Xp.Loot: 40 camp supplies  
+
+Polma Notes & Tips : Notes and tips go here    

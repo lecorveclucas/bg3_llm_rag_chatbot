@@ -1,0 +1,19 @@
+Owlbear Cub : Owlbear Cub is an NPC, potential Enemy and camp companion in Baldur's Gate 3. Owlbear Cub can be first found at the Owlbear Nest. It is accompanied by a massive and powerful Owlbear. If you make the right choices in the game, there is a chance to invite the cub back to the Camp with you. There is a massive amount of NPCs in Baldur's Gate 3, and their ideals, needs and way of living are strictly related to the actions they perform during the course of the game. Their attitude towards you and your party may be affected by the deeds and decisions you and your party taken on.   
+
+Where to find Owlbear Cub : Can be found at: Act 1 Owlbear Nest.Goblin Camp.Camp  
+
+Owlbear Cub Related Quests : N/A  
+
+Owlbear Cub Dialogue Options : Owlbear Cub can be first found with its mother, the Owlbear, at the Owlbear Nest. If players kill the mother, a choice will be presented on what to do with the cub. Killing it or sparing it. If you spare it, you will witness how the cub feeds on its dead mother.   If you have decided to spare the Cub, you will find it at the Goblin Camp, this time used as a chicken substitute for the game Chicken Run. Speak to Krolla to learn more about the game and find the cub. There will be a few ways to invite the cub to the camp.  Call the sport cruel, then convince Krolla to give the cub to you as a gift. .Convince the cub to attack Krolla and invite the cub to your camp. .Kill the goblins in the area and invite the cub to the camp.Accept the challenge and win.    If you choose the play and you can speak to the cub, you will have a few dialogue options [PERSUASION] The goblins are responsible for your pain. Kill them.Leave.  If you persuade the Owlbear to attack the goblins, Astarion will approve.  From here, you can tell him he's welcome at the camp. Shadowheart will approve of this gesture.    At your Camp, the Owlbear Cub will appear, ask you for supplies to eat, and then disappear into the wilderness. The Owlbear Cub can show up again, this time with a hurt paw. After helping the Owlbear with its paw, they will call you nice and make the camp its home.  
+
+Owlbear Cub Stats : 
+
+Owlbear Cub General Information : Race: BeastHealth: 29AC: 9Base speed: 9mSize: SmallWeight: 20kgAttitude: 0
+
+Owlbear Cub stats : Strength: 12Dexterity: 10Constitution: 11Intelligence: 3Wisdom: 10Charisma: 7 Proficiency Bonus: +2 Initiative: -
+
+Owlbear Cub Passive Features : Attack of Opportunity: Automatically attack an enemy moving out of your reach. This uses a Reaction. Darkvision: Can see in the dark up to 12m. Easily Frightened: When this creature is hit and badly damaged, it will flee for 2 turns. Slashing: NormalPiercing: NormalBludgeoning: NormalFire: NormalLightning: NormalPsychic: NormalPoison: Normal
+
+Owlbear Cub Notable Loot : 10 XP
+
+Owlbear Cub Notes and Tips : It appears the trigger for the Cub to come to Camp may be bugged. Many players have reported varying amounts of time for it to appear in Camp, with some reporting it never appears at all.  

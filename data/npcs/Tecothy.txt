@@ -1,0 +1,13 @@
+Tecothy : Health: 32AC: 14Base Speed:  Location: west of the Selûnite Outpost Tecothy is an Enemy in Baldur's Gate 3. Tecothy is a petrified Drow located in the Underdark, west of the Selûnite Outpost. In BG3, each type of Enemy has different attacks, resistances, and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot.   
+
+Tecothy general information : Race: DrowHealth: 32AC: 14Base speed: Size: MediumWeight: 75kg / 150lbs    
+
+Tecothy abilities : Strength: 10Dexterity: 16Constitution: 12Intelligence: 10Wisdom: 14Charisma: 10 Initiative: 3   
+
+Tecothy Resistances : --  
+
+Tecothy Attacks, Spells & Features : Darkvision.Fey Ancestry.Opportunity Attack.Sunlight Sensitivity  
+
+Tecothy Rewards : Diluted Oil of Sharpness.Drow Poison.Ruby Ring.Silver Necklace  
+
+Tecothy Notes & Tips : Notes and tips go here    

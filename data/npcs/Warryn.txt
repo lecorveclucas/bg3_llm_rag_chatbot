@@ -1,0 +1,13 @@
+Warryn : Health: 11/18/22AC: 11Base Speed: 12m Location: Chapel Entrance Warryn is an Enemy in Baldur's Gate 3. In BG3, each type of Enemy has different attacks, resistances and immunities.  Players must defeat Enemies to advance Quests, earn experience or obtain loot. he is part of a grave robbing band, consisting of nine other members (Gimblebock, Taman, Quelenna, Andorn, Torgga, Haseid, Barton, Mari, and Cefrey). They are currently in the process of looting the Dank Crypt but aren't having much success. 
+
+Warryn general information : Race: Gnome.Health: 11 || 18 || 22.AC: 11.Base speed: 12m.Size: Small.Weight: 35kg  
+
+Warryn abilities : Strength: 10.Dexterity: 12.Constitution: 13.Intelligence: 10.Wisdom: 9.Charisma: 10.Proficiency Bonus: +2.Initiative: -   
+
+Warryn Resistances : Slashing: Normal.Piercing: Normal.Bludgeoning: Normal.Fire: Normal.Cold: Normal.Poison: Normal  
+
+Warryn attacks & spells : Ranged Attack.Arrow of Acid  
+
+Warryn Rewards : Experience: 15xp.Loot: Leather Armor Shortbow Dagger Arrow of Acid (If unused in combat.a) Gold .Leather Armor.Shortbow.Dagger.Arrow of Acid (If unused in combat.a).Gold  
+
+Warryn Notes & Tips : Wears a bandana around his face, a clothing item exclusive to NPC's.    

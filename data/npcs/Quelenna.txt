@@ -1,0 +1,13 @@
+Quelenna : Health: 9/10/16AC: 10Base Speed: 12m Location: Chapel Entrance Quelenna is a potential Enemy in Baldur's Gate 3. She is one of Gimblebock's party in waiting in front of the Dank Crypt. Should you attack, or be attacked, by them she will lend her magic against you. She is part of a grave robbing band, consisting of nine other members (Gimblebock, Taman, Warryn, Andorn, Torgga, Haseid, Barton, Mari, and Cefrey). They are currently in the process of looting the Dank Crypt but aren't having much success. If you choose a peaceful option, she does not appear later in the game, despite the book on her suggesting a relationship with another character. 
+
+Quelenna General information : Race: High Elf.Health: 9 || 10 || 16.AC: 10.Base speed: 12m.Size: Medium.Weight: 50kg  
+
+Quelenna Stats : Strength: 9.Dexterity: 11.Constitution: 10.Intelligence: 14.Wisdom: 12.Charisma: 10.Proficiency Bonus: +2.Initiative: -   
+
+Quelenna Resistances : Slashing: Normal.Piercing: Normal.Bludgeoning: Normal.Fire: Normal.Lightning: Normal.Psychic: Normal.Poison: Normal  
+
+Attacks & spells : Sleep.Fire Bolt (1d6 fire damage)  
+
+Quelenna Rewards : Experience: 15xp.Loot: Talis: Divination without Magic Simple Robe Quarterstaff Scroll of Mage Armour Scroll of Shocking Grasp (Only in Balanced and above) Gold .Talis: Divination without Magic.Simple Robe.Quarterstaff.Scroll of Mage Armour.Scroll of Shocking Grasp (Only in Balanced and above).Gold  
+
+Quelenna Notes & Tips : Quelenna seems to be in a friendly relationship with someone named 'Alys.' While they aren't dating, Alys shows much interest in a possible romantic relationship with Quelenna, and asks that, when she returns, to confirm or deny any mutual feelings.    
