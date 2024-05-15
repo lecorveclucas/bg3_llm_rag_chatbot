@@ -96,8 +96,6 @@ def get_build_index(documents, llm, embed_model="local:BAAI/bge-small-en-v1.5", 
     breakpoint_percentile_threshold=95, 
     embed_model=embed_model)
 
-    paragraph_parser = 0 # To implement
-
     Settings.llm = llm
     Settings.embed_model = embed_model
     Settings.node_parser = semantic_splitter
