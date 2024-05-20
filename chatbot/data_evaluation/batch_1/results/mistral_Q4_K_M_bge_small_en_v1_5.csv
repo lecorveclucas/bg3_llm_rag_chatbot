@@ -1,0 +1,4 @@
+retriever_name,hit_rate,mrr,faithfulness,relevancy,correctness,answer_relevancy,nodes_nbr
+semantic_splitter_mistral_Q4_K_M_bge_small_en_v1_5,1.0,1.0,0.9,1.0,0.9,1.0,1
+token_splitter_512_mistral_Q4_K_M_bge_small_en_v1_5,1.0,0.75,1.0,1.0,0.8,1.0,1
+token_splitter_1024_mistral_Q4_K_M_bge_small_en_v1_5,1.0,1.0,1.0,1.0,0.8,0.9,1
